@@ -69,10 +69,33 @@ def cut2parents(llmResponse: str) :
 
 #cut cái response ở dạng string ra để lấy thông tin
 def cutGenTrace(llmResponse: str):
-    firstPar = llmResponse[(llmResponse.find("<res>") + 5):]
-    goalPar = firstPar[:firstPar.find("</res>")]
 
-    return traceStr2list(goalPar)
+    number = min(llmResponse.count("</res>"), llmResponse.count("<res>"))
+    
+    tempString = []
+    listOffstr = []
+
+    for integ in range(number):
+        tempString.append(str(integ))
+        listOffstr.append(str(integ))
+
+    tempString[0] = llmResponse[(llmResponse.find("<res>") + 5):]
+
+    for index in range(number) :
+        tmp = tempString[index]
+        listOffstr[index] = tmp[:tmp.find("</res>")]
+        
+        if index != number-1:
+            tempString[index+1] = tmp[(tmp.find("<res>") + 5 ):]
+
+    return listOffstr               #list of strings
+
+'''
+example_response = "<selection>[5, 11, 7, 3, 6, 4, 14, 8, 12, 10, 9, 13, 1, 2]</selection> <selection>[12, 7, 5, 11, 9, 14, 4, 8, 13, 2, 6, 1, 3, 10]</selection> <res>[6, 5, 11, 7, 3, 4, 14, 8, 12, 10, 9, 13, 1, 2, 11, 1]</res> <res>[5, 11, 7, 3, 6, 4, 14, 8, 12, 10, 9, 13, 1, 2, 8, 4]</res> <res>[6, 5, 11, 7, 3, 4, 14, 8, 12, 10, 9, 13, 1, 2, 7, 11]</res> <res>[6, 5, 11, 7, 3, 4, 14, 8, 12, 1, 9, 13, 10, 2, 11, 7]</res> <res>[5, 11, 7, 3, 6, 4, 14, 8, 12, 10, 9, 13, 1, 2, 13, 9]</res> <res>[5, 11, 7, 3, 6, 4, 14, 8, 12, 10, 9, 1, 13, 2, 11, 7]</res> <res>[5, 11, 7, 3, 6, 4, 14, 8, 12, 10, 9, 13, 1, 2, 11, 7]</res> <res>[5, 11, 7, 3, 6, 4, 14, 8, 12, 10, 9, 13, 1, 2, 8, 4]</res> <res>[6, 5, 11, 7, 3, 4, 14, 8, 12, 10, 9, 13, 1, 2, 11, 7]</res> <res>[5, 11, 7, 3, 6, 4, 14, 8, 12, 10, 9, 13, 1, 2, 7, 11]</res> <res>[5, 11, 7, 3, 6, 4, 14, 8, 12, 10, 9, 13, 1, 2, 13, 9]</res> <res>[5, 11, 7, 3, 6, 4, 14, 8, 12, 10, 9, 13, 1, 2, 7, 11]</res> <res>[6, 5, 11, 7, 3, 4, 14, 8, 12, 10, 9, 13, 1, 2, 13, 9]</res> <res>[5, 11, 7, 3, 6, 4, 14, 8, 12, 10, 9, 1, 13, 2, 11, 7]</res> <res>[5, 11, 7, 3, 6, 4, 14, 8, 12, 10, 9, 13, 1, 2, 8, 4]</res> <res>[5, 11, 7, 3, 6, 4, 14, 8, 12, 10, 9, 13, 1, 2, 11, 7]</res>"
+print(cutGenTrace(example_response))
+print(len(cutGenTrace(example_response)))
+'''
+
 
 
 #print(cut2tracelist("abcdef db <selection>{1, 3, 5, 4, 6, 9, 7 }</selection> See you tomorrow."))
@@ -123,3 +146,15 @@ def pool2examples(pool: list) :
 listA = randomFirstN(14, 4)
 print(pool2examples(listA))
 '''
+
+# transform StringList offstring to IndividualList:
+
+def transform(P_temp: list):
+    P_sharp = []
+    for per in P_temp:
+        newOff = traceStr2list(per)
+        newIndiv = Individual(newOff, objective_TSP(newOff))
+        P_sharp.append(newIndiv)
+    
+    return P_sharp
+
