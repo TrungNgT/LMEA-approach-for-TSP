@@ -22,12 +22,13 @@ def list2str() :
 
 # hàm này để dịch 1 cái trace được sinh ra từ LLM (ở dạng string) sang list int (thành 1 cái permutation các chỉ số của điểm trong đồ thị)
 def traceStr2list (trace: str) :
-    trace = trace.translate({ord('{'):None, ord('}'):None, ord(';'):',', ord('['):None, ord(']'):None})
+    global n
+    trace = trace.translate({ord('{'):None, ord('}'):None, ord(';'):',', ord('['):None, ord(']'):None, ord('\n'):None, ord('.'): ', ', ord('*'):None})
     L = trace.split(", ")
     for index in range(len(L)):
         L[index] = int(L[index])
 
-    return L 
+    return L[:n]
 
 #print(traceStr2list("{1, 3, 5, 4, 6, 9, 7 "))
 
@@ -72,12 +73,8 @@ def cutGenTrace(llmResponse: str):
 
     number = min(llmResponse.count("</res>"), llmResponse.count("<res>"))
     
-    tempString = []
-    listOffstr = []
-
-    for integ in range(number):
-        tempString.append(str(integ))
-        listOffstr.append(str(integ))
+    tempString = [str(integ) for integ in range(number)]
+    listOffstr = [str(integ) for integ in range(number)]
 
     tempString[0] = llmResponse[(llmResponse.find("<res>") + 5):]
 
@@ -119,13 +116,15 @@ def randomFirstN(n: int, N: int):
 # step 6 in the paper's paradism
 def updatePool(pool: list, newgenN: list, N: int):
 
-    for indiv in newgenN:
-        pool.append(indiv)
+    pool.extend(newgenN)
     
     pool.sort(reverse=True, key=compIndiv)
     L = len(pool)
 
-    return pool[(L-N):]
+    out_pool = pool[(L-N):]
+    pool.clear()
+
+    return out_pool
 
 '''
 listA = randomFirstN(14, 4)
@@ -156,5 +155,19 @@ def transform(P_temp: list):
         newIndiv = Individual(newOff, objective_TSP(newOff))
         P_sharp.append(newIndiv)
     
-    return P_sharp
+    return P_sharp                  #list Individuals
+
+def checkPermu(permuStr: str, n: int) :             
+    permu = traceStr2list(permuStr)   
+    if len(permu) != n:
+        return False
+    
+    else: 
+        for inte in range(1, n+1):
+            if (inte in permu) == False:
+                return False
+    
+    return True
+    
+
 

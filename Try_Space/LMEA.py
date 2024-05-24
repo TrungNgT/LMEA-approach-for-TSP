@@ -9,7 +9,7 @@ genai.configure(api_key='AIzaSyBZwke0Fjem-XcCn9fxn1ku5GtsyNS3GGM')
 
 model = genai.GenerativeModel(model_name='gemini-pro')
 
-chat = model.start_chat(history=[])
+#chat = model.start_chat(history=[])
 #----------------------------------------------------------------------------------------------------------------------------------
 
 description = 'You are given a list of points with coordinates: {' + list2str() + '}. Your task is to find a trace, with the shortest possible length, that trverses each point exactly once.\n'
@@ -28,29 +28,31 @@ task_instruction += 'Directly give me all the chosen traces at Step 1, bracketed
 
 Pool = randomFirstN(n, N)
 
-'''
+g = 1
+
 while g <= G :
 
     prompt = description + (in_context + pool2examples(Pool)) + task_instruction
 
     listOff = []
     while len(listOff) < N :
-        response = chat.send_message(prompt)
+        response = model.generate_content(prompt)
         newGen = cutGenTrace(response.text)
         for s in newGen:
-            listOff.append(s)
-        listOff.clear()
+            if checkPermu(s, n) :
+                listOff.append(s)
     P_sharp = transform(listOff[:N])
 
-    tem = updatePool(Pool, P_sharp, N)
-    Pool.clear()
-    Pool = tem
+    Pool = updatePool(Pool, P_sharp, N)
 
-'''
+    g += 1
+
+print(Pool[N-1])
+
 
 #-----------------------------------------------------------------------------------------------------------------------------------
 # Test space:
-
+'''
 prompt = description + (in_context + pool2examples(Pool)) + task_instruction
 
 listOff = []
@@ -59,13 +61,12 @@ while len(listOff) < N :
     newGen = cutGenTrace(response.text)
     for s in newGen:
         listOff.append(s)
-    listOff.clear()
 P_sharp = transform(listOff[:N])
 
 print(P_sharp)
 
-tem = updatePool(Pool, P_sharp, N)
-Pool.clear()
-Pool = tem
+Pool = updatePool(Pool, P_sharp, N)
+
 
 print(Pool)
+'''
