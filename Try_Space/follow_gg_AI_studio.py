@@ -3,7 +3,7 @@ from support import *
 import google.generativeai as genai
 
 
-genai.configure(api_key='AIzaSyBZwke0Fjem-XcCn9fxn1ku5GtsyNS3GGM')
+genai.configure(api_key='Your_API_key')
 
 def finding_0(X) :
     for x in str(X) :
