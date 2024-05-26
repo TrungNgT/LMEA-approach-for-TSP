@@ -5,7 +5,7 @@ from instance import *
 import google.generativeai as genai
 
 
-genai.configure(api_key='Your_API_key')
+genai.configure(api_key='AIzaSyBZwke0Fjem-XcCn9fxn1ku5GtsyNS3GGM')
 
 model = genai.GenerativeModel(model_name='gemini-pro')
 
@@ -37,7 +37,10 @@ while g <= G :
     listOff = []
     while len(listOff) < N :
         response = model.generate_content(prompt)
-        newGen = cutGenTrace(response.text)
+        try:
+            newGen = cutGenTrace(response.text)
+        except:
+            continue
         for s in newGen:
             if checkPermu(s, n) :
                 listOff.append(s)

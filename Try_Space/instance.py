@@ -1,6 +1,6 @@
 n = 14      #number of cities
 N = 16      #population / top_N
-G = 30       #number of generations
+G = 80       #number of generations
 
 class Point:
     def __new__(cls, *args, **kwargs):

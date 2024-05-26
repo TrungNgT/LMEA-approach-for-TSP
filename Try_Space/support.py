@@ -73,8 +73,12 @@ def cutGenTrace(llmResponse: str):
 
     number = min(llmResponse.count("</res>"), llmResponse.count("<res>"))
     
-    tempString = [str(integ) for integ in range(number)]
-    listOffstr = [str(integ) for integ in range(number)]
+    tempString = []
+    listOffstr = []
+
+    for inte in range(number) :
+        tempString.append(str(inte))
+        listOffstr.append(str(inte))
 
     tempString[0] = llmResponse[(llmResponse.find("<res>") + 5):]
 
@@ -157,16 +161,19 @@ def transform(P_temp: list):
     
     return P_sharp                  #list Individuals
 
-def checkPermu(permuStr: str, n: int) :             
-    permu = traceStr2list(permuStr)   
-    if len(permu) != n:
+def checkPermu(permuStr: str, n: int) : 
+    try :            
+        permu = traceStr2list(permuStr)
+
+        if len(permu) != n:
+            return False
+    
+        else: 
+            for inte in range(1, n+1):
+                if (inte in permu) == False:
+                    return False
+    except :
         return False
-    
-    else: 
-        for inte in range(1, n+1):
-            if (inte in permu) == False:
-                return False
-    
     return True
     
 
