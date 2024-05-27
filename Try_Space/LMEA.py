@@ -9,6 +9,8 @@ genai.configure(api_key='AIzaSyBZwke0Fjem-XcCn9fxn1ku5GtsyNS3GGM')
 
 model = genai.GenerativeModel(model_name='gemini-pro')
 
+
+
 #chat = model.start_chat(history=[])
 #----------------------------------------------------------------------------------------------------------------------------------
 
