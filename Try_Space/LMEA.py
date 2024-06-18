@@ -9,7 +9,7 @@ from instance import *
 import google.generativeai as genai
 
 
-genai.configure(api_key='_YOUR_API_KEY_',)
+genai.configure(api_key='AIzaSyBZwke0Fjem-XcCn9fxn1ku5GtsyNS3GGM')
 
 model = genai.GenerativeModel(model_name='gemini-pro')
 
