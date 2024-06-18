@@ -1,0 +1,153 @@
+Time for 1th call in generation 1 is:  51.41
+Total time for generation 1 is:  71.42
+Time for 2th call in generation 2 is:  46.82
+Time for 3th call in generation 2 is:  46.35
+Total time for generation 2 is:  133.19
+Time for 4th call in generation 3 is:  46.49
+Time for 5th call in generation 3 is:  46.88
+Total time for generation 3 is:  133.38
+Time for 6th call in generation 4 is:  45.52
+Total time for generation 4 is:  65.54
+Time for 7th call in generation 5 is:  49.47
+Time for 8th call in generation 5 is:  47.39
+Total time for generation 5 is:  136.88
+Time for 9th call in generation 6 is:  47.20
+Time for 10th call in generation 6 is:  40.68
+Total time for generation 6 is:  127.88
+Time for 11th call in generation 7 is:  50.62
+Total time for generation 7 is:  70.62
+Time for 12th call in generation 8 is:  45.97
+Time for 13th call in generation 8 is:  46.70
+Total time for generation 8 is:  132.69
+Time for 14th call in generation 9 is:  46.47
+Time for 15th call in generation 9 is:  46.94
+Total time for generation 9 is:  133.43
+Time for 16th call in generation 10 is:  47.92
+Time for 17th call in generation 10 is:  47.85
+Total time for generation 10 is:  135.77
+Time for 18th call in generation 11 is:  52.34
+Total time for generation 11 is:  72.35
+Time for 19th call in generation 12 is:  47.90
+Time for 20th call in generation 12 is:  46.66
+Total time for generation 12 is:  134.57
+Time for 21th call in generation 13 is:  47.34
+Time for 22th call in generation 13 is:  47.65
+Total time for generation 13 is:  135.00
+Time for 23th call in generation 14 is:  47.27
+Time for 24th call in generation 14 is:  43.75
+Total time for generation 14 is:  131.03
+Time for 25th call in generation 15 is:  46.87
+Time for 26th call in generation 15 is:  47.82
+Total time for generation 15 is:  134.72
+Time for 27th call in generation 16 is:  48.04
+Time for 28th call in generation 16 is:  47.83
+Total time for generation 16 is:  135.88
+Time for 29th call in generation 17 is:  46.77
+Time for 30th call in generation 17 is:  47.46
+Total time for generation 17 is:  134.24
+Time for 31th call in generation 18 is:  48.63
+Time for 32th call in generation 18 is:  48.76
+Total time for generation 18 is:  137.40
+Time for 33th call in generation 19 is:  47.72
+Time for 34th call in generation 19 is:  47.42
+Total time for generation 19 is:  135.15
+Time for 35th call in generation 20 is:  47.52
+Time for 36th call in generation 20 is:  47.84
+Total time for generation 20 is:  135.38
+Individual(trace=[14, 12, 6, 5, 10, 8, 3, 2, 11, 9, 1, 13, 7, 4], length=44.90753093262855)
+
+
+
+Time for 1th call in generation 1 is:  51.34
+Total time for generation 1 is:  51.34
+Time for 2th call in generation 2 is:  46.63
+Time for 3th call in generation 2 is:  44.53
+Total time for generation 2 is:  91.16
+Time for 4th call in generation 3 is:  46.29
+Time for 5th call in generation 3 is:  46.89
+Total time for generation 3 is:  93.20
+Time for 6th call in generation 4 is:  42.90
+Time for 7th call in generation 4 is:  45.16
+Total time for generation 4 is:  88.08
+Time for 8th call in generation 5 is:  46.65
+Time for 9th call in generation 5 is:  47.17
+Total time for generation 5 is:  93.82
+Time for 10th call in generation 6 is:  47.65
+Time for 11th call in generation 6 is:  48.66
+Total time for generation 6 is:  96.30
+Time for 12th call in generation 7 is:  46.62
+Time for 13th call in generation 7 is:  43.95
+Total time for generation 7 is:  90.57
+Time for 14th call in generation 8 is:  48.38
+Time for 15th call in generation 8 is:  46.94
+Total time for generation 8 is:  95.31
+Time for 16th call in generation 9 is:  47.60
+Time for 17th call in generation 9 is:  47.20
+Total time for generation 9 is:  94.82
+Time for 18th call in generation 10 is:  45.99
+Time for 19th call in generation 10 is:  47.85
+Total time for generation 10 is:  93.84
+Time for 20th call in generation 11 is:  37.71
+Time for 21th call in generation 11 is:  37.56
+Total time for generation 11 is:  75.28
+Time for 22th call in generation 12 is:  47.44
+Time for 23th call in generation 12 is:  47.48
+Total time for generation 12 is:  94.91
+Time for 24th call in generation 13 is:  48.74
+Time for 25th call in generation 13 is:  46.75
+Total time for generation 13 is:  95.49
+Time for 26th call in generation 14 is:  45.39
+Time for 27th call in generation 14 is:  47.66
+Total time for generation 14 is:  93.05
+Time for 28th call in generation 15 is:  46.58
+Time for 29th call in generation 15 is:  47.12
+Total time for generation 15 is:  93.71
+Time for 30th call in generation 16 is:  46.17
+Time for 31th call in generation 16 is:  24.93
+Total time for generation 16 is:  76.18
+Time for 32th call in generation 17 is:  48.44
+Time for 33th call in generation 17 is:  46.56
+Total time for generation 17 is:  95.00
+Time for 34th call in generation 18 is:  47.67
+Time for 35th call in generation 18 is:  47.71
+Total time for generation 18 is:  95.38
+Time for 36th call in generation 19 is:  47.56
+Time for 37th call in generation 19 is:  39.40
+Total time for generation 19 is:  86.97
+Time for 38th call in generation 20 is:  49.58
+Time for 39th call in generation 20 is:  46.38
+Total time for generation 20 is:  95.95
+Individual(trace=[9, 1, 8, 2, 6, 5, 13, 7, 14, 4, 12, 3, 11, 10], length=41.92489536010702)
+
+Time for 1th call in generation 1 is:  47.06
+Time for 2th call in generation 1 is:  45.32
+Total time for generation 1 is:  92.37
+Time for 3th call in generation 2 is:  46.35
+Time for 4th call in generation 2 is:  45.40
+Total time for generation 2 is:  91.75
+Time for 5th call in generation 3 is:  46.72
+Time for 6th call in generation 3 is:  44.94
+Total time for generation 3 is:  91.66
+Time for 7th call in generation 4 is:  8.31
+Time for 8th call in generation 4 is:  6.02
+Time for 9th call in generation 4 is:  45.62
+Time for 10th call in generation 4 is:  9.90
+Total time for generation 4 is:  135.64
+Time for 11th call in generation 5 is:  49.98
+Total time for generation 5 is:  49.98
+Time for 12th call in generation 6 is:  45.97
+Time for 13th call in generation 6 is:  46.74
+Total time for generation 6 is:  92.71
+Time for 14th call in generation 7 is:  48.09
+Total time for generation 7 is:  48.09
+Time for 15th call in generation 8 is:  46.25
+Time for 16th call in generation 8 is:  46.46
+Total time for generation 8 is:  92.71
+Time for 17th call in generation 9 is:  2.34
+Time for 18th call in generation 9 is:  45.98
+Time for 19th call in generation 9 is:  23.18
+Total time for generation 9 is:  106.00
+Time for 20th call in generation 10 is:  46.01
+Time for 21th call in generation 10 is:  46.85
+Total time for generation 10 is:  92.86
+Individual(trace=[8, 7, 9, 2, 12, 6, 5, 13, 14, 4, 3, 10, 1, 11], length=47.22277233965464)

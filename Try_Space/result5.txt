@@ -1,0 +1,319 @@
+# with adapt, N= 16, G = 60
+
+Time for 1th call in generation 1 is:  49.63
+Total time for generation 1 is:  49.63
+got stuck 1 time
+Time for 2th call in generation 2 is:  62.63
+Time for 3th call in generation 2 is:  62.25
+Time for 4th call in generation 2 is:  66.49
+Time for 5th call in generation 2 is:  62.02
+Time for 6th call in generation 2 is:  66.02
+Time for 7th call in generation 2 is:  61.91
+Time for 8th call in generation 2 is:  45.89
+Time for 9th call in generation 2 is:  62.33
+Time for 10th call in generation 2 is:  44.56
+Total time for generation 2 is:  534.12
+got stuck 2 time
+Time for 11th call in generation 3 is:  53.64
+Time for 12th call in generation 3 is:  44.36
+Total time for generation 3 is:  98.01
+no stuck
+Time for 13th call in generation 4 is:  62.41
+Time for 14th call in generation 4 is:  62.17
+Time for 15th call in generation 4 is:  59.96
+Time for 16th call in generation 4 is:  60.94
+Time for 17th call in generation 4 is:  66.34
+Time for 18th call in generation 4 is:  67.35
+Time for 19th call in generation 4 is:  61.57
+Time for 20th call in generation 4 is:  66.36
+Time for 21th call in generation 4 is:  62.15
+Time for 22th call in generation 4 is:  63.74
+Time for 23th call in generation 4 is:  67.18
+Time for 24th call in generation 4 is:  62.61
+Time for 25th call in generation 4 is:  62.77
+Time for 26th call in generation 4 is:  63.24
+Time for 27th call in generation 4 is:  62.74
+Time for 28th call in generation 4 is:  55.00
+Time for 29th call in generation 4 is:  65.85
+Time for 30th call in generation 4 is:  61.06
+Time for 31th call in generation 4 is:  45.89
+Total time for generation 4 is:  1179.35
+no stuck
+Time for 32th call in generation 5 is:  45.18
+Total time for generation 5 is:  45.18
+no stuck
+Time for 33th call in generation 6 is:  65.18
+Time for 34th call in generation 6 is:  64.42
+Time for 35th call in generation 6 is:  45.94
+Total time for generation 6 is:  175.54
+got stuck 1 time
+Time for 36th call in generation 7 is:  57.04
+Time for 37th call in generation 7 is:  45.90
+Total time for generation 7 is:  102.96
+no stuck
+Time for 38th call in generation 8 is:  55.26
+Time for 39th call in generation 8 is:  44.20
+Total time for generation 8 is:  99.46
+got stuck 1 time
+Time for 40th call in generation 9 is:  46.67
+Time for 41th call in generation 9 is:  46.01
+Total time for generation 9 is:  92.69
+got stuck 2 time
+Time for 42th call in generation 10 is:  43.75
+Time for 43th call in generation 10 is:  40.80
+Total time for generation 10 is:  84.55
+got stuck 3 time
+Time for 44th call in generation 11 is:  55.40
+Time for 45th call in generation 11 is:  45.13
+Total time for generation 11 is:  100.53
+got stuck 4 time
+Time for 46th call in generation 12 is:  62.98
+Time for 47th call in generation 12 is:  44.58
+Time for 48th call in generation 12 is:  40.98
+Total time for generation 12 is:  148.55
+got stuck 5 time
+Time for 49th call in generation 13 is:  46.21
+Total time for generation 13 is:  46.21
+got stuck 6 time
+Time for 50th call in generation 14 is:  45.70
+Time for 51th call in generation 14 is:  62.01
+Time for 52th call in generation 14 is:  44.50
+Total time for generation 14 is:  152.22
+got stuck 7 time
+Time for 53th call in generation 15 is:  62.24
+Time for 54th call in generation 15 is:  41.12
+Time for 55th call in generation 15 is:  45.61
+Total time for generation 15 is:  148.97
+got stuck 8 time
+Time for 56th call in generation 16 is:  42.86
+Time for 57th call in generation 16 is:  61.79
+Time for 58th call in generation 16 is:  41.40
+Total time for generation 16 is:  146.05
+got stuck 9 time
+Time for 59th call in generation 17 is:  45.15
+Time for 60th call in generation 17 is:  41.75
+Total time for generation 17 is:  86.90
+no stuck
+Time for 61th call in generation 18 is:  40.60
+Time for 62th call in generation 18 is:  41.08
+Total time for generation 18 is:  81.68
+no stuck
+Time for 63th call in generation 19 is:  41.44
+Time for 64th call in generation 19 is:  44.34
+Total time for generation 19 is:  85.78
+got stuck 1 time
+Time for 65th call in generation 20 is:  62.06
+Time for 66th call in generation 20 is:  56.10
+Time for 67th call in generation 20 is:  42.44
+Total time for generation 20 is:  160.61
+no stuck
+Time for 68th call in generation 21 is:  45.60
+Time for 69th call in generation 21 is:  41.70
+Total time for generation 21 is:  87.31
+no stuck
+Time for 70th call in generation 22 is:  40.93
+Time for 71th call in generation 22 is:  61.50
+Time for 72th call in generation 22 is:  41.09
+Total time for generation 22 is:  143.51
+no stuck
+Time for 73th call in generation 23 is:  42.72
+Time for 74th call in generation 23 is:  43.17
+Total time for generation 23 is:  85.89
+no stuck
+Time for 75th call in generation 24 is:  40.68
+Time for 76th call in generation 24 is:  41.63
+Total time for generation 24 is:  82.31
+got stuck 1 time
+Time for 77th call in generation 25 is:  62.23
+Time for 78th call in generation 25 is:  61.26
+Time for 79th call in generation 25 is:  42.37
+Time for 80th call in generation 25 is:  46.11
+Time for 81th call in generation 25 is:  66.48
+Time for 82th call in generation 25 is:  55.72
+Total time for generation 25 is:  334.19
+got stuck 2 time
+Time for 83th call in generation 26 is:  42.15
+Time for 84th call in generation 26 is:  41.24
+Total time for generation 26 is:  83.41
+no stuck
+Time for 85th call in generation 27 is:  44.49
+Time for 86th call in generation 27 is:  45.66
+Total time for generation 27 is:  90.14
+no stuck
+Time for 87th call in generation 28 is:  61.29
+Time for 88th call in generation 28 is:  45.25
+Time for 89th call in generation 28 is:  61.17
+Time for 90th call in generation 28 is:  41.60
+Total time for generation 28 is:  209.34
+got stuck 1 time
+Time for 91th call in generation 29 is:  61.24
+Time for 92th call in generation 29 is:  45.24
+Time for 93th call in generation 29 is:  44.43
+Total time for generation 29 is:  150.93
+got stuck 2 time
+Time for 94th call in generation 30 is:  61.93
+Time for 95th call in generation 30 is:  65.52
+Time for 96th call in generation 30 is:  47.92
+Time for 97th call in generation 30 is:  60.59
+Time for 98th call in generation 30 is:  56.62
+Time for 99th call in generation 30 is:  60.59
+Time for 100th call in generation 30 is:  45.61
+Total time for generation 30 is:  398.79
+got stuck 3 time
+Time for 101th call in generation 31 is:  43.77
+Time for 102th call in generation 31 is:  51.01
+Total time for generation 31 is:  94.77
+got stuck 4 time
+Time for 103th call in generation 32 is:  38.13
+Time for 104th call in generation 32 is:  55.72
+Total time for generation 32 is:  93.85
+got stuck 5 time
+Time for 105th call in generation 33 is:  42.44
+Time for 106th call in generation 33 is:  41.95
+Total time for generation 33 is:  84.39
+got stuck 6 time
+Time for 107th call in generation 34 is:  23.78
+Time for 108th call in generation 34 is:  41.85
+Total time for generation 34 is:  71.86
+got stuck 7 time
+Time for 109th call in generation 35 is:  41.50
+Time for 110th call in generation 35 is:  43.96
+Total time for generation 35 is:  85.46
+got stuck 8 time
+Time for 111th call in generation 36 is:  5.92
+Time for 112th call in generation 36 is:  2.48
+Time for 113th call in generation 36 is:  11.08
+Time for 114th call in generation 36 is:  3.47
+Time for 115th call in generation 36 is:  5.16
+Time for 116th call in generation 36 is:  5.29
+Time for 117th call in generation 36 is:  45.46
+Total time for generation 36 is:  225.50
+got stuck 9 time
+Time for 118th call in generation 37 is:  4.90
+Time for 119th call in generation 37 is:  4.29
+Time for 120th call in generation 37 is:  7.01
+Time for 121th call in generation 37 is:  4.06
+Time for 122th call in generation 37 is:  4.37
+Time for 123th call in generation 37 is:  5.21
+Time for 124th call in generation 37 is:  4.96
+Time for 125th call in generation 37 is:  4.63
+Time for 126th call in generation 37 is:  43.04
+Time for 127th call in generation 37 is:  3.89
+Time for 128th call in generation 37 is:  10.97
+Time for 129th call in generation 37 is:  11.40
+Time for 130th call in generation 37 is:  1.88
+Time for 131th call in generation 37 is:  44.58
+Total time for generation 37 is:  447.71
+no stuck
+Time for 132th call in generation 38 is:  43.94
+Time for 133th call in generation 38 is:  42.30
+Total time for generation 38 is:  86.23
+got stuck 1 time
+Time for 134th call in generation 39 is:  61.59
+Time for 135th call in generation 39 is:  60.85
+Time for 136th call in generation 39 is:  45.64
+Time for 137th call in generation 39 is:  55.88
+Time for 138th call in generation 39 is:  46.89
+Total time for generation 39 is:  270.85
+got stuck 2 time
+Time for 139th call in generation 40 is:  44.59
+Time for 140th call in generation 40 is:  39.14
+Total time for generation 40 is:  83.73
+got stuck 3 time
+Time for 141th call in generation 41 is:  44.83
+Time for 142th call in generation 41 is:  65.74
+Time for 143th call in generation 41 is:  54.06
+Time for 144th call in generation 41 is:  8.22
+Time for 145th call in generation 41 is:  44.43
+Total time for generation 41 is:  239.08
+got stuck 4 time
+Time for 146th call in generation 42 is:  53.70
+Time for 147th call in generation 42 is:  41.49
+Time for 148th call in generation 42 is:  54.59
+Total time for generation 42 is:  149.78
+got stuck 5 time
+Time for 149th call in generation 43 is:  39.38
+Time for 150th call in generation 43 is:  45.15
+Total time for generation 43 is:  84.53
+no stuck
+Time for 151th call in generation 44 is:  56.57
+Time for 152th call in generation 44 is:  66.35
+Time for 153th call in generation 44 is:  62.29
+Time for 154th call in generation 44 is:  47.99
+Total time for generation 44 is:  233.23
+got stuck 1 time
+Time for 155th call in generation 45 is:  45.10
+Total time for generation 45 is:  45.10
+got stuck 2 time
+Time for 156th call in generation 46 is:  45.59
+Total time for generation 46 is:  45.59
+got stuck 3 time
+Time for 157th call in generation 47 is:  66.56
+Time for 158th call in generation 47 is:  49.61
+Time for 159th call in generation 47 is:  43.54
+Time for 160th call in generation 47 is:  44.54
+Total time for generation 47 is:  204.27
+no stuck
+Time for 161th call in generation 48 is:  44.59
+Time for 162th call in generation 48 is:  66.74
+Time for 163th call in generation 48 is:  65.48
+Time for 164th call in generation 48 is:  44.46
+Total time for generation 48 is:  221.29
+got stuck 1 time
+Time for 165th call in generation 49 is:  62.55
+Time for 166th call in generation 49 is:  45.93
+Time for 167th call in generation 49 is:  68.27
+Time for 168th call in generation 49 is:  57.34
+Total time for generation 49 is:  234.08
+got stuck 2 time
+Time for 169th call in generation 50 is:  58.15
+Time for 170th call in generation 50 is:  57.54
+Time for 171th call in generation 50 is:  49.08
+Total time for generation 50 is:  164.76
+got stuck 3 time
+Time for 172th call in generation 51 is:  44.05
+Time for 173th call in generation 51 is:  66.90
+Time for 174th call in generation 51 is:  65.94
+Time for 175th call in generation 51 is:  57.12
+Time for 176th call in generation 51 is:  46.81
+Time for 177th call in generation 51 is:  63.67
+Time for 178th call in generation 51 is:  49.57
+Total time for generation 51 is:  394.05
+got stuck 4 time
+Time for 179th call in generation 52 is:  44.17
+Time for 180th call in generation 52 is:  56.91
+Time for 181th call in generation 52 is:  45.40
+Total time for generation 52 is:  146.50
+got stuck 5 time
+Time for 182th call in generation 53 is:  44.53
+Time for 183th call in generation 53 is:  44.93
+Total time for generation 53 is:  89.46
+no stuck
+Time for 184th call in generation 54 is:  45.54
+Time for 185th call in generation 54 is:  38.68
+Total time for generation 54 is:  84.24
+got stuck 1 time
+Time for 186th call in generation 55 is:  42.57
+Time for 187th call in generation 55 is:  46.77
+Total time for generation 55 is:  89.33
+got stuck 2 time
+Time for 188th call in generation 56 is:  44.90
+Time for 189th call in generation 56 is:  42.72
+Total time for generation 56 is:  87.62
+got stuck 3 time
+Time for 190th call in generation 57 is:  60.33
+Total time for generation 57 is:  60.33
+got stuck 4 time
+Time for 191th call in generation 58 is:  46.76
+Time for 192th call in generation 58 is:  49.47
+Total time for generation 58 is:  96.22
+got stuck 5 time
+Time for 193th call in generation 59 is:  49.38
+Total time for generation 59 is:  49.38
+got stuck 6 time
+Time for 194th call in generation 60 is:  63.05
+Time for 195th call in generation 60 is:  44.24
+Time for 196th call in generation 60 is:  42.96
+Total time for generation 60 is:  150.24
+got stuck 7 time
+Individual(trace=[10, 1, 2, 14, 12, 6, 5, 7, 13, 4, 3, 8, 11, 9], length=35.99528378221177)

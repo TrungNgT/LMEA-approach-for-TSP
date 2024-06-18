@@ -49,7 +49,7 @@ def Try(k: int):
 
             if k == n:
                 optimal = min(optimal, current_eval + edge_matr[u-1][solution[1]-1])
-                return
+                print(solution)
 
             else :
                 if (current_eval + (n-k+1)*min_dis <= optimal) :

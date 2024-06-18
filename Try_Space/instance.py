@@ -1,6 +1,13 @@
 n = 14      #number of cities
-N = 16      #population / top_N
-G = 120     #number of generations
+N = 40      #population 
+G = 100     #number of generations
+
+check_var = 0       # variable for checking local stuck
+
+
+demension_index = 3
+start_index = 8
+graph = []
 
 class Point:
     def __new__(cls, *args, **kwargs):
@@ -13,24 +20,48 @@ class Point:
     def __repr__(self) -> str:
         return f"{type(self).__name__}(x={self.x}, y={self.y})"
     
-p0 = Point(-1, -1)
-p1 = Point(16.47, 96.10)
-p2 = Point(16.47, 94.44) 
-p3 = Point(20.09, 92.54) 
-p4 = Point(22.39, 93.37) 
-p5 = Point(25.23, 97.24) 
-p6 = Point(22.00, 96.05)
-p7 = Point(20.47, 97.02) 
-p8 = Point(17.20, 96.29) 
-p9 = Point(16.30, 97.38) 
-p10 = Point(14.05, 98.12) 
-p11 = Point(16.53, 97.38)
-p12 = Point(21.52, 95.59) 
-p13 = Point(19.41, 97.13)
-p14 = Point(20.09, 94.55)
+graph.append(Point(-1, -1))
 
+with open('input.txt', 'r') as file:
+    lines = file.readlines()
 
-graph = [p0, p1, p2, p3, p4, p5, p6, p7, p8, p9, p10, p11, p12, p13, p14]
+    demension_line = lines[demension_index]
+    n = int(demension_line[demension_line.find(' '):])
+
+    for idx_line in range(start_index, start_index+n):
+
+        cur_line = lines[idx_line]
+        component = cur_line.split(' ')
+        
+        tt = 0
+        x = 0
+        y = 0
+
+        for c in component:
+            try:
+                if tt == 0 and c != '':
+                    tt = 1
+                else:
+                    if tt == 1:
+                        x = float(c)
+                        tt = 2
+                    else:
+                        if tt == 2:
+                            y = float(c)
+                            break
+            except:
+                continue
+
+        point_idx = Point(x, y)
+        graph.append(point_idx)
+
+        del cur_line
+
+import math
+
+def distance(A: Point, B: Point):
+    return math.sqrt((A.x - B.x)**2 + (A.y - B.y)**2)
+
 
 #print(graph[6].x)
 
@@ -47,5 +78,7 @@ class Individual:
     
 def compIndiv(indiv: Individual) :
     return indiv.length
+
+
 
 

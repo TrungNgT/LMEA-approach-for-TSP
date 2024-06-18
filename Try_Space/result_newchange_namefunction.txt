@@ -1,0 +1,158 @@
+got update!
+1th pairs of parents in generation 1:
+parent_1: Individual(trace=[14, 7, 9, 3, 12, 5, 6, 1, 10, 11, 2, 4, 8, 13], length=54.91758030410622), parent_2: Individual(trace=[11, 3, 1, 8, 5, 4, 12, 14, 7, 2, 6, 13, 9, 10], length=52.77995923731299)
+spent_time for this request: 10.448893070220947
+crossover of 1th parents in generation 1
+<Off1>[11, 7, 9, 3, 12, 5, 6, 1, 10, 11, 2, 4, 8, 13]</Off1>
+<Off2>[14, 3, 1, 7, 9, 3, 5, 6, 1, 2, 6, 13, 8, 10]</Off2>
+Explanations:
+- Parent1 = [14, 7, 9, 3, 12, 5, 6, 1, 10, 11, 2, 4, 8, 13]
+- Parent2 = [11, 3, 1, 8, 5, 4, 12, 14, 7, 2, 6, 13, 9, 10]
+- **(First Crossover Operator)**:
+    - Step 1: Select random crossover range in both 2 parents: (start=1, end=3)
+    - Step 2: Create offspring by exchanging the selected range: Off1=[11, 7, 9, 3, 12, 5, 6, 1, 10, 11, 2, 4, 8, 13]
+    - Offspring 1: [11, 7, 9, 3, 12, 5, 6, 1, 10, 11, 2, 4, 8, 13]
+    - Step 3: Determine the mapping relationship to legalize offspring: (mapping1={7: 7, 9: 9})
+    - Step 4: Legalize children with the mapping relationship: Off2=[14, 3, 1, 7, 9, 3, 5, 6, 1, 2, 6, 13, 8, 10]
+    - Offspring 2: [14, 3, 1, 7, 9, 3, 5, 6, 1, 2, 6, 13, 8, 10]
+------------------------------------------------------------------------------
+2th pairs of parents in generation 1:
+parent_1: Individual(trace=[11, 3, 1, 8, 5, 4, 12, 14, 7, 2, 6, 13, 9, 10], length=52.77995923731299), parent_2: Individual(trace=[8, 3, 14, 13, 9, 11, 10, 4, 1, 12, 5, 6, 2, 7], length=57.915822973811196)
+spent_time for this request: 7.990833044052124
+crossover of 2th parents in generation 1
+<Off1>[8, 3, 14, 13, 9, 11, 5, 4, 12, 1, 6, 7, 2, 10]</Off1>
+<Off2>[11, 3, 1, 8, 5, 4, 12, 10, 7, 2, 6, 13, 9, 14]</Off2>
+
+Explanations:
+1.  This is an example of the second Crossover operator.
+2. Selected random crossover range in both 2 parents: start=5, end=12.
+3. Created proto-child by inheriting the selected range from its parent: child1=[None, None, None, None, None, 5, 4, 12, 1, 6, None, None, None, None], child2=[None, None, None, None, None, 5, 4, 10, 7, 2, None, None, None, None].
+4. Filled in remaining positions in child1 with other cities in parent2: child1=[8, 3, 14, 13, 9, 5, 4, 12, 1, 6, 7, 2, 10]
+5. Filled in remaining positions in child2 with other cities in parent1: child2=[11, 3, 1, 8, 5, 4, 12, 10, 7, 2, 6, 13, 9, 14].
+------------------------------------------------------------------------------
+3th pairs of parents in generation 1:
+parent_1: Individual(trace=[14, 7, 9, 3, 12, 5, 6, 1, 10, 11, 2, 4, 8, 13], length=54.91758030410622), parent_2: Individual(trace=[3, 1, 11, 13, 7, 8, 9, 10, 6, 12, 5, 4, 2, 14], length=46.835854747402365)
+spent_time for this request: 7.777501583099365
+crossover of 3th parents in generation 1
+<Off1>[14, 7, 9, 3, 12, 5, 6, 11, 10, 13, 2, 4, 8, 1]</Off1>
+<Off2>[3, 1, 11, 7, 13, 5, 8, 10, 6, 14, 2, 4, 9, 12]</Off2>
+Explanations:
+Since we only need to use ONE of the provided 2 Crossover operators, we used the first one.
+
+{Step 1: Select random crossover range in both 2 parents: (start=5, end=8); Step 2: Create offspring by exchanging the selected range: (child1=[14, 7, 9, 3, 5, 11, 10, 13, 2, 4, 8, 1], child2=[3, 1, 11, 7, 13, 5, 8, 10, 6, 14, 2, 4, 9, 12]); Step 3: Determine the mapping relationship to legalize offspring: (mapping1={11: 11}, mapping2={11: 11}); Step 4: Legalize children with the mapping relationsip and receive 2 result offsprings as shown.}
+------------------------------------------------------------------------------
+4th pairs of parents in generation 1:
+parent_1: Individual(trace=[14, 7, 9, 3, 12, 5, 6, 1, 10, 11, 2, 4, 8, 13], length=54.91758030410622), parent_2: Individual(trace=[8, 3, 14, 13, 9, 11, 10, 4, 1, 12, 5, 6, 2, 7], length=57.915822973811196)
+spent_time for this request: 7.275197744369507
+crossover of 4th parents in generation 1
+<Off1>[14, 3, 9, 11, 10, 4, 1, 12, 5, 6, 2, 8, 7, 13]</Off1>
+<Off2>[8, 14, 7, 3, 12, 5, 6, 1, 10, 11, 2, 4, 13, 9]</Off2>
+Explanations:
+- I chose the first Crossover operator provided in the description.
+- Randomly selected crossover range in both 2 parents: (start=2, end=6).
+- The Offspring 1 is created by exchanging the selected range (Offspring 1=[14, 7, 9, 3, 12, 5, 6, 1, 10, 11, 2, 4, 8, 13]).
+- The Offspring 2 is created by exchanging the selected range (Offspring 2=[8, 3, 14, 13, 9, 11, 10, 4, 1, 12, 5, 6, 2, 7]).
+- There is no need to perform the Step 3 and Step 4 in the first Crossover operator provided, because the offspring 1 and 2 are in a legal trace.
+------------------------------------------------------------------------------
+5th pairs of parents in generation 1:
+parent_1: Individual(trace=[3, 1, 11, 13, 7, 8, 9, 10, 6, 12, 5, 4, 2, 14], length=46.835854747402365), parent_2: Individual(trace=[14, 7, 9, 3, 12, 5, 6, 1, 10, 11, 2, 4, 8, 13], length=54.91758030410622)
+spent_time for this request: 8.082743406295776
+crossover of 5th parents in generation 1
+<Off1>[7, 9, 3, 12, 5, 6, 1, 10, 13, 11, 2, 4, 8, 14]</Off1>
+<Off2>[3, 1, 13, 7, 9, 10, 6, 12, 5, 11, 2, 4, 8, 14]</Off2>
+ Explanations:
+- I use the second Crossover Operator since it is more efficient.
+- Step 1: Select random crossover range in both 2 parents: (start=2, end=5).
+- Step 2: Create proto-child by inheriting the selected range from its parent:
+  (child1=[None, None, 13, 7, 9, None, None, None, None, None, None, None, None, None], child2=[None, None, 6, 10, 5, None, None, None, None, None, None, None, None, None]).
+- Step 3: Fill in remaining positions in child1 with other cities in parent2: child1=[7, 9, 3, 12, 5, 6, 1, 10, 13, 11, 2, 4, 8, 14].
+- Step 4: Fill in remaining positions in child2 with other cities in parent1: child2=[3, 1, 13, 7, 9, 10, 6, 12, 5, 11, 2, 4, 8, 14].
+------------------------------------------------------------------------------
+6th pairs of parents in generation 1:
+parent_1: Individual(trace=[3, 1, 11, 13, 7, 8, 9, 10, 6, 12, 5, 4, 2, 14], length=46.835854747402365), parent_2: Individual(trace=[8, 3, 14, 13, 9, 11, 10, 4, 1, 12, 5, 6, 2, 7], length=57.915822973811196)
+spent_time for this request: 6.966996669769287
+crossover of 6th parents in generation 1
+<Off1>[3, 8, 14, 13, 9, 11, 10, 6, 12, 5, 4, 2, 1, 7]</Off1>
+<Off2>[8, 1, 11, 13, 7, 8, 9, 10, 6, 3, 5, 4, 2, 14]</Off2>
+
+Explanation:
+Using the first Crossover operator with:
+- parent1 = [3, 1, 11, 13, 7, 8, 9, 10, 6, 12, 5, 4, 2, 14],
+- parent2 = [8, 3, 14, 13, 9, 11, 10, 4, 1, 12, 5, 6, 2, 7]
+- selecting crossover range (start=2, end=4) in parent1, and (start=2, end=5) in parent2
+- Off1 = [3, 1, 11, 13, 7, 8, 9, 10, 6, 12, 5, 4, 2, 14]
+- Off2 = [8, 1, 11, 13, 7, 8, 9, 10, 6, 3, 5, 4, 2, 14]
+------------------------------------------------------------------------------
+7th pairs of parents in generation 1:
+parent_1: Individual(trace=[5, 10, 8, 4, 14, 12, 7, 2, 1, 9, 6, 11, 13, 3], length=60.62933330204778), parent_2: Individual(trace=[11, 3, 1, 8, 5, 4, 12, 14, 7, 2, 6, 13, 9, 10], length=52.77995923731299)
+spent_time for this request: 6.749194622039795
+crossover of 7th parents in generation 1
+<Off1> [5, 10, 8, 4, 14, 12, 7, 2, 1, 9, 6, 13, 11, 3] </Off1>
+<Off2> [11, 3, 1, 8, 5, 4, 12, 14, 7, 2, 6, 13, 9, 10] </Off2>
+**I used the first Crossover operator explained in the example to generate the 2 Offsprings as shown above**
+
+**Explanations**:
+{Step 1: Select random crossover range in both 2 parents: (start=1, end=3); Step 2: Create offspring by exchanging the selected range: (child1=[5, 10, 8, 14, 12, 7, 2, 1, 9, 6, 13, 11, 3], child2=[11, 3, 1, 12, 14, 7, 2, 6, 13, 9, 10]); Step 3: Determine the mapping relationship to legalize offspring: (mapping1={8: 12, 14: 14}, mapping2={12: 8, 14: 14}); Step 4: Legalize children with the mapping relationsip and receive 2 result offsprings as shown.}
+------------------------------------------------------------------------------
+8th pairs of parents in generation 1:
+parent_1: Individual(trace=[14, 7, 9, 3, 12, 5, 6, 1, 10, 11, 2, 4, 8, 13], length=54.91758030410622), parent_2: Individual(trace=[3, 1, 11, 13, 7, 8, 9, 10, 6, 12, 5, 4, 2, 14], length=46.835854747402365)
+spent_time for this request: 7.463979721069336
+crossover of 8th parents in generation 1
+<Off1>[6, 1, 11, 13, 7, 8, 9, 10, 3, 12, 5, 4, 14, 2]</Off1>
+<Off2>[3, 1, 7, 9, 12, 5, 6, 10, 11, 2, 4, 8, 13, 14]</Off2>
+
+Explanations:
+The second operator is used, as the following steps shown:
+1. Select random crossover range in both 2 parents: (start=3, end=10)
+2. Create proto-child by inheriting the selected range from its parent:
+(child1=[None, None, None, 9, 12, 5, 6, 10, 11, 2, None, None, None, None],
+child2=[None, None, None, 9, 12, 5, 6, 10, 11, 2, None, None, None, None])
+3. Fill in remaining positions in child1 with other cities in parent2:
+child1=[6, 1, 11, 13, 7, 8, 9, 10, 3, 12, 5, 4, 14, 2]
+4. Fill in remaining positions in child2 with other cities in parent1:
+child2=[3, 1, 7, 9, 12, 5, 6, 10, 11, 2, 4, 8, 13, 14]
+------------------------------------------------------------------------------
+9th pairs of parents in generation 1:
+parent_1: Individual(trace=[14, 7, 9, 3, 12, 5, 6, 1, 10, 11, 2, 4, 8, 13], length=54.91758030410622), parent_2: Individual(trace=[11, 3, 1, 8, 5, 4, 12, 14, 7, 2, 6, 13, 9, 10], length=52.77995923731299)
+------------------------------------------------------------------------------
+10th pairs of parents in generation 1:
+parent_1: Individual(trace=[14, 3, 4, 12, 2, 5, 13, 7, 1, 11, 8, 10, 6, 9], length=57.20867182393384), parent_2: Individual(trace=[10, 3, 11, 13, 4, 5, 7, 1, 6, 2, 12, 14, 9, 8], length=63.613442973224615)
+------------------------------------------------------------------------------
+11th pairs of parents in generation 1:
+parent_1: Individual(trace=[14, 7, 9, 3, 12, 5, 6, 1, 10, 11, 2, 4, 8, 13], length=54.91758030410622), parent_2: Individual(trace=[11, 3, 1, 8, 5, 4, 12, 14, 7, 2, 6, 13, 9, 10], length=52.77995923731299)
+------------------------------------------------------------------------------
+12th pairs of parents in generation 1:
+parent_1: Individual(trace=[11, 3, 1, 8, 5, 4, 12, 14, 7, 2, 6, 13, 9, 10], length=52.77995923731299), parent_2: Individual(trace=[8, 3, 14, 13, 9, 11, 10, 4, 1, 12, 5, 6, 2, 7], length=57.915822973811196)
+spent_time for this request: 5.816406965255737
+crossover of 12th parents in generation 1
+<Off1>[11, 3, 8, 5, 4, 12, 14, 7, 2, 1, 6, 13, 9, 10] - This child inherits the sequence [8, 5, 4, 12, 14, 7, 2] from parent1 (start=2, end=8), and the remaining cities are filled by the other cities in parent2.</Off1>
+
+<Off2>[8, 3, 1, 12, 5, 4, 14, 7, 11, 2, 6, 13, 9, 10] - This child inherits the sequence [1, 12, 5, 4, 14, 7, 11] from parent2 (start=4, end=10), and the remaining cities are filled by the other cities in parent1.</Off2>
+------------------------------------------------------------------------------
+13th pairs of parents in generation 1:
+parent_1: Individual(trace=[11, 3, 1, 8, 5, 4, 12, 14, 7, 2, 6, 13, 9, 10], length=52.77995923731299), parent_2: Individual(trace=[3, 1, 11, 13, 7, 8, 9, 10, 6, 12, 5, 4, 2, 14], length=46.835854747402365)
+------------------------------------------------------------------------------
+14th pairs of parents in generation 1:
+parent_1: Individual(trace=[14, 7, 9, 3, 12, 5, 6, 1, 10, 11, 2, 4, 8, 13], length=54.91758030410622), parent_2: Individual(trace=[3, 1, 11, 13, 7, 8, 9, 10, 6, 12, 5, 4, 2, 14], length=46.835854747402365)
+spent_time for this request: 6.037053346633911
+crossover of 14th parents in generation 1
+<Off1>[3, 1, 11, 13, 7, 9, 3, 12, 5, 6, 2, 4, 8, 14]</Off1> Explanations: 1. Randomly choose to use the first Crossover Operator; 2. Randomly select (start, end) from [2, 13) without replacing and get (start=2, end=8); 3. child1 is exchanged by parent1 from start to end; 4. child1 is legalized; 5. Get the result trace within <Off1> tags. <Off2>[14, 7, 9, 3, 12, 5, 6, 1, 10, 11, 2, 4, 8, 13]</Off2> Explanations: 1. Randomly choose to use the second Crossover Operator; 2. Randomly select (start, end) from [2, 13) without replacing and get (start=6, end=11); 3. child2 is inherited parent2 from start to end; 4. child2 is filled up with remaining cities; 5. Get the result trace within <Off2> tags.
+------------------------------------------------------------------------------
+15th pairs of parents in generation 1:
+parent_1: Individual(trace=[14, 7, 9, 3, 12, 5, 6, 1, 10, 11, 2, 4, 8, 13], length=54.91758030410622), parent_2: Individual(trace=[14, 3, 4, 12, 2, 5, 13, 7, 1, 11, 8, 10, 6, 9], length=57.20867182393384)
+------------------------------------------------------------------------------
+16th pairs of parents in generation 1:
+parent_1: Individual(trace=[8, 3, 14, 13, 9, 11, 10, 4, 1, 12, 5, 6, 2, 7], length=57.915822973811196), parent_2: Individual(trace=[3, 1, 11, 13, 7, 8, 9, 10, 6, 12, 5, 4, 2, 14], length=46.835854747402365)
+spent_time for this request: 7.883175611495972
+crossover of 16th parents in generation 1
+<Off1>[8, 1, 11, 13, 7, 8, 9, 10, 6, 12, 5, 4, 2, 14]</Off1>
+<Off2>[3, 1, 11, 13, 9, 11, 10, 4, 8, 12, 5, 6, 2, 7]</Off2>
+
+We apply the first Crossover Operator:
+1. Select random crossover range in both 2 parents: (start=2, end=4);
+2. Create offsprings by exchanging the selected range: (child1=[8, 1, 13, 9, 11, 10, 6, 12, 5, 4, 2, 14], child2=[3, 1, 11, 13, 7, 8, 9, 10, 6, 12, 5, 4, 2, 14]);   
+3. Determine the mapping relationship to legalize offsprings:
+(mapping1={13: 13, 9: 9, 11: 11, 10: 10, 6: 6}, mapping2={13: 13, 7: 7, 8: 8, 9: 9, 10: 10, 6: 6});
+4. Legalise offsprings with the mapping relationship and receive 2 result offsprings as shown.
+------------------------------------------------------------------------------
+#######################################################################################

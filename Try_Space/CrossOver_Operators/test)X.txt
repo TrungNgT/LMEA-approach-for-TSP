@@ -1,0 +1,279 @@
+// Test on local run ---------------------------------------------------------------------------------
+3 11
+[0, 0, 0, 2, 7, 9, 8, 1, 10, 5, 6, 0, 0, 0] [0, 0, 0, 9, 10, 1, 8, 5, 13, 11, 7, 0, 0, 0]
+rest1: [12, 14, 3, 4, 2, 6, 9, 10, 1, 8, 5, 13, 11, 7]
+rest2: [14, 12, 11, 13, 3, 4, 2, 7, 9, 8, 1, 10, 5, 6]
+[12, 14, 3, 4, 13, 11] [14, 12, 3, 4, 2, 6]
+[4, 13, 11, 2, 7, 9, 8, 1, 10, 5, 6, 12, 14, 3] [4, 2, 6, 9, 10, 1, 8, 5, 13, 11, 7, 14, 12, 3]
+PS C:\Users\MSI\Project2_practices> & c:/Users/MSI/Project2_practices/.venv/Scripts/python.exe c:/Users/MSI/Project2_practices/Try_Space/CrossOver_Operators/OX.py
+5 7
+[0, 0, 0, 0, 0, 10, 8, 0, 0, 0, 0, 0, 0, 0] [0, 0, 0, 0, 0, 13, 9, 0, 0, 0, 0, 0, 0, 0]
+rest1: [6, 10, 5, 2, 11, 12, 8, 1, 7, 4, 3, 14, 13, 9]
+rest2: [2, 4, 14, 5, 3, 6, 12, 7, 9, 1, 13, 11, 10, 8]
+[6, 5, 2, 11, 12, 1, 7, 4, 3, 14, 13, 9] [2, 4, 14, 5, 3, 6, 12, 7, 1, 11, 10, 8]
+[4, 3, 14, 13, 9, 10, 8, 6, 5, 2, 11, 12, 1, 7] [7, 1, 11, 10, 8, 13, 9, 2, 4, 14, 5, 3, 6, 12]
+PS C:\Users\MSI\Project2_practices> & c:/Users/MSI/Project2_practices/.venv/Scripts/python.exe c:/Users/MSI/Project2_practices/Try_Space/CrossOver_Operators/OX.py
+3 6
+[0, 0, 0, 12, 14, 5, 0, 0, 0, 0, 0, 0, 0, 0] [0, 0, 0, 3, 12, 6, 0, 0, 0, 0, 0, 0, 0, 0]
+rest1: [4, 7, 9, 11, 8, 2, 13, 5, 10, 1, 14, 3, 12, 6]
+rest2: [9, 1, 8, 3, 6, 7, 13, 2, 10, 11, 4, 12, 14, 5]
+[4, 7, 9, 11, 8, 2, 13, 10, 1, 3, 6] [9, 1, 8, 7, 13, 2, 10, 11, 4, 14, 5]
+[1, 3, 6, 12, 14, 5, 4, 7, 9, 11, 8, 2, 13, 10] [4, 14, 5, 3, 12, 6, 9, 1, 8, 7, 13, 2, 10, 11]
+PS C:\Users\MSI\Project2_practices> & c:/Users/MSI/Project2_practices/.venv/Scripts/python.exe c:/Users/MSI/Project2_practices/Try_Space/CrossOver_Operators/OX.py
+8 9
+[0, 0, 0, 0, 0, 0, 0, 0, 8, 0, 0, 0, 0, 0] [0, 0, 0, 0, 0, 0, 0, 0, 9, 0, 0, 0, 0, 0]
+rest1: [11, 8, 2, 13, 5, 10, 1, 14, 3, 12, 6, 4, 7, 9]
+rest2: [3, 6, 7, 13, 2, 10, 11, 4, 12, 14, 5, 9, 1, 8]
+[11, 2, 13, 5, 10, 1, 14, 3, 12, 6, 4, 7, 9] [3, 6, 7, 13, 2, 10, 11, 4, 12, 14, 5, 1, 8]
+[1, 14, 3, 12, 6, 4, 7, 9, 8, 11, 2, 13, 5, 10] [10, 11, 4, 12, 14, 5, 1, 8, 9, 3, 6, 7, 13, 2]
+PS C:\Users\MSI\Project2_practices> & c:/Users/MSI/Project2_practices/.venv/Scripts/python.exe c:/Users/MSI/Project2_practices/Try_Space/CrossOver_Operators/OX.py
+1 8
+[0, 11, 4, 12, 14, 5, 9, 1, 0, 0, 0, 0, 0, 0] [0, 1, 14, 3, 12, 6, 4, 7, 0, 0, 0, 0, 0, 0]
+rest1: [9, 11, 8, 2, 13, 5, 10, 1, 14, 3, 12, 6, 4, 7]
+rest2: [8, 3, 6, 7, 13, 2, 10, 11, 4, 12, 14, 5, 9, 1]
+[8, 2, 13, 10, 3, 6, 7] [8, 13, 2, 10, 11, 5, 9]
+[7, 11, 4, 12, 14, 5, 9, 1, 8, 2, 13, 10, 3, 6] [9, 1, 14, 3, 12, 6, 4, 7, 8, 13, 2, 10, 11, 5]
+PS C:\Users\MSI\Project2_practices> & c:/Users/MSI/Project2_practices/.venv/Scripts/python.exe c:/Users/MSI/Project2_practices/Try_Space/CrossOver_Operators/OX.py
+1 4
+[0, 11, 4, 12, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0] [0, 1, 14, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0]
+rest1: [12, 6, 4, 7, 9, 11, 8, 2, 13, 5, 10, 1, 14, 3]
+rest2: [14, 5, 9, 1, 8, 3, 6, 7, 13, 2, 10, 11, 4, 12]
+[6, 7, 9, 8, 2, 13, 5, 10, 1, 14, 3] [5, 9, 8, 6, 7, 13, 2, 10, 11, 4, 12]
+[3, 11, 4, 12, 6, 7, 9, 8, 2, 13, 5, 10, 1, 14] [12, 1, 14, 3, 5, 9, 8, 6, 7, 13, 2, 10, 11, 4]
+PS C:\Users\MSI\Project2_practices> & c:/Users/MSI/Project2_practices/.venv/Scripts/python.exe c:/Users/MSI/Project2_practices/Try_Space/CrossOver_Operators/OX.py
+7 11
+[0, 0, 0, 0, 0, 0, 0, 1, 8, 3, 6, 0, 0, 0] [0, 0, 0, 0, 0, 0, 0, 7, 9, 11, 8, 0, 0, 0]
+rest1: [2, 13, 5, 10, 1, 14, 3, 12, 6, 4, 7, 9, 11, 8]
+rest2: [7, 13, 2, 10, 11, 4, 12, 14, 5, 9, 1, 8, 3, 6]
+[2, 13, 5, 10, 14, 12, 4, 7, 9, 11] [13, 2, 10, 4, 12, 14, 5, 1, 3, 6]
+[10, 14, 12, 4, 7, 9, 11, 1, 8, 3, 6, 2, 13, 5] [4, 12, 14, 5, 1, 3, 6, 7, 9, 11, 8, 13, 2, 10]
+PS C:\Users\MSI\Project2_practices> & c:/Users/MSI/Project2_practices/.venv/Scripts/python.exe c:/Users/MSI/Project2_practices/Try_Space/CrossOver_Operators/OX.py
+4 10
+[0, 0, 0, 0, 14, 5, 9, 1, 8, 3, 0, 0, 0, 0] [0, 0, 0, 0, 12, 6, 4, 7, 9, 11, 0, 0, 0, 0]
+rest1: [8, 2, 13, 5, 10, 1, 14, 3, 12, 6, 4, 7, 9, 11]
+rest2: [6, 7, 13, 2, 10, 11, 4, 12, 14, 5, 9, 1, 8, 3]
+[2, 13, 10, 12, 6, 4, 7, 11] [13, 2, 10, 14, 5, 1, 8, 3]
+[6, 4, 7, 11, 14, 5, 9, 1, 8, 3, 2, 13, 10, 12] [5, 1, 8, 3, 12, 6, 4, 7, 9, 11, 13, 2, 10, 14]
+PS C:\Users\MSI\Project2_practices> & c:/Users/MSI/Project2_practices/.venv/Scripts/python.exe c:/Users/MSI/Project2_practices/Try_Space/CrossOver_Operators/OX.py
+6 9
+[0, 0, 0, 0, 0, 0, 9, 1, 8, 0, 0, 0, 0, 0] [0, 0, 0, 0, 0, 0, 4, 7, 9, 0, 0, 0, 0, 0]
+rest1: [11, 8, 2, 13, 5, 10, 1, 14, 3, 12, 6, 4, 7, 9]
+rest2: [3, 6, 7, 13, 2, 10, 11, 4, 12, 14, 5, 9, 1, 8]
+[11, 2, 13, 5, 10, 14, 3, 12, 6, 4, 7] [3, 6, 13, 2, 10, 11, 12, 14, 5, 1, 8]
+[14, 3, 12, 6, 4, 7, 9, 1, 8, 11, 2, 13, 5, 10] [11, 12, 14, 5, 1, 8, 4, 7, 9, 3, 6, 13, 2, 10]
+
+
+
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@
+
+
+# Test LLM call both 2 operators:
+got update!
+1th pairs of parents in generation 1:
+parent_1: Individual(trace=[3, 14, 12, 5, 4, 11, 13, 2, 7, 8, 9, 10, 1, 6], length=51.1862596896685), parent_2: Individual(trace=[3, 14, 12, 13, 5, 10, 9, 1, 8, 2, 7, 11, 4, 6], length=52.35019673355605)
+spent_time for this request: 15.825666666030884
+crossover of 1th parents in generation 1
+<Off1>[3, 14, 12, 13, 11, 10, 9, 1, 8, 2, 7, 5, 4, 6]</Off1> 
+Explanation: Using PMX crossover with
+ start=6, end=9,
+{parent1 = [3, 14, 12, 5, 4, 11, 13, 2, 7, 8, 9, 10, 1, 6], parent2 = [3, 14, 12, 13, 5, 10, 9, 1, 8, 2, 7, 11, 4, 6]}
+Step 1: Select random crossover range in both 2 parents: (start = 6, end = 9).
+Step 2: Create offspring by exchanging the selected range:
+child1 = parent1[:start] + parent2[start:end] + parent1[end:] = [3, 14, 12, 13, 11, 10, 9, 2, 7, 8, 5, 4, 1, 6]
+Step 3: Determine the mapping relationship to legalize offspring:
+mapping1 = {parent2[i]: parent1[i] for i in range(start, end)} = {9: 8, 10: 9}
+mapping2 = {parent1[i]: parent2[i] for i in range(start, end)} = {8: 9, 9: 10}
+Step 4: Legalize children with the mapping relationsip and receive 2 result offsprings as shown.
+Therefore, <Off1> = [3, 14, 12, 13, 11, 10, 9, 2, 7, 8, 5, 4, 1, 6]
+
+<Off2>[3, 14, 12, 5, 4, 2, 11, 13, 7, 8, 10, 9, 1, 6]</Off2>
+Explanation: Using PMX crossover with
+ start=5, end=7,
+{parent1 = [3, 14, 12, 5, 4, 11, 13, 2, 7, 8, 9, 10, 1, 6], parent2 = [3, 14, 12, 13, 5, 10, 9, 1, 8, 2, 7, 11, 4, 6]}
+Step 1: Select random crossover range in both 2 parents: (start = 5, end = 7).
+Step 2: Create offspring by exchanging the selected range:
+child2 = parent1[:start] + parent2[start:end] + parent1[end:] = [3, 14, 12, 5, 4, 2, 11, 13, 7, 8, 10, 9, 1, 6]
+Step 3: Determine the mapping relationship to legalize offspring:
+mapping1 = {parent2[i]: parent1[i] for i in range(start, end)} = {2: 4}
+mapping2 = {parent1[i]: parent2[i] for i in range(start, end)} = {4: 2}
+Step 4: Legalize children with the mapping relationsip and receive 2 result offsprings as shown.
+Therefore, <Off2> = [3, 14, 12, 5, 4, 2, 11, 13, 7, 8, 10, 9, 1, 6]
+------------------------------------------------------------------------------
+2th pairs of parents in generation 1:
+parent_1: Individual(trace=[3, 14, 12, 5, 4, 11, 13, 2, 7, 8, 9, 10, 1, 6], length=51.1862596896685), parent_2: Individual(trace=[8, 13, 2, 14, 7, 9, 11, 1, 3, 6, 12, 10, 5, 4], length=57.7615853230122)
+------------------------------------------------------------------------------
+3th pairs of parents in generation 1:
+parent_1: Individual(trace=[13, 7, 3, 8, 14, 9, 1, 6, 4, 5, 12, 11, 10, 2], length=53.06863082376949), parent_2: Individual(trace=[8, 13, 2, 14, 7, 9, 11, 1, 3, 6, 12, 10, 5, 4], length=57.7615853230122)
+------------------------------------------------------------------------------
+4th pairs of parents in generation 1:
+parent_1: Individual(trace=[3, 14, 12, 5, 4, 11, 13, 2, 7, 8, 9, 10, 1, 6], length=51.1862596896685), parent_2: Individual(trace=[13, 7, 3, 8, 14, 9, 1, 6, 4, 5, 12, 11, 10, 2], length=53.06863082376949)
+------------------------------------------------------------------------------
+5th pairs of parents in generation 1:
+parent_1: Individual(trace=[3, 14, 12, 13, 5, 10, 9, 1, 8, 2, 7, 11, 4, 6], length=52.35019673355605), parent_2: Individual(trace=[8, 13, 2, 14, 7, 9, 11, 1, 3, 6, 12, 10, 5, 4], length=57.7615853230122)
+spent_time for this request: 8.468792200088501
+crossover of 5th parents in generation 1
+<Off1>[12, 8, 13, 2, 14, 7, 9, 11, 1, 3, 6, 10, 5, 4]</Off1>
+<Off2>[8, 3, 14, 12, 13, 5, 10, 9, 11, 2, 7, 1, 6, 4]</Off2>
+Explanations: Using PMX crossover operator with the parent1 and parent2 given in Step 1, we have the following steps:
+1. Select random crossover range in both 2 paretns: (start=3, end=11)
+2. Create offsprings by exchanging the selected range: (child1=[0, 0, 0, 13, 2, 14, 7, 9, 11, 1, 0, 0, 0, 0], child2=[0, 0, 0, 3, 14, 12, 13, 5, 10, 9, 0, 0, 0, 0])
+3. Determine the mapping relationship to legalize offsprings: (mapping1={13: 2, 2: 13}, mapping2={3: 13, 13: 3})
+4. Legalize offsprings: (child1=[12, 8, 13, 2, 14, 7, 9, 11, 1, 3, 6, 10, 5, 4], child2=[8, 3, 14, 12, 13, 5, 10, 9, 11, 2, 7, 1, 6, 4])
+------------------------------------------------------------------------------
+6th pairs of parents in generation 1:
+parent_1: Individual(trace=[3, 14, 12, 5, 4, 11, 13, 2, 7, 8, 9, 10, 1, 6], length=51.1862596896685), parent_2: Individual(trace=[3, 14, 12, 13, 5, 10, 9, 1, 8, 2, 7, 11, 4, 6], length=52.35019673355605)
+spent_time for this request: 8.965480327606201
+crossover of 6th parents in generation 1
+<Off1>[11, 10, 1, 8, 2, 3, 14, 12, 13, 5, 4, 11, 7, 9]</Off1>
+<Off2>[3, 2, 8, 1, 10, 9, 11, 4, 12, 5, 13, 14, 7, 6]</Off2>
+Explanations:
+- I chose to use the PMX Crossover Operator.
+- Step 1: Select random crossover range in both 2 paretns: (start=2, end=6)
+- Step 2: Create offspring by exchanging the selected range:
+-- Offspring 1: [0, 0, 8, 2, 3, 14, 12, 13, 5, 0, 0, 0, 0, 0]
+-- Offspring 2: [0, 0, 1, 10, 9, 11, 4, 0, 0, 0, 0, 0, 0, 0]
+- Step 3: Build the possible traces for the rest of each offspring:
+-- rest1=[4, 11, 7, 9, 6, 1, 4, 11]
+-- rest2=[5, 12, 5, 13, 14, 7, 6, 10]
+- Step 4: Insert the rest to the offsprings:
+-- Offspring 1: [11, 10, 1, 8, 2, 3, 14, 12, 13, 5, 4, 11, 7, 9]
+-- Offspring 2: [3, 2, 8, 1, 10, 9, 11, 4, 12, 5, 13, 14, 7, 6]
+------------------------------------------------------------------------------
+7th pairs of parents in generation 1:
+parent_1: Individual(trace=[3, 14, 12, 13, 5, 10, 9, 1, 8, 2, 7, 11, 4, 6], length=52.35019673355605), parent_2: Individual(trace=[8, 13, 2, 14, 7, 9, 11, 1, 3, 6, 12, 10, 5, 4], length=57.7615853230122)
+spent_time for this request: 10.49146318435669
+crossover of 7th parents in generation 1
+<Off1>[1, 7, 9, 11, 3, 6, 12, 10, 5, 4, 2, 14, 13, 8] </Off1>
+<Off2>[8, 13, 2, 14, 7, 9, 11, 1, 5, 10, 3, 12, 6, 4] </Off2>
+**{Used the OX Crossover Operator**
+**Step 1: Select random crossover range in both 2 parents: (start=2, end=5)**
+**Step 2: Create offspring by exchanging the selected range: (Off1=[0, 0, 7, 9, 11, 0, 0, 0, 0, 0, 0, 0, 0, 0], Off2=[0, 0, 2, 14, 7, 0, 0, 0, 0, 0, 0, 0, 0, 0])**
+**Step 3: Build the possible traces for the rest of each offspring: (rest1=[3, 6, 12, 10, 5, 4, 2, 14, 13, 8, 1], rest2=[1, 3, 6, 12, 10, 5, 4, 8, 9, 11, 2])**
+**Step 4: Insert the rest to the offsprings: (Off1=[1, 7, 9, 11, 3, 6, 12, 10, 5, 4, 2, 14, 13, 8], Off2=[8, 13, 2, 14, 7, 9, 11, 1, 3, 6, 12, 10, 5, 4])**
+------------------------------------------------------------------------------
+8th pairs of parents in generation 1:
+parent_1: Individual(trace=[12, 13, 2, 3, 7, 14, 9, 8, 6, 11, 10, 1, 4, 5], length=55.37964219758336), parent_2: Individual(trace=[13, 7, 3, 8, 14, 9, 1, 6, 4, 5, 12, 11, 10, 2], length=53.06863082376949)
+spent_time for this request: 5.7508509159088135
+crossover of 8th parents in generation 1
+<Off1>[13, 7, 2, 3, 8, 14, 9, 1, 6, 4, 5, 12, 11, 10]</Off1> Explanation: Used PMX Crossover Operator:
+- Step1: selected random crossover range (start=6, end=11)
+- Step2: created offspring by exchanging the selected range
+- Step3: created mapping relationship
+- Step4: legalized offspring with the mapping relationship
+<Off2>[12, 13, 3, 8, 14, 9, 1, 6, 4, 5, 10, 2, 7, 11]</Off2> Explanation: Used OX Crossover Operator:
+- Step1: selected random crossover range (start=5, end=8)
+- Step2: created offspring by exchanging the selected range
+- Step3: built possible traces for the rest of each offspring
+- Step4: inserted the rest to the offspring
+------------------------------------------------------------------------------
+9th pairs of parents in generation 1:
+parent_1: Individual(trace=[3, 14, 12, 13, 5, 10, 9, 1, 8, 2, 7, 11, 4, 6], length=52.35019673355605), parent_2: Individual(trace=[8, 13, 2, 14, 7, 9, 11, 1, 3, 6, 12, 10, 5, 4], length=57.7615853230122)
+spent_time for this request: 12.620298862457275
+crossover of 9th parents in generation 1
+<Off1>[6, 12, 10, 13, 5, 9, 11, 1, 8, 2, 7, 14, 4, 3]</Off1>
+<Off2>[8, 13, 2, 14, 7, 9, 11, 1, 3, 5, 10, 12, 6, 4]</Off2>
+
+**Explanations**:
+**Offspring 1**:
+- Crossover Operator PMX was used.
+- Randomly selected crossover range (start=5, end=7), resulting in 2 fragments: [5, 10, 9] and [1, 8, 2].
+- After swapping fragments, the partial offspring become:
+      * Child1:  [3, 14, 12, 13, 2, 8, 1, 7, 11, 4, 6]
+      * Child2:  [8, 13, 2, 14, 7, 9, 11, 1, 3, 6, 12, 10, 5, 4]
+- Mapping relationship to legalize both children:
+      * Mapping1: {1: 2, 8: 9, 2: 1}
+      * Mapping2: {2: 1, 9: 8, 1: 2}
+- After applying the mapping relation to both children to make them legal, the final offspring is:
+      * Offspring 1: [6, 12, 10, 13, 5, 9, 11, 1, 8, 2, 7, 14, 4, 3]
+
+**Offspring 2**:
+- Crossover Operator OX was used.
+- Randomly selected crossover range (start=5, end=7), resulting in 2 fragments: [5, 10, 9] and [1, 8, 2].
+- After exchanging fragments, the partial offspring become:
+      * Child1:  [3, 14, 12, 13, 2, 8, 0, 0, 0, 4, 6]
+      * Child2:  [8, 13, 2, 14, 7, 9, 11, 1, 3, 0, 0, 0, 6, 12, 10, 5, 4]
+- For rest1, remove the genes in [1, 8, 2] from parent1, then rest1 = [7, 11, 4, 3]
+- For rest2, remove the genes in [5, 10, 9] from parent2, then rest2 = [1, 3, 6, 12, 10, 5, 4]
+- After completing the offsprings by inserting the rests, the final offspring is:
+      * Offspring 2: [8, 13, 2, 14, 7, 9, 11, 1, 3, 6, 10, 12, 4, 5]
+------------------------------------------------------------------------------
+10th pairs of parents in generation 1:
+parent_1: Individual(trace=[3, 14, 12, 13, 5, 10, 9, 1, 8, 2, 7, 11, 4, 6], length=52.35019673355605), parent_2: Individual(trace=[12, 14, 4, 9, 3, 6, 2, 8, 10, 11, 13, 7, 5, 1], length=58.39885342508894)
+spent_time for this request: 9.879766702651978
+crossover of 10th parents in generation 1
+<Off1>[12, 14, 4, 9, 6, 2, 8, 10, 11, 13, 7, 5, 1, 3]</Off1>
+<Off2>[3, 14, 12, 13, 5, 10, 9, 1, 8, 4, 6, 7, 11, 2]</Off2>
+**Applying PMX technique**
+1. **Selecting a crossover range:** [start: 1, end: 4]
+2. **Creating offspring:**
+   <Off1>: [3, **4, 9, 6**, 2, 8, 10, 11, 13, 7, 5, 1, **12, 14**]
+   <Off2>: [**12, 14**, 4, **6, 9**, 2, 8, 10, 11, 13, **1, 5**, 7, 3]
+3. **Creating mapping relationships:**
+   - Off1: {4: 6, 6: 4, 12: 14, 14: 12}
+   - Off2: {6: 9, 9: 6, 12: 14, 14: 12, 1: 5, 5: 1}
+4. **Legalizing offspring:**
+   - Off1: Replace 4 with 6 and 6 with 4 to get [3, 6, 9, 4, 2, 8, 10, 11, 13, 7, 5, 1, 12, 14]
+   - Off2: Replace 1 with 5 and 5 with 1, replace 6 with 9 and 9 with 6, replace 12 with 14 and 14 with 12 to get [12, 14, 4, 9, 6, 2, 8, 10, 11, 13, 7, 5, 1, 3]
+------------------------------------------------------------------------------
+11th pairs of parents in generation 1:
+parent_1: Individual(trace=[3, 14, 12, 13, 5, 10, 9, 1, 8, 2, 7, 11, 4, 6], length=52.35019673355605), parent_2: Individual(trace=[3, 14, 12, 5, 4, 11, 13, 2, 7, 8, 9, 10, 1, 6], length=51.1862596896685)
+spent_time for this request: 9.216619968414307
+crossover of 11th parents in generation 1
+<Off1>[1, 8, 2, 7, 11, 4, 3, 14, 12, 5, 10, 9, 13, 6]</Off1>
+<Off2>[1, 9, 10, 13, 6, 3, 14, 12, 5, 4, 11, 8, 2, 7]</Off2>
+
+Explanation:
+Using the Order Crossover (OX) operator:
+1. Select random crossover range in both 2 parents: (start=2, end=5)
+2. Create offspring by exchanging the selected range: (child1=[0, 0, 8, 2, 7, 11, 0, 0, 0, 0, 0, 0, 0, 0], child2=[0, 0, 2, 7, 11, 4, 0, 0, 0, 0, 0, 0, 0, 0])
+3. Build the possible traces for the rest of each offspring: (rest1=[1, 3, 14, 12, 5, 10, 9, 13, 6, 4], rest2=[1, 5, 9, 10, 13, 6, 14, 12, 3, 4])
+4. Complete the rest of the offsprings: (Offspring 1: [1, 8, 2, 7, 11, 4, 3, 14, 12, 5, 10, 9, 13, 6], Offspring 2: [1, 9, 10, 13, 6, 3, 14, 12, 5, 4, 11, 8, 2, 7])
+------------------------------------------------------------------------------
+12th pairs of parents in generation 1:
+parent_1: Individual(trace=[3, 14, 12, 5, 4, 11, 13, 2, 7, 8, 9, 10, 1, 6], length=51.1862596896685), parent_2: Individual(trace=[3, 14, 12, 13, 5, 10, 9, 1, 8, 2, 7, 11, 4, 6], length=52.35019673355605)
+spent_time for this request: 12.101991176605225
+crossover of 12th parents in generation 1
+<Off1> [3, 14, 12, 11, 13, 2, 7, 8, 9, 10, 1, 6, 5, 4]</Off1>
+<Off2> [3, 14, 12, 13, 1, 6, 5, 4, 11, 2, 7, 8, 9, 10]</Off2>
+Explanation:
+Use function PMX(parent1, parent2) with {parent1 = [3, 14, 12, 5, 4, 11, 13, 2, 7, 8, 9, 10, 1, 6], parent2 = [3, 14, 12, 13, 5, 10, 9, 1, 8, 2, 7, 11, 4, 6]}
+Step 1: Select random crossover range in both 2 parents: (start=2, end=6)
+Step 2: Create offspring by exchanging the selected range:
+(child1=[3, 14, 12, 13, 5, 2, 7, 8, 9, 10, 1, 6, 4, 11], child2=[3, 14, 12, 11, 13, 2, 7, 8, 9, 10, 1, 6, 5, 4])
+Step 3: Determine the mapping relationship to legalize offspring:
+(mapping1={13: 5, 2: 11, 7: 7, 8: 8, 9: 9, 10: 10, 1: 1, 6: 6, 4: 13, 11: 2}, mapping2={5: 13, 11: 2, 7: 7, 8: 8, 9: 9, 10: 10, 1: 1, 6: 6, 4: 5, 13: 11})
+Step 4: Legalize children with the mapping relationsip and receive 2 result offsprings as shown: <Off1> [3, 14, 12, 11, 13, 2, 7, 8, 9, 10, 1, 6, 5, 4]</Off1>, <Off2> [3, 14, 12, 13, 1, 6, 5, 4, 11, 2, 7, 8, 9, 10]</Off2>.
+------------------------------------------------------------------------------
+13th pairs of parents in generation 1:
+parent_1: Individual(trace=[3, 14, 12, 5, 4, 11, 13, 2, 7, 8, 9, 10, 1, 6], length=51.1862596896685), parent_2: Individual(trace=[13, 7, 3, 8, 14, 9, 1, 6, 4, 5, 12, 11, 10, 2], length=53.06863082376949)
+spent_time for this request: 8.148332834243774
+crossover of 13th parents in generation 1
+<Off1> [14, 12, 5, 4, 11, 13, 2, 7, 8, 9, 10, 1, 6, 3] </Off1>
+<Off2> [10, 11, 12, 13, 14, 9, 1, 6, 4, 5, 2, 8, 7, 3] </Off2>
+
+Explanations:
+1. Use the PMX Crossover Operator:
+ -- Select random crossover range in both 2 paretns: (start=4, end=9)
+ -- Create offspring by exchanging the selected range: (
+     Off1=[0, 0, 0, 0, 9, 1, 6, 4, 5, 12, 11, 10, 1, 0],
+     Off2=[0, 0, 0, 0, 14, 12, 5, 4, 11, 13, 2, 7, 8, 0]
+  )
+ -- Determine the mapping relationship to legalize offspring: (
+     mapping1={9: 14, 1: 12, 6: 5, 4: 4, 5: 11, 12: 13, 11: 2, 10: 7, 1: 8},
+     mapping2={14: 9, 12: 1, 5: 6, 4: 4, 11: 5, 13: 12, 2: 11, 7: 10, 8: 1}
+  )
+ -- Legalize children with the mapping relationsip and receive 2 result offsprings <Off1> and <Off2> as shown.
+------------------------------------------------------------------------------
+14th pairs of parents in generation 1:
+parent_1: Individual(trace=[13, 9, 4, 3, 1, 6, 2, 11, 10, 7, 12, 5, 14, 8], length=58.639560931413), parent_2: Individual(trace=[3, 14, 12, 5, 4, 11, 13, 2, 7, 8, 9, 10, 1, 6], length=51.1862596896685)
+------------------------------------------------------------------------------
+15th pairs of parents in generation 1:
+parent_1: Individual(trace=[3, 14, 12, 13, 5, 10, 9, 1, 8, 2, 7, 11, 4, 6], length=52.35019673355605), parent_2: Individual(trace=[8, 13, 2, 14, 7, 9, 11, 1, 3, 6, 12, 10, 5, 4], length=57.7615853230122)
+------------------------------------------------------------------------------
+16th pairs of parents in generation 1:
+parent_1: Individual(trace=[3, 14, 12, 5, 4, 11, 13, 2, 7, 8, 9, 10, 1, 6], length=51.1862596896685), parent_2: Individual(trace=[3, 14, 12, 13, 5, 10, 9, 1, 8, 2, 7, 11, 4, 6], length=52.35019673355605)
+------------------------------------------------------------------------------
+#######################################################################################
+
+

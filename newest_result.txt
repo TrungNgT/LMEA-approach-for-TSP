@@ -1,0 +1,830 @@
+18th pairs of parents in generation 26:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.692760467529297
+crossover of 18th parents in generation 26
+------------------------------------------------------------------------------
+19th pairs of parents in generation 26:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+20th pairs of parents in generation 26:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 4.075803756713867
+crossover of 20th parents in generation 26
+------------------------------------------------------------------------------
+21th pairs of parents in generation 26:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+22th pairs of parents in generation 26:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.5682647228240967
+crossover of 22th parents in generation 26
+------------------------------------------------------------------------------
+23th pairs of parents in generation 26:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+24th pairs of parents in generation 26:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.9190266132354736
+crossover of 24th parents in generation 26
+------------------------------------------------------------------------------
+25th pairs of parents in generation 26:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+26th pairs of parents in generation 26:
+parent_1: Individual(trace=[14, 3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2], length=30.878503892588), parent_2: Individual(trace=[10, 1, 2, 14, 3, 4, 5, 6, 12, 7, 13, 8, 11, 9], length=30.878503892588)
+spent_time for this request: 3.746208429336548
+crossover of 26th parents in generation 26
+------------------------------------------------------------------------------
+27th pairs of parents in generation 26:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+28th pairs of parents in generation 26:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 4.401268005371094
+crossover of 28th parents in generation 26
+time for muatating: 1.687537431716919
+time for muatating: 1.7144577503204346
+------------------------------------------------------------------------------
+29th pairs of parents in generation 26:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+30th pairs of parents in generation 26:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+31th pairs of parents in generation 26:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 4.155307292938232
+crossover of 31th parents in generation 26
+------------------------------------------------------------------------------
+32th pairs of parents in generation 26:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.7232000827789307
+crossover of 32th parents in generation 26
+time for muatating: 1.7553491592407227
+time for muatating: 1.7350037097930908
+------------------------------------------------------------------------------
+33th pairs of parents in generation 26:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+34th pairs of parents in generation 26:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+35th pairs of parents in generation 26:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+36th pairs of parents in generation 26:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.646204710006714
+crossover of 36th parents in generation 26
+------------------------------------------------------------------------------
+37th pairs of parents in generation 26:
+parent_1: Individual(trace=[10, 1, 2, 14, 3, 4, 5, 6, 12, 7, 13, 8, 11, 9], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 4.804199457168579
+crossover of 37th parents in generation 26
+------------------------------------------------------------------------------
+38th pairs of parents in generation 26:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+39th pairs of parents in generation 26:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3, 4, 5], length=30.878503892588)
+spent_time for this request: 3.8345823287963867
+crossover of 39th parents in generation 26
+time for muatating: 1.6899690628051758
+time for muatating: 1.5802428722381592
+------------------------------------------------------------------------------
+40th pairs of parents in generation 26:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.7739005088806152
+crossover of 40th parents in generation 26
+------------------------------------------------------------------------------
+END generation: 26
+#######################################################################################
+got stuck 6 time
+1th pairs of parents in generation 27:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+2th pairs of parents in generation 27:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+3th pairs of parents in generation 27:
+parent_1: Individual(trace=[14, 3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+4th pairs of parents in generation 27:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 4.41144323348999
+crossover of 4th parents in generation 27
+------------------------------------------------------------------------------
+5th pairs of parents in generation 27:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+6th pairs of parents in generation 27:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.6741223335266113
+crossover of 6th parents in generation 27
+------------------------------------------------------------------------------
+7th pairs of parents in generation 27:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+8th pairs of parents in generation 27:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+9th pairs of parents in generation 27:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.7795510292053223
+crossover of 9th parents in generation 27
+------------------------------------------------------------------------------
+10th pairs of parents in generation 27:
+parent_1: Individual(trace=[6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3, 4, 5], length=30.878503892588), parent_2: Individual(trace=[6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3, 4, 5], length=30.878503892588)
+spent_time for this request: 3.800105333328247
+crossover of 10th parents in generation 27
+------------------------------------------------------------------------------
+11th pairs of parents in generation 27:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.6598103046417236
+crossover of 11th parents in generation 27
+------------------------------------------------------------------------------
+12th pairs of parents in generation 27:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 4.243153810501099
+crossover of 12th parents in generation 27
+------------------------------------------------------------------------------
+13th pairs of parents in generation 27:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+14th pairs of parents in generation 27:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3, 4, 5], length=30.878503892588)
+spent_time for this request: 3.810892343521118
+crossover of 14th parents in generation 27
+------------------------------------------------------------------------------
+15th pairs of parents in generation 27:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+16th pairs of parents in generation 27:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+17th pairs of parents in generation 27:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+18th pairs of parents in generation 27:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.595686197280884
+crossover of 18th parents in generation 27
+time for muatating: 1.6538257598876953
+time for muatating: 1.6428446769714355
+------------------------------------------------------------------------------
+19th pairs of parents in generation 27:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 4.17033314704895
+crossover of 19th parents in generation 27
+time for muatating: 1.8492472171783447
+time for muatating: 1.7344913482666016
+------------------------------------------------------------------------------
+20th pairs of parents in generation 27:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+21th pairs of parents in generation 27:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+22th pairs of parents in generation 27:
+parent_1: Individual(trace=[10, 1, 2, 14, 3, 4, 5, 6, 12, 7, 13, 8, 11, 9], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.988365650177002
+crossover of 22th parents in generation 27
+------------------------------------------------------------------------------
+23th pairs of parents in generation 27:
+parent_1: Individual(trace=[6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3, 4, 5], length=30.878503892588), parent_2: Individual(trace=[6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3, 4, 5], length=30.878503892588)
+------------------------------------------------------------------------------
+24th pairs of parents in generation 27:
+parent_1: Individual(trace=[5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3, 4], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+25th pairs of parents in generation 27:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.628201723098755
+crossover of 25th parents in generation 27
+------------------------------------------------------------------------------
+26th pairs of parents in generation 27:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 4.249940633773804
+crossover of 26th parents in generation 27
+------------------------------------------------------------------------------
+27th pairs of parents in generation 27:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.470026969909668
+crossover of 27th parents in generation 27
+------------------------------------------------------------------------------
+28th pairs of parents in generation 27:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[10, 1, 2, 14, 3, 4, 5, 6, 12, 7, 13, 8, 11, 9], length=30.878503892588)
+spent_time for this request: 3.6726937294006348
+crossover of 28th parents in generation 27
+time for muatating: 1.7049560546875
+time for muatating: 1.7904608249664307
+------------------------------------------------------------------------------
+29th pairs of parents in generation 27:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3], length=30.878503892588)
+------------------------------------------------------------------------------
+30th pairs of parents in generation 27:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.9695873260498047
+crossover of 30th parents in generation 27
+------------------------------------------------------------------------------
+31th pairs of parents in generation 27:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.782866954803467
+crossover of 31th parents in generation 27
+------------------------------------------------------------------------------
+32th pairs of parents in generation 27:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+33th pairs of parents in generation 27:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[10, 1, 2, 14, 3, 4, 5, 6, 12, 7, 13, 8, 11, 9], length=30.878503892588)
+spent_time for this request: 4.593785285949707
+crossover of 33th parents in generation 27
+------------------------------------------------------------------------------
+34th pairs of parents in generation 27:
+parent_1: Individual(trace=[10, 1, 2, 14, 3, 4, 5, 6, 12, 7, 13, 8, 11, 9], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.9897594451904297
+crossover of 34th parents in generation 27
+------------------------------------------------------------------------------
+35th pairs of parents in generation 27:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.585184335708618
+crossover of 35th parents in generation 27
+time for muatating: 1.7785663604736328
+time for muatating: 1.6068642139434814
+------------------------------------------------------------------------------
+36th pairs of parents in generation 27:
+parent_1: Individual(trace=[6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3, 4, 5], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.6810033321380615
+crossover of 36th parents in generation 27
+time for muatating: 1.8493242263793945
+time for muatating: 1.6803972721099854
+------------------------------------------------------------------------------
+37th pairs of parents in generation 27:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.992276191711426
+crossover of 37th parents in generation 27
+------------------------------------------------------------------------------
+38th pairs of parents in generation 27:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.5221290588378906
+crossover of 38th parents in generation 27
+------------------------------------------------------------------------------
+39th pairs of parents in generation 27:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.689716100692749
+crossover of 39th parents in generation 27
+------------------------------------------------------------------------------
+40th pairs of parents in generation 27:
+parent_1: Individual(trace=[6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3, 4, 5], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.8984832763671875
+crossover of 40th parents in generation 27
+------------------------------------------------------------------------------
+END generation: 27
+#######################################################################################
+got stuck 7 time
+1th pairs of parents in generation 28:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.790501117706299
+crossover of 1th parents in generation 28
+time for muatating: 1.9797313213348389
+time for muatating: 1.9586765766143799
+------------------------------------------------------------------------------
+2th pairs of parents in generation 28:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+3th pairs of parents in generation 28:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+4th pairs of parents in generation 28:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.5023043155670166
+crossover of 4th parents in generation 28
+------------------------------------------------------------------------------
+5th pairs of parents in generation 28:
+parent_1: Individual(trace=[14, 3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.779963731765747
+crossover of 5th parents in generation 28
+------------------------------------------------------------------------------
+6th pairs of parents in generation 28:
+parent_1: Individual(trace=[10, 1, 2, 14, 3, 4, 5, 6, 12, 7, 13, 8, 11, 9], length=30.878503892588), parent_2: Individual(trace=[13, 8, 11, 9, 10, 1, 2, 14, 3, 4, 5, 6, 12, 7], length=30.878503892588)
+------------------------------------------------------------------------------
+7th pairs of parents in generation 28:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.6950860023498535
+crossover of 7th parents in generation 28
+------------------------------------------------------------------------------
+8th pairs of parents in generation 28:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 4.366086959838867
+crossover of 8th parents in generation 28
+------------------------------------------------------------------------------
+9th pairs of parents in generation 28:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3, 4, 5], length=30.878503892588)
+spent_time for this request: 3.608912944793701
+crossover of 9th parents in generation 28
+------------------------------------------------------------------------------
+10th pairs of parents in generation 28:
+parent_1: Individual(trace=[6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3, 4, 5], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.5936381816864014
+crossover of 10th parents in generation 28
+------------------------------------------------------------------------------
+11th pairs of parents in generation 28:
+parent_1: Individual(trace=[6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3, 4, 5], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+12th pairs of parents in generation 28:
+parent_1: Individual(trace=[6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3, 4, 5], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 4.195464849472046
+crossover of 12th parents in generation 28
+------------------------------------------------------------------------------
+13th pairs of parents in generation 28:
+parent_1: Individual(trace=[6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3, 4, 5], length=30.878503892588), parent_2: Individual(trace=[6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3, 4, 5], length=30.878503892588)
+spent_time for this request: 3.770087242126465
+crossover of 13th parents in generation 28
+------------------------------------------------------------------------------
+14th pairs of parents in generation 28:
+parent_1: Individual(trace=[6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3, 4, 5], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 4.003689527511597
+crossover of 14th parents in generation 28
+------------------------------------------------------------------------------
+15th pairs of parents in generation 28:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+16th pairs of parents in generation 28:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3, 4], length=30.878503892588)
+------------------------------------------------------------------------------
+17th pairs of parents in generation 28:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.7473177909851074
+crossover of 17th parents in generation 28
+time for muatating: 1.7464179992675781
+time for muatating: 1.8499927520751953
+------------------------------------------------------------------------------
+18th pairs of parents in generation 28:
+parent_1: Individual(trace=[5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3, 4], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+19th pairs of parents in generation 28:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.7668323516845703
+crossover of 19th parents in generation 28
+------------------------------------------------------------------------------
+20th pairs of parents in generation 28:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 4.189194202423096
+crossover of 20th parents in generation 28
+------------------------------------------------------------------------------
+21th pairs of parents in generation 28:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.8982644081115723
+crossover of 21th parents in generation 28
+------------------------------------------------------------------------------
+22th pairs of parents in generation 28:
+parent_1: Individual(trace=[6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3, 4, 5], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.7955446243286133
+crossover of 22th parents in generation 28
+------------------------------------------------------------------------------
+23th pairs of parents in generation 28:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.7668333053588867
+crossover of 23th parents in generation 28
+------------------------------------------------------------------------------
+24th pairs of parents in generation 28:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.777963638305664
+crossover of 24th parents in generation 28
+------------------------------------------------------------------------------
+25th pairs of parents in generation 28:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 4.3742125034332275
+crossover of 25th parents in generation 28
+------------------------------------------------------------------------------
+26th pairs of parents in generation 28:
+parent_1: Individual(trace=[5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3, 4], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.739004373550415
+crossover of 26th parents in generation 28
+------------------------------------------------------------------------------
+27th pairs of parents in generation 28:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[13, 8, 11, 9, 10, 1, 2, 14, 3, 4, 5, 6, 12, 7], length=30.878503892588)
+spent_time for this request: 3.8760488033294678
+crossover of 27th parents in generation 28
+------------------------------------------------------------------------------
+28th pairs of parents in generation 28:
+parent_1: Individual(trace=[6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3, 4, 5], length=30.878503892588), parent_2: Individual(trace=[14, 3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2], length=30.878503892588)
+------------------------------------------------------------------------------
+29th pairs of parents in generation 28:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+30th pairs of parents in generation 28:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+31th pairs of parents in generation 28:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.6688435077667236
+crossover of 31th parents in generation 28
+------------------------------------------------------------------------------
+32th pairs of parents in generation 28:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 4.196122169494629
+crossover of 32th parents in generation 28
+------------------------------------------------------------------------------
+33th pairs of parents in generation 28:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+34th pairs of parents in generation 28:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.8297250270843506
+crossover of 34th parents in generation 28
+------------------------------------------------------------------------------
+35th pairs of parents in generation 28:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+36th pairs of parents in generation 28:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.4417335987091064
+crossover of 36th parents in generation 28
+------------------------------------------------------------------------------
+37th pairs of parents in generation 28:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.679354190826416
+crossover of 37th parents in generation 28
+------------------------------------------------------------------------------
+38th pairs of parents in generation 28:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 4.080570697784424
+crossover of 38th parents in generation 28
+------------------------------------------------------------------------------
+39th pairs of parents in generation 28:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3, 4, 5], length=30.878503892588)
+spent_time for this request: 3.834893226623535
+crossover of 39th parents in generation 28
+time for muatating: 2.9141860008239746
+!!! Fail mutation process
+time for muatating: 1.7015669345855713
+!!! Fail mutation process
+------------------------------------------------------------------------------
+40th pairs of parents in generation 28:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3, 4, 5], length=30.878503892588)
+------------------------------------------------------------------------------
+END generation: 28
+#######################################################################################
+got stuck 8 time
+1th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+2th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+3th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.7329821586608887
+crossover of 3th parents in generation 29
+------------------------------------------------------------------------------
+4th pairs of parents in generation 29:
+parent_1: Individual(trace=[6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3, 4, 5], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.6779286861419678
+crossover of 4th parents in generation 29
+------------------------------------------------------------------------------
+5th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.7890257835388184
+crossover of 5th parents in generation 29
+------------------------------------------------------------------------------
+6th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.788689374923706
+crossover of 6th parents in generation 29
+------------------------------------------------------------------------------
+7th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 4.80321192741394
+crossover of 7th parents in generation 29
+time for muatating: 2.0564284324645996
+time for muatating: 1.937410831451416
+------------------------------------------------------------------------------
+8th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.5759682655334473
+crossover of 8th parents in generation 29
+------------------------------------------------------------------------------
+9th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.789363145828247
+crossover of 9th parents in generation 29
+------------------------------------------------------------------------------
+10th pairs of parents in generation 29:
+parent_1: Individual(trace=[14, 3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.684927225112915
+crossover of 10th parents in generation 29
+------------------------------------------------------------------------------
+11th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.6810495853424072
+crossover of 11th parents in generation 29
+------------------------------------------------------------------------------
+12th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 4.094383955001831
+crossover of 12th parents in generation 29
+time for muatating: 1.7845325469970703
+time for muatating: 2.006073474884033
+------------------------------------------------------------------------------
+13th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 4.575982570648193
+crossover of 13th parents in generation 29
+------------------------------------------------------------------------------
+14th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3], length=30.878503892588)
+spent_time for this request: 3.841289758682251
+crossover of 14th parents in generation 29
+------------------------------------------------------------------------------
+15th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.8735191822052
+crossover of 15th parents in generation 29
+------------------------------------------------------------------------------
+16th pairs of parents in generation 29:
+parent_1: Individual(trace=[4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 4.4994752407073975
+crossover of 16th parents in generation 29
+------------------------------------------------------------------------------
+17th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3, 4, 5], length=30.878503892588)
+spent_time for this request: 3.5970351696014404
+crossover of 17th parents in generation 29
+------------------------------------------------------------------------------
+18th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+19th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+20th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.664544105529785
+crossover of 20th parents in generation 29
+------------------------------------------------------------------------------
+21th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3], length=30.878503892588)
+------------------------------------------------------------------------------
+22th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+23th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+24th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.426439046859741
+crossover of 24th parents in generation 29
+------------------------------------------------------------------------------
+25th pairs of parents in generation 29:
+parent_1: Individual(trace=[4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+26th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+27th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+28th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+29th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3], length=30.878503892588)
+spent_time for this request: 3.683335542678833
+crossover of 29th parents in generation 29
+------------------------------------------------------------------------------
+30th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 4.021343946456909
+crossover of 30th parents in generation 29
+------------------------------------------------------------------------------
+31th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.577301502227783
+crossover of 31th parents in generation 29
+------------------------------------------------------------------------------
+32th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+33th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+34th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 4.00334358215332
+crossover of 34th parents in generation 29
+time for muatating: 1.7351646423339844
+time for muatating: 1.740206241607666
+------------------------------------------------------------------------------
+35th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.48136830329895
+crossover of 35th parents in generation 29
+------------------------------------------------------------------------------
+36th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3], length=30.878503892588)
+spent_time for this request: 3.7256946563720703
+crossover of 36th parents in generation 29
+time for muatating: 1.7025268077850342
+time for muatating: 1.9448819160461426
+------------------------------------------------------------------------------
+37th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.8980419635772705
+crossover of 37th parents in generation 29
+------------------------------------------------------------------------------
+38th pairs of parents in generation 29:
+parent_1: Individual(trace=[6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3, 4, 5], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+39th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 4.091423273086548
+crossover of 39th parents in generation 29
+time for muatating: 1.8464086055755615
+time for muatating: 2.0350112915039062
+------------------------------------------------------------------------------
+40th pairs of parents in generation 29:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+END generation: 29
+#######################################################################################
+got stuck 9 time
+1th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.5897340774536133
+crossover of 1th parents in generation 30
+------------------------------------------------------------------------------
+2th pairs of parents in generation 30:
+parent_1: Individual(trace=[4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 4.182167053222656
+crossover of 2th parents in generation 30
+------------------------------------------------------------------------------
+3th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+4th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3], length=30.878503892588)
+spent_time for this request: 3.676520347595215
+crossover of 4th parents in generation 30
+------------------------------------------------------------------------------
+5th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+6th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+7th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.8817074298858643
+crossover of 7th parents in generation 30
+------------------------------------------------------------------------------
+8th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3], length=30.878503892588)
+------------------------------------------------------------------------------
+9th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.569524049758911
+crossover of 9th parents in generation 30
+------------------------------------------------------------------------------
+10th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3], length=30.878503892588)
+spent_time for this request: 3.7005455493927
+crossover of 10th parents in generation 30
+------------------------------------------------------------------------------
+11th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.7640721797943115
+crossover of 11th parents in generation 30
+time for muatating: 1.8372230529785156
+time for muatating: 1.944687843322754
+------------------------------------------------------------------------------
+12th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+13th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+14th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.9572038650512695
+crossover of 14th parents in generation 30
+------------------------------------------------------------------------------
+15th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.7169735431671143
+crossover of 15th parents in generation 30
+time for muatating: 2.049837350845337
+time for muatating: 1.9382762908935547
+------------------------------------------------------------------------------
+16th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+17th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.686768054962158
+crossover of 17th parents in generation 30
+------------------------------------------------------------------------------
+18th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.478695869445801
+crossover of 18th parents in generation 30
+------------------------------------------------------------------------------
+19th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 4.002500295639038
+crossover of 19th parents in generation 30
+------------------------------------------------------------------------------
+20th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 4.293208122253418
+crossover of 20th parents in generation 30
+------------------------------------------------------------------------------
+21th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+22th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+23th pairs of parents in generation 30:
+parent_1: Individual(trace=[4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+24th pairs of parents in generation 30:
+parent_1: Individual(trace=[6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3, 4, 5], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 4.269204378128052
+crossover of 24th parents in generation 30
+------------------------------------------------------------------------------
+25th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+26th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+27th pairs of parents in generation 30:
+parent_1: Individual(trace=[4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+28th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3], length=30.878503892588)
+------------------------------------------------------------------------------
+29th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3], length=30.878503892588)
+spent_time for this request: 4.592036247253418
+crossover of 29th parents in generation 30
+------------------------------------------------------------------------------
+30th pairs of parents in generation 30:
+parent_1: Individual(trace=[4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.7094650268554688
+crossover of 30th parents in generation 30
+------------------------------------------------------------------------------
+31th pairs of parents in generation 30:
+parent_1: Individual(trace=[4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.642545461654663
+crossover of 31th parents in generation 30
+------------------------------------------------------------------------------
+32th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 4.10800313949585
+crossover of 32th parents in generation 30
+------------------------------------------------------------------------------
+33th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.794551134109497
+crossover of 33th parents in generation 30
+time for muatating: 1.7509305477142334
+time for muatating: 1.8647727966308594
+!!! Fail mutation process
+------------------------------------------------------------------------------
+34th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.446453809738159
+crossover of 34th parents in generation 30
+------------------------------------------------------------------------------
+35th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 4.489413499832153
+crossover of 35th parents in generation 30
+------------------------------------------------------------------------------
+36th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+37th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 4.499705076217651
+crossover of 37th parents in generation 30
+------------------------------------------------------------------------------
+38th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 4.510402202606201
+crossover of 38th parents in generation 30
+------------------------------------------------------------------------------
+39th pairs of parents in generation 30:
+parent_1: Individual(trace=[4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14, 3], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+------------------------------------------------------------------------------
+40th pairs of parents in generation 30:
+parent_1: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588), parent_2: Individual(trace=[3, 4, 5, 6, 12, 7, 13, 8, 11, 9, 10, 1, 2, 14], length=30.878503892588)
+spent_time for this request: 3.723315954208374
+crossover of 40th parents in generation 30
+------------------------------------------------------------------------------
+END generation: 30
+#######################################################################################
+got stuck 10 time
+30.878503892588

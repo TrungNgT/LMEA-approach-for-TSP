@@ -1,9 +1,7 @@
-from instance import *
-import math
+from edAdj_instance import *
 import random
 
-def distance(A: Point, B: Point):
-    return math.sqrt((A.x - B.x)**2 + (A.y - B.y)**2)
+
 
 # hàm này để đưa cái đồ thị về liệt kê các điểm bằng string, ghép vào cái description.
 def list2str() :
@@ -39,11 +37,9 @@ def objective_TSP(permutation: list) :                      # using the L above 
     for ind in range(len(permutation) - 1) :
         x = permutation[ind]
         y = permutation[ind+1]
-        evaluation += distance(graph[x], graph[y])
+        evaluation += ed_graph[x][y]
         
-    startPoint = permutation[0]
-    lastPoint = permutation[-1]
-    evaluation += distance(graph[lastPoint], graph[startPoint])
+    evaluation += ed_graph[permutation[-1]][permutation[0]]
 
     return evaluation
 
@@ -57,7 +53,7 @@ def objective_TRP(permutation: list) :
     for ind in range(len(permutation) - 1) :
         x = permutation[ind]
         y = permutation[ind+1]
-        evaluation += (N-1-ind) * distance(graph[x], graph[y])
+        evaluation += (N-1-ind) * ed_graph[x][y]
     
     return evaluation
 
@@ -175,6 +171,45 @@ def checkPermu(permuStr: str, n: int) :
     except :
         return False
     return True
+
+
+def check_stuck(best_cur: int, best_now: int) :
+
+    global check_var
+
+    if (best_now >= best_cur) :
+        check_var += 1
+        print(f"got stuck {check_var} time")
+    else :
+        check_var = 0
+        print("got update!")
     
+    if check_var >= 10 :
+        
+        return True
+    
+    return False
+
+def parent2str(par1: Individual, par2: Individual) :
+    outString = '{'
+
+    outString += ('parent1 = ' + str(par1.trace) + ', parent2 = ' + str(par2.trace) )
+
+    return outString
+
+
+def cut2Offsprings(llmResponse: str) :
+    
+    child1 = llmResponse[(llmResponse.find("<Off1>")+6) : (llmResponse.find("</Off1>"))]
+
+    child2 = llmResponse[(llmResponse.find("<Off2>")+6) : (llmResponse.find("</Off2>"))]
+
+    return child1, child2
+
+def cutMutated(llmResponse: str) :
+    
+    resStr = llmResponse[(llmResponse.find("<mut>")+5) : (llmResponse.find("</mut>"))]
+
+    return resStr
 
 
