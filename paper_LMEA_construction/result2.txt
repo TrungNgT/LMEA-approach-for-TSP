@@ -1,0 +1,242 @@
+Time for the API calls in generation 1: 30.463713884353638
+Time for the API calls in generation 1: 23.264984846115112
+Time for the API calls in generation 1: 27.34256076812744
+got stuck 1 time
+Total time for the generation 1: 81.07137608528137
+best solution now is: 5017.0
+Time for the API calls in generation 2: 7.618091821670532
+Time for the API calls in generation 2: 28.936548233032227
+Time for the API calls in generation 2: 24.44713521003723
+got stuck 2 time
+Total time for the generation 2: 61.00177526473999
+best solution now is: 5017.0
+Time for the API calls in generation 3: 20.938923835754395
+Time for the API calls in generation 3: 18.078568696975708
+got stuck 3 time
+Total time for the generation 3: 39.01956868171692
+best solution now is: 5017.0
+Time for the API calls in generation 4: 11.121725797653198
+Time for the API calls in generation 4: 21.233193159103394
+Time for the API calls in generation 4: 21.023640632629395
+got stuck 4 time
+Total time for the generation 4: 53.38014101982117
+best solution now is: 5017.0
+Time for the API calls in generation 5: 6.5418267250061035
+Time for the API calls in generation 5: 18.181281566619873
+Time for the API calls in generation 5: 19.663195371627808
+got stuck 5 time
+Total time for the generation 5: 44.38798499107361
+best solution now is: 5017.0
+Time for the API calls in generation 6: 15.75389838218689
+Time for the API calls in generation 6: 9.886313676834106
+Time for the API calls in generation 6: 12.400635480880737
+got update!
+Total time for the generation 6: 38.04171800613403
+best solution now is: 4933.0
+Time for the API calls in generation 7: 22.70543336868286
+Time for the API calls in generation 7: 21.986905813217163
+got update!
+Total time for the generation 7: 44.6933388710022
+best solution now is: 4881.0
+Time for the API calls in generation 8: 29.057114362716675
+Time for the API calls in generation 8: 24.921613454818726
+Time for the API calls in generation 8: 20.544949293136597
+got stuck 1 time
+Total time for the generation 8: 74.52472805976868
+best solution now is: 4881.0
+Time for the API calls in generation 9: 21.12678623199463
+Time for the API calls in generation 9: 22.55764865875244
+got update!
+Total time for the generation 9: 43.685391902923584
+best solution now is: 4812.0
+Time for the API calls in generation 10: 29.178095817565918
+Time for the API calls in generation 10: 11.722715377807617
+got update!
+Total time for the generation 10: 40.900811195373535
+best solution now is: 4809.0
+Time for the API calls in generation 11: 6.8463134765625
+Time for the API calls in generation 11: 22.47258758544922
+Time for the API calls in generation 11: 25.19653844833374
+got stuck 1 time
+Total time for the generation 11: 54.51742625236511
+best solution now is: 4809.0
+Time for the API calls in generation 12: 15.908990859985352
+Time for the API calls in generation 12: 9.420000076293945
+Time for the API calls in generation 12: 29.383159399032593
+Time for the API calls in generation 12: 18.248414039611816
+got update!
+Total time for the generation 12: 72.9605643749237
+best solution now is: 4767.0
+Time for the API calls in generation 13: 29.66565728187561
+Time for the API calls in generation 13: 29.002318143844604
+got stuck 1 time
+Total time for the generation 13: 58.66897177696228
+best solution now is: 4767.0
+Time for the API calls in generation 14: 17.25681972503662
+Time for the API calls in generation 14: 16.26653242111206
+Time for the API calls in generation 14: 24.86591863632202
+got update!
+Total time for the generation 14: 58.400060176849365
+best solution now is: 4493.0
+Time for the API calls in generation 15: 24.86274814605713
+Time for the API calls in generation 15: 25.680195808410645
+got update!
+Total time for the generation 15: 50.54587769508362
+best solution now is: 4470.0
+Time for the API calls in generation 16: 24.823752880096436
+Time for the API calls in generation 16: 7.021366119384766
+Time for the API calls in generation 16: 4.119534969329834
+Time for the API calls in generation 16: 27.62807011604309
+Time for the API calls in generation 16: 21.061625480651855
+Time for the API calls in generation 16: 19.497620105743408
+got stuck 1 time
+Total time for the generation 16: 104.15304946899414
+best solution now is: 4470.0
+Time for the API calls in generation 17: 12.471399068832397
+Time for the API calls in generation 17: 12.514413833618164
+Time for the API calls in generation 17: 29.30744957923889
+Time for the API calls in generation 17: 5.316658020019531
+Time for the API calls in generation 17: 23.435298919677734
+Time for the API calls in generation 17: 3.877053737640381
+Time for the API calls in generation 17: 25.15716314315796
+got update!
+Total time for the generation 17: 112.0804328918457
+best solution now is: 3968.0
+Time for the API calls in generation 18: 27.818407773971558
+Time for the API calls in generation 18: 7.962914943695068
+Time for the API calls in generation 18: 24.649128198623657
+got stuck 1 time
+Total time for the generation 18: 60.43152832984924
+best solution now is: 3968.0
+Time for the API calls in generation 19: 28.9210262298584
+Time for the API calls in generation 19: 19.98935890197754
+got stuck 2 time
+Total time for the generation 19: 48.91169309616089
+best solution now is: 3968.0
+Time for the API calls in generation 20: 29.3542537689209
+Time for the API calls in generation 20: 22.089759588241577
+Time for the API calls in generation 20: 20.978626012802124
+got stuck 3 time
+Total time for the generation 20: 72.43404817581177
+best solution now is: 3968.0
+Time for the API calls in generation 21: 24.680004358291626
+Time for the API calls in generation 21: 20.4483323097229
+got stuck 4 time
+Total time for the generation 21: 45.13037705421448
+best solution now is: 3968.0
+Time for the API calls in generation 22: 24.985450506210327
+Time for the API calls in generation 22: 10.674376964569092
+Time for the API calls in generation 22: 29.440391778945923
+Time for the API calls in generation 22: 11.732420444488525
+Time for the API calls in generation 22: 20.444493532180786
+got stuck 5 time
+Total time for the generation 22: 97.2800543308258
+best solution now is: 3968.0
+Time for the API calls in generation 23: 20.024946689605713
+Time for the API calls in generation 23: 29.214632272720337
+Time for the API calls in generation 23: 11.76309871673584
+Time for the API calls in generation 23: 26.678505420684814
+got stuck 6 time
+Total time for the generation 23: 87.6811830997467
+best solution now is: 3968.0
+Time for the API calls in generation 24: 23.929936408996582
+Time for the API calls in generation 24: 20.43313431739807
+Time for the API calls in generation 24: 18.365533590316772
+got stuck 7 time
+Total time for the generation 24: 62.73166799545288
+best solution now is: 3968.0
+Time for the API calls in generation 25: 3.701091766357422
+Time for the API calls in generation 25: 18.341076850891113
+Time for the API calls in generation 25: 28.723016023635864
+got stuck 8 time
+Total time for the generation 25: 50.7681884765625
+best solution now is: 3968.0
+Time for the API calls in generation 26: 25.449686765670776
+Time for the API calls in generation 26: 26.719033002853394
+got update!
+Total time for the generation 26: 52.16900324821472
+best solution now is: 3865.0
+Time for the API calls in generation 27: 12.00837230682373
+Time for the API calls in generation 27: 17.69814109802246
+Time for the API calls in generation 27: 12.780926704406738
+Time for the API calls in generation 27: 26.540271520614624
+Time for the API calls in generation 27: 27.168292999267578
+Time for the API calls in generation 27: 17.770055055618286
+got stuck 1 time
+Total time for the generation 27: 113.98374915122986
+best solution now is: 3865.0
+Time for the API calls in generation 28: 19.51817774772644
+Time for the API calls in generation 28: 20.461973428726196
+got stuck 2 time
+Total time for the generation 28: 39.9810950756073
+best solution now is: 3865.0
+Time for the API calls in generation 29: 20.345367670059204
+Time for the API calls in generation 29: 18.312513828277588
+got stuck 3 time
+Total time for the generation 29: 38.65788149833679
+best solution now is: 3865.0
+Time for the API calls in generation 30: 25.841299772262573
+Time for the API calls in generation 30: 26.78278350830078
+Time for the API calls in generation 30: 20.373706102371216
+got stuck 4 time
+Total time for the generation 30: 73.00097608566284
+best solution now is: 3865.0
+Time for the API calls in generation 31: 24.571845293045044
+Time for the API calls in generation 31: 18.555482149124146
+got stuck 5 time
+Total time for the generation 31: 43.12732744216919
+best solution now is: 3865.0
+Time for the API calls in generation 32: 28.411176443099976
+Time for the API calls in generation 32: 26.670677185058594
+got stuck 6 time
+Total time for the generation 32: 55.08185362815857
+best solution now is: 3865.0
+Time for the API calls in generation 33: 29.24102473258972
+Time for the API calls in generation 33: 9.71634840965271
+Time for the API calls in generation 33: 24.691359281539917
+Time for the API calls in generation 33: 24.732636213302612
+got stuck 7 time
+Total time for the generation 33: 88.38343358039856
+best solution now is: 3865.0
+Time for the API calls in generation 34: 13.132530689239502
+Time for the API calls in generation 34: 20.881382703781128
+got stuck 8 time
+Total time for the generation 34: 34.01592254638672
+best solution now is: 3865.0
+Time for the API calls in generation 35: 22.579962015151978
+Time for the API calls in generation 35: 19.519338607788086
+got stuck 9 time
+Total time for the generation 35: 42.1064567565918
+best solution now is: 3865.0
+Time for the API calls in generation 36: 29.52764868736267
+Time for the API calls in generation 36: 18.218560695648193
+got stuck 10 time
+update_temp!
+Total time for the generation 36: 47.746209383010864
+best solution now is: 3865.0
+Time for the API calls in generation 37: 18.457326650619507
+Time for the API calls in generation 37: 19.868661403656006
+got stuck 11 time
+update_temp!
+Total time for the generation 37: 38.32858943939209
+best solution now is: 3865.0
+Time for the API calls in generation 38: 9.24390459060669
+Time for the API calls in generation 38: 22.854166746139526
+Time for the API calls in generation 38: 16.119502782821655
+Time for the API calls in generation 38: 20.537386655807495
+Time for the API calls in generation 38: 16.742757081985474
+got stuck 12 time
+update_temp!
+Total time for the generation 38: 85.50718712806702
+best solution now is: 3865.0
+Time for the API calls in generation 39: 15.795671701431274
+Time for the API calls in generation 39: 12.927382946014404
+Time for the API calls in generation 39: 14.169500827789307
+Time for the API calls in generation 39: 15.590030193328857
+Time for the API calls in generation 39: 16.87201952934265
+got stuck 13 time
+update_temp!
+Total time for the generation 39: 75.36028218269348
+best solution now is: 3865.0
+Time for the API calls in generation 40: 22.986391305923462
+Time for the API calls in generation 40: 32.08717918395996

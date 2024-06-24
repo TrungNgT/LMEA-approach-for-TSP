@@ -116,7 +116,7 @@ def updatePool(pool: list, newgenN: list, N: int):
 # hàm này để đưa các cá thể mẫu (trong pool đang là list các cá thể thuộc lớp Individual) thành xâu liệt kê để ghép vào phần thứ 2 của prompt
 def pool2examples(pool: list) :
     outstr = ''
-    for index in range(N) :
+    for index in range(4) :
         outstr += ( str(pool[index].trace) + ' ' + 'length = ' + str(pool[index].length))
         if index != N-1 :
             outstr += '\n'
