@@ -37,8 +37,8 @@ def OX(parent1, parent2):
 
 
 # Define parent genes
-parent1 = [10, 1, 14, 3, 12, 6, 4, 7, 9, 11, 8, 2, 13, 5]
-parent2 = [10, 11, 4, 12, 14, 5, 9, 1, 8, 3, 6, 7, 13, 2]
+parent1 = [16, 22, 15, 13, 14, 19, 6, 21, 8, 5, 10, 1, 4, 3, 12, 18, 7, 11, 20, 9, 17, 2]
+parent2 = [1, 4, 6, 2, 11, 8, 10, 19, 7, 9, 5, 12, 21, 13, 15, 16, 14, 3, 18, 17, 22, 20]
 
 # Perform crossover
 child1, child2 = OX(parent1, parent2)

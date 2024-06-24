@@ -1,0 +1,876 @@
+ulysses22 dataset, best_sol: 131.07276003654465
+
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9], length=131.07276003654468)
+------------------------------------------------------------------------------
+41th pairs of parents in generation 94:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 20, 19, 15, 2], length=131.21754412616923), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+spent_time for this request: 5.011383533477783
+crossover of 41th parents in generation 94
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+42th pairs of parents in generation 94:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5], length=131.07276003654468)
+spent_time for this request: 4.997740268707275
+crossover of 42th parents in generation 94
+child1 accepted!
+child2 accepted!
+time for muatating: 2.397644281387329
+time for muatating: 2.2113678455352783
+------------------------------------------------------------------------------
+43th pairs of parents in generation 94:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[7, 21, 17, 3, 16, 1, 2, 15, 19, 20, 18, 9, 6, 5, 8, 10, 22, 4, 14, 13, 12, 11], length=131.21754412616926)
+spent_time for this request: 5.123555660247803
+crossover of 43th parents in generation 94
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+44th pairs of parents in generation 94:
+parent_1: Individual(trace=[2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15], length=131.07276003654468), parent_2: Individual(trace=[19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18], length=131.07276003654468)
+------------------------------------------------------------------------------
+45th pairs of parents in generation 94:
+parent_1: Individual(trace=[19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18], length=131.07276003654468), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+spent_time for this request: 5.187797546386719
+crossover of 45th parents in generation 94
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+46th pairs of parents in generation 94:
+parent_1: Individual(trace=[12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11], length=131.07276003654468), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+spent_time for this request: 5.422217130661011
+crossover of 46th parents in generation 94
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+47th pairs of parents in generation 94:
+parent_1: Individual(trace=[4, 14, 13, 12, 11, 7, 21, 17, 3, 16, 1, 2, 15, 19, 20, 18, 9, 6, 5, 8, 10, 22], length=131.21754412616923), parent_2: Individual(trace=[6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5], length=131.07276003654468)
+spent_time for this request: 4.456772089004517
+crossover of 47th parents in generation 94
+child1 accepted!
+------------------------------------------------------------------------------
+48th pairs of parents in generation 94:
+parent_1: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465), parent_2: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465)
+spent_time for this request: 4.773117780685425
+crossover of 48th parents in generation 94
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+49th pairs of parents in generation 94:
+parent_1: Individual(trace=[15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20], length=131.07276003654465), parent_2: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465)
+------------------------------------------------------------------------------
+50th pairs of parents in generation 94:
+parent_1: Individual(trace=[15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20], length=131.07276003654465), parent_2: Individual(trace=[13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12], length=131.07276003654468)
+spent_time for this request: 5.1283183097839355
+crossover of 50th parents in generation 94
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+51th pairs of parents in generation 94:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15], length=131.07276003654468)
+------------------------------------------------------------------------------
+52th pairs of parents in generation 94:
+parent_1: Individual(trace=[4, 14, 13, 12, 11, 7, 21, 17, 3, 16, 1, 2, 15, 19, 20, 18, 9, 6, 5, 8, 10, 22], length=131.21754412616923), parent_2: Individual(trace=[4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14], length=131.07276003654468)
+spent_time for this request: 4.779019594192505
+crossover of 52th parents in generation 94
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+53th pairs of parents in generation 94:
+parent_1: Individual(trace=[18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9], length=131.07276003654468), parent_2: Individual(trace=[2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15], length=131.07276003654468)
+spent_time for this request: 4.945620536804199
+crossover of 53th parents in generation 94
+child1 accepted!
+child2 accepted!
+time for muatating: 2.1445670127868652
+time for muatating: 2.28633975982666
+------------------------------------------------------------------------------
+54th pairs of parents in generation 94:
+parent_1: Individual(trace=[2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15], length=131.07276003654468), parent_2: Individual(trace=[4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14], length=131.07276003654468)
+spent_time for this request: 5.357692003250122
+crossover of 54th parents in generation 94
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+55th pairs of parents in generation 94:
+parent_1: Individual(trace=[15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20], length=131.07276003654465), parent_2: Individual(trace=[2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15], length=131.07276003654468)
+spent_time for this request: 4.562680959701538
+crossover of 55th parents in generation 94
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+56th pairs of parents in generation 94:
+parent_1: Individual(trace=[2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15], length=131.07276003654468), parent_2: Individual(trace=[6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5], length=131.07276003654468)
+------------------------------------------------------------------------------
+57th pairs of parents in generation 94:
+parent_1: Individual(trace=[2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15], length=131.07276003654468), parent_2: Individual(trace=[2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15], length=131.07276003654468)
+spent_time for this request: 4.611803293228149
+crossover of 57th parents in generation 94
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+58th pairs of parents in generation 94:
+parent_1: Individual(trace=[6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5], length=131.07276003654468), parent_2: Individual(trace=[4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14], length=131.07276003654468)
+------------------------------------------------------------------------------
+59th pairs of parents in generation 94:
+parent_1: Individual(trace=[2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15], length=131.07276003654468), parent_2: Individual(trace=[9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6], length=131.07276003654468)
+spent_time for this request: 4.681970834732056
+crossover of 59th parents in generation 94
+------------------------------------------------------------------------------
+60th pairs of parents in generation 94:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6], length=131.07276003654468)
+spent_time for this request: 5.248790979385376
+crossover of 60th parents in generation 94
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+END generation: 94, best solution now is: 131.07276003654465
+#######################################################################################
+got stuck 8 time
+1th pairs of parents in generation 95:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20], length=131.07276003654465)
+------------------------------------------------------------------------------
+2th pairs of parents in generation 95:
+parent_1: Individual(trace=[19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18], length=131.07276003654468), parent_2: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465)
+spent_time for this request: 4.906509637832642
+crossover of 2th parents in generation 95
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+3th pairs of parents in generation 95:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18], length=131.07276003654468)
+spent_time for this request: 5.115790605545044
+crossover of 3th parents in generation 95
+child1 accepted!
+child2 accepted!
+time for muatating: 2.0939888954162598
+time for muatating: 2.3144173622131348
+------------------------------------------------------------------------------
+4th pairs of parents in generation 95:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+spent_time for this request: 5.5681352615356445
+crossover of 4th parents in generation 95
+child1 accepted!
+child2 accepted!
+time for muatating: 2.887112855911255
+!!! Fail mutation process
+time for muatating: 2.1940348148345947
+------------------------------------------------------------------------------
+5th pairs of parents in generation 95:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5], length=131.07276003654468)
+------------------------------------------------------------------------------
+6th pairs of parents in generation 95:
+parent_1: Individual(trace=[6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5], length=131.07276003654468), parent_2: Individual(trace=[9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6], length=131.07276003654468)
+------------------------------------------------------------------------------
+7th pairs of parents in generation 95:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6], length=131.07276003654468)
+spent_time for this request: 4.6718363761901855
+crossover of 7th parents in generation 95
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+8th pairs of parents in generation 95:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465)
+------------------------------------------------------------------------------
+9th pairs of parents in generation 95:
+parent_1: Individual(trace=[3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16], length=131.07276003654468), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+------------------------------------------------------------------------------
+10th pairs of parents in generation 95:
+parent_1: Individual(trace=[6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5], length=131.07276003654468), parent_2: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465)
+spent_time for this request: 4.838663816452026
+crossover of 10th parents in generation 95
+child1 accepted!
+------------------------------------------------------------------------------
+11th pairs of parents in generation 95:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465)
+spent_time for this request: 4.994740962982178
+crossover of 11th parents in generation 95
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+12th pairs of parents in generation 95:
+parent_1: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465), parent_2: Individual(trace=[3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16], length=131.07276003654468)
+------------------------------------------------------------------------------
+13th pairs of parents in generation 95:
+parent_1: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+spent_time for this request: 5.090470790863037
+crossover of 13th parents in generation 95
+child1 accepted!
+child2 accepted!
+time for muatating: 2.669903516769409
+time for muatating: 2.220952272415161
+------------------------------------------------------------------------------
+14th pairs of parents in generation 95:
+parent_1: Individual(trace=[18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9], length=131.07276003654468), parent_2: Individual(trace=[6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5], length=131.07276003654468)
+spent_time for this request: 5.221239328384399
+crossover of 14th parents in generation 95
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+15th pairs of parents in generation 95:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11], length=131.07276003654468)
+spent_time for this request: 4.76095724105835
+crossover of 15th parents in generation 95
+child1 accepted!
+child2 accepted!
+time for muatating: 2.078199625015259
+time for muatating: 2.265014886856079
+------------------------------------------------------------------------------
+16th pairs of parents in generation 95:
+parent_1: Individual(trace=[6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5], length=131.07276003654468), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+spent_time for this request: 5.2669782638549805
+crossover of 16th parents in generation 95
+child1 accepted!
+------------------------------------------------------------------------------
+17th pairs of parents in generation 95:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+spent_time for this request: 4.868028163909912
+crossover of 17th parents in generation 95
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+18th pairs of parents in generation 95:
+parent_1: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465), parent_2: Individual(trace=[18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9], length=131.07276003654468)
+spent_time for this request: 5.000773191452026
+crossover of 18th parents in generation 95
+------------------------------------------------------------------------------
+19th pairs of parents in generation 95:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15], length=131.07276003654468)
+spent_time for this request: 5.02676248550415
+crossover of 19th parents in generation 95
+child1 accepted!
+------------------------------------------------------------------------------
+20th pairs of parents in generation 95:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15], length=131.07276003654468)
+------------------------------------------------------------------------------
+21th pairs of parents in generation 95:
+parent_1: Individual(trace=[2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15], length=131.07276003654468), parent_2: Individual(trace=[3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16], length=131.07276003654468)
+spent_time for this request: 4.462746620178223
+crossover of 21th parents in generation 95
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+22th pairs of parents in generation 95:
+parent_1: Individual(trace=[18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9], length=131.07276003654468), parent_2: Individual(trace=[5, 6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8], length=131.07276003654468)
+spent_time for this request: 4.945816278457642
+crossover of 22th parents in generation 95
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+23th pairs of parents in generation 95:
+parent_1: Individual(trace=[18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9], length=131.07276003654468), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+spent_time for this request: 5.602452516555786
+crossover of 23th parents in generation 95
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+24th pairs of parents in generation 95:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9], length=131.07276003654468)
+spent_time for this request: 4.679398775100708
+crossover of 24th parents in generation 95
+------------------------------------------------------------------------------
+25th pairs of parents in generation 95:
+parent_1: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465), parent_2: Individual(trace=[4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14], length=131.07276003654468)
+------------------------------------------------------------------------------
+26th pairs of parents in generation 95:
+parent_1: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465), parent_2: Individual(trace=[12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11], length=131.07276003654468)
+------------------------------------------------------------------------------
+27th pairs of parents in generation 95:
+parent_1: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465), parent_2: Individual(trace=[4, 14, 13, 12, 11, 7, 21, 17, 3, 16, 1, 2, 15, 19, 20, 18, 9, 6, 5, 8, 10, 22], length=131.21754412616923)
+spent_time for this request: 4.971489191055298
+crossover of 27th parents in generation 95
+child1 accepted!
+child2 accepted!
+time for muatating: 2.2373476028442383
+time for muatating: 2.0757296085357666
+------------------------------------------------------------------------------
+28th pairs of parents in generation 95:
+parent_1: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465), parent_2: Individual(trace=[4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14], length=131.07276003654468)
+spent_time for this request: 4.917722225189209
+crossover of 28th parents in generation 95
+child1 accepted!
+child2 accepted!
+time for muatating: 2.251960515975952
+time for muatating: 2.040625810623169
+------------------------------------------------------------------------------
+29th pairs of parents in generation 95:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465)
+spent_time for this request: 5.167393207550049
+crossover of 29th parents in generation 95
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+30th pairs of parents in generation 95:
+parent_1: Individual(trace=[18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9], length=131.07276003654468), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+spent_time for this request: 5.0583953857421875
+crossover of 30th parents in generation 95
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+31th pairs of parents in generation 95:
+parent_1: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+spent_time for this request: 5.325648307800293
+crossover of 31th parents in generation 95
+child1 accepted!
+child2 accepted!
+time for muatating: 2.0875444412231445
+time for muatating: 2.5024242401123047
+------------------------------------------------------------------------------
+32th pairs of parents in generation 95:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465)
+spent_time for this request: 4.6781346797943115
+crossover of 32th parents in generation 95
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+33th pairs of parents in generation 95:
+parent_1: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+spent_time for this request: 4.643413782119751
+crossover of 33th parents in generation 95
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+34th pairs of parents in generation 95:
+parent_1: Individual(trace=[18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9], length=131.07276003654468), parent_2: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465)
+spent_time for this request: 4.892886161804199
+crossover of 34th parents in generation 95
+------------------------------------------------------------------------------
+35th pairs of parents in generation 95:
+parent_1: Individual(trace=[4, 14, 13, 12, 11, 7, 21, 17, 3, 16, 1, 2, 15, 19, 20, 18, 9, 6, 5, 8, 10, 22], length=131.21754412616923), parent_2: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465)
+spent_time for this request: 4.7738847732543945
+crossover of 35th parents in generation 95
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+36th pairs of parents in generation 95:
+parent_1: Individual(trace=[18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9], length=131.07276003654468), parent_2: Individual(trace=[3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16], length=131.07276003654468)
+spent_time for this request: 4.53593111038208
+crossover of 36th parents in generation 95
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+37th pairs of parents in generation 95:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15], length=131.07276003654468)
+spent_time for this request: 4.583526611328125
+crossover of 37th parents in generation 95
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+38th pairs of parents in generation 95:
+parent_1: Individual(trace=[2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15], length=131.07276003654468), parent_2: Individual(trace=[4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14], length=131.07276003654468)
+spent_time for this request: 4.641923427581787
+crossover of 38th parents in generation 95
+child2 accepted!
+------------------------------------------------------------------------------
+39th pairs of parents in generation 95:
+parent_1: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465), parent_2: Individual(trace=[6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5], length=131.07276003654468)
+spent_time for this request: 5.119673490524292
+crossover of 39th parents in generation 95
+------------------------------------------------------------------------------
+40th pairs of parents in generation 95:
+parent_1: Individual(trace=[4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14], length=131.07276003654468), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+spent_time for this request: 4.420288801193237
+crossover of 40th parents in generation 95
+child1 accepted!
+------------------------------------------------------------------------------
+41th pairs of parents in generation 95:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[4, 14, 13, 12, 11, 7, 21, 17, 3, 16, 1, 2, 15, 19, 20, 18, 9, 6, 5, 8, 10, 22], length=131.21754412616923)
+spent_time for this request: 4.9770238399505615
+crossover of 41th parents in generation 95
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+42th pairs of parents in generation 95:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20], length=131.07276003654465)
+spent_time for this request: 4.539852142333984
+crossover of 42th parents in generation 95
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+43th pairs of parents in generation 95:
+parent_1: Individual(trace=[2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15], length=131.07276003654468), parent_2: Individual(trace=[5, 6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8], length=131.07276003654468)
+spent_time for this request: 4.508549451828003
+crossover of 43th parents in generation 95
+------------------------------------------------------------------------------
+44th pairs of parents in generation 95:
+parent_1: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465), parent_2: Individual(trace=[2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15], length=131.07276003654468)
+spent_time for this request: 4.832005739212036
+crossover of 44th parents in generation 95
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+45th pairs of parents in generation 95:
+parent_1: Individual(trace=[13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12], length=131.07276003654468), parent_2: Individual(trace=[15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20], length=131.07276003654465)
+spent_time for this request: 5.105262994766235
+crossover of 45th parents in generation 95
+child1 accepted!
+child2 accepted!
+time for muatating: 2.4022250175476074
+time for muatating: 2.099142074584961
+------------------------------------------------------------------------------
+46th pairs of parents in generation 95:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465)
+spent_time for this request: 4.845557689666748
+crossover of 46th parents in generation 95
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+47th pairs of parents in generation 95:
+parent_1: Individual(trace=[3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16], length=131.07276003654468), parent_2: Individual(trace=[10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22], length=131.07276003654468)
+------------------------------------------------------------------------------
+48th pairs of parents in generation 95:
+parent_1: Individual(trace=[2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15], length=131.07276003654468), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+spent_time for this request: 4.577041864395142
+crossover of 48th parents in generation 95
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+49th pairs of parents in generation 95:
+parent_1: Individual(trace=[6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5], length=131.07276003654468), parent_2: Individual(trace=[13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12], length=131.07276003654468)
+spent_time for this request: 4.726847887039185
+crossover of 49th parents in generation 95
+------------------------------------------------------------------------------
+50th pairs of parents in generation 95:
+parent_1: Individual(trace=[2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15], length=131.07276003654468), parent_2: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465)
+------------------------------------------------------------------------------
+51th pairs of parents in generation 95:
+parent_1: Individual(trace=[2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15], length=131.07276003654468), parent_2: Individual(trace=[3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16], length=131.07276003654468)
+spent_time for this request: 4.900388956069946
+crossover of 51th parents in generation 95
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+52th pairs of parents in generation 95:
+parent_1: Individual(trace=[9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6], length=131.07276003654468), parent_2: Individual(trace=[18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9], length=131.07276003654468)
+spent_time for this request: 4.7462873458862305
+crossover of 52th parents in generation 95
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+53th pairs of parents in generation 95:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465)
+spent_time for this request: 4.772247791290283
+crossover of 53th parents in generation 95
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+54th pairs of parents in generation 95:
+parent_1: Individual(trace=[4, 14, 13, 12, 11, 7, 21, 17, 3, 16, 1, 2, 15, 19, 20, 18, 9, 6, 5, 8, 10, 22], length=131.21754412616923), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 20, 19, 15, 2], length=131.21754412616923)
+spent_time for this request: 4.640852928161621
+crossover of 54th parents in generation 95
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+55th pairs of parents in generation 95:
+parent_1: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465), parent_2: Individual(trace=[4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14], length=131.07276003654468)
+spent_time for this request: 4.79688572883606
+crossover of 55th parents in generation 95
+child2 accepted!
+------------------------------------------------------------------------------
+56th pairs of parents in generation 95:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6], length=131.07276003654468)
+spent_time for this request: 4.548163890838623
+crossover of 56th parents in generation 95
+child1 accepted!
+------------------------------------------------------------------------------
+57th pairs of parents in generation 95:
+parent_1: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+spent_time for this request: 4.8407251834869385
+crossover of 57th parents in generation 95
+child1 accepted!
+child2 accepted!
+time for muatating: 2.0528016090393066
+time for muatating: 2.074328899383545
+------------------------------------------------------------------------------
+58th pairs of parents in generation 95:
+parent_1: Individual(trace=[9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6], length=131.07276003654468), parent_2: Individual(trace=[3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16], length=131.07276003654468)
+spent_time for this request: 4.494307994842529
+crossover of 58th parents in generation 95
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+59th pairs of parents in generation 95:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+------------------------------------------------------------------------------
+60th pairs of parents in generation 95:
+parent_1: Individual(trace=[3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16], length=131.07276003654468), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+spent_time for this request: 4.833733797073364
+crossover of 60th parents in generation 95
+child1 accepted!
+child2 accepted!
+time for muatating: 2.0811655521392822
+time for muatating: 2.1111512184143066
+------------------------------------------------------------------------------
+END generation: 95, best solution now is: 131.07276003654465
+#######################################################################################
+got stuck 9 time
+1th pairs of parents in generation 96:
+parent_1: Individual(trace=[18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9], length=131.07276003654468), parent_2: Individual(trace=[2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15], length=131.07276003654468)
+spent_time for this request: 4.855212450027466
+crossover of 1th parents in generation 96
+child1 accepted!
+------------------------------------------------------------------------------
+2th pairs of parents in generation 96:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[5, 6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8], length=131.07276003654468)
+spent_time for this request: 4.826059818267822
+crossover of 2th parents in generation 96
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+3th pairs of parents in generation 96:
+parent_1: Individual(trace=[15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20], length=131.07276003654465), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+spent_time for this request: 4.566373586654663
+crossover of 3th parents in generation 96
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+4th pairs of parents in generation 96:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9], length=131.07276003654468)
+spent_time for this request: 4.531207323074341
+crossover of 4th parents in generation 96
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+5th pairs of parents in generation 96:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465)
+spent_time for this request: 4.845579385757446
+crossover of 5th parents in generation 96
+child1 accepted!
+------------------------------------------------------------------------------
+6th pairs of parents in generation 96:
+parent_1: Individual(trace=[2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15], length=131.07276003654468), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+spent_time for this request: 4.764396905899048
+crossover of 6th parents in generation 96
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+7th pairs of parents in generation 96:
+parent_1: Individual(trace=[4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14], length=131.07276003654468), parent_2: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465)
+spent_time for this request: 4.4354517459869385
+crossover of 7th parents in generation 96
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+8th pairs of parents in generation 96:
+parent_1: Individual(trace=[12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11], length=131.07276003654468), parent_2: Individual(trace=[18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9], length=131.07276003654468)
+spent_time for this request: 4.758194446563721
+crossover of 8th parents in generation 96
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+9th pairs of parents in generation 96:
+parent_1: Individual(trace=[3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16], length=131.07276003654468), parent_2: Individual(trace=[2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15], length=131.07276003654468)
+spent_time for this request: 4.683345556259155
+crossover of 9th parents in generation 96
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+10th pairs of parents in generation 96:
+parent_1: Individual(trace=[9, 6, 5, 8, 10, 22, 4, 14, 13, 12, 11, 7, 21, 17, 3, 16, 1, 2, 15, 20, 19, 18], length=131.0727600365447), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+spent_time for this request: 4.666738271713257
+crossover of 10th parents in generation 96
+child1 accepted!
+------------------------------------------------------------------------------
+11th pairs of parents in generation 96:
+parent_1: Individual(trace=[20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19], length=131.0727600365447), parent_2: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465)
+------------------------------------------------------------------------------
+12th pairs of parents in generation 96:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20], length=131.07276003654465)
+spent_time for this request: 4.756075143814087
+crossover of 12th parents in generation 96
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+13th pairs of parents in generation 96:
+parent_1: Individual(trace=[4, 14, 13, 12, 11, 7, 21, 17, 3, 16, 1, 2, 15, 19, 20, 18, 9, 6, 5, 8, 10, 22], length=131.21754412616923), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+spent_time for this request: 4.850438117980957
+crossover of 13th parents in generation 96
+child1 accepted!
+child2 accepted!
+time for muatating: 2.066331386566162
+time for muatating: 2.1906371116638184
+------------------------------------------------------------------------------
+14th pairs of parents in generation 96:
+parent_1: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465), parent_2: Individual(trace=[9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6], length=131.07276003654468)
+spent_time for this request: 4.671071290969849
+crossover of 14th parents in generation 96
+child1 accepted!
+child2 accepted!
+time for muatating: 2.086639165878296
+time for muatating: 2.418752908706665
+------------------------------------------------------------------------------
+15th pairs of parents in generation 96:
+parent_1: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465), parent_2: Individual(trace=[19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18], length=131.07276003654468)
+------------------------------------------------------------------------------
+16th pairs of parents in generation 96:
+parent_1: Individual(trace=[6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5], length=131.07276003654468), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+------------------------------------------------------------------------------
+17th pairs of parents in generation 96:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20], length=131.07276003654465)
+spent_time for this request: 4.876769065856934
+crossover of 17th parents in generation 96
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+18th pairs of parents in generation 96:
+parent_1: Individual(trace=[15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20], length=131.07276003654465), parent_2: Individual(trace=[13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12], length=131.07276003654468)
+spent_time for this request: 4.80656886100769
+crossover of 18th parents in generation 96
+child1 accepted!
+time for muatating: 2.2045536041259766
+time for muatating: 2.194561243057251
+!!! Fail mutation process
+------------------------------------------------------------------------------
+19th pairs of parents in generation 96:
+parent_1: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465), parent_2: Individual(trace=[2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15], length=131.07276003654468)
+spent_time for this request: 4.805323123931885
+crossover of 19th parents in generation 96
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+20th pairs of parents in generation 96:
+parent_1: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465), parent_2: Individual(trace=[6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5], length=131.07276003654468)
+spent_time for this request: 4.567474365234375
+crossover of 20th parents in generation 96
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+21th pairs of parents in generation 96:
+parent_1: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+spent_time for this request: 4.561551332473755
+crossover of 21th parents in generation 96
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+22th pairs of parents in generation 96:
+parent_1: Individual(trace=[12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11], length=131.07276003654468), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+spent_time for this request: 4.5548996925354
+crossover of 22th parents in generation 96
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+23th pairs of parents in generation 96:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20], length=131.07276003654465)
+spent_time for this request: 7.142138719558716
+crossover of 23th parents in generation 96
+------------------------------------------------------------------------------
+24th pairs of parents in generation 96:
+parent_1: Individual(trace=[4, 14, 13, 12, 11, 7, 21, 17, 3, 16, 1, 2, 15, 19, 20, 18, 9, 6, 5, 8, 10, 22], length=131.21754412616923), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+spent_time for this request: 4.532484769821167
+crossover of 24th parents in generation 96
+child1 accepted!
+child2 accepted!
+time for muatating: 2.1809160709381104
+time for muatating: 2.1200337409973145
+------------------------------------------------------------------------------
+25th pairs of parents in generation 96:
+parent_1: Individual(trace=[18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9], length=131.07276003654468), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+spent_time for this request: 4.710636854171753
+crossover of 25th parents in generation 96
+child2 accepted!
+time for muatating: 2.3332931995391846
+!!! Fail mutation process
+time for muatating: 2.3136754035949707
+------------------------------------------------------------------------------
+26th pairs of parents in generation 96:
+parent_1: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+------------------------------------------------------------------------------
+27th pairs of parents in generation 96:
+parent_1: Individual(trace=[6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5], length=131.07276003654468), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+------------------------------------------------------------------------------
+28th pairs of parents in generation 96:
+parent_1: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+------------------------------------------------------------------------------
+29th pairs of parents in generation 96:
+parent_1: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465), parent_2: Individual(trace=[18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9], length=131.07276003654468)
+spent_time for this request: 4.6008360385894775
+crossover of 29th parents in generation 96
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+30th pairs of parents in generation 96:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465)
+spent_time for this request: 4.62447452545166
+crossover of 30th parents in generation 96
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+31th pairs of parents in generation 96:
+parent_1: Individual(trace=[15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20], length=131.07276003654465), parent_2: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465)
+spent_time for this request: 4.7211198806762695
+crossover of 31th parents in generation 96
+child1 accepted!
+child2 accepted!
+time for muatating: 2.245128631591797
+time for muatating: 2.075572967529297
+------------------------------------------------------------------------------
+32th pairs of parents in generation 96:
+parent_1: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465), parent_2: Individual(trace=[12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11], length=131.07276003654468)
+spent_time for this request: 4.841781139373779
+crossover of 32th parents in generation 96
+child1 accepted!
+------------------------------------------------------------------------------
+33th pairs of parents in generation 96:
+parent_1: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+spent_time for this request: 4.90705680847168
+crossover of 33th parents in generation 96
+child1 accepted!
+child2 accepted!
+time for muatating: 2.1557364463806152
+time for muatating: 2.1630427837371826
+------------------------------------------------------------------------------
+34th pairs of parents in generation 96:
+parent_1: Individual(trace=[18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9], length=131.07276003654468), parent_2: Individual(trace=[15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20], length=131.07276003654465)
+------------------------------------------------------------------------------
+35th pairs of parents in generation 96:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+spent_time for this request: 4.834420919418335
+crossover of 35th parents in generation 96
+child1 accepted!
+child2 accepted!
+time for muatating: 2.0734684467315674
+time for muatating: 2.0531270503997803
+------------------------------------------------------------------------------
+36th pairs of parents in generation 96:
+parent_1: Individual(trace=[6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5], length=131.07276003654468), parent_2: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465)
+------------------------------------------------------------------------------
+37th pairs of parents in generation 96:
+parent_1: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+spent_time for this request: 4.881237745285034
+crossover of 37th parents in generation 96
+child1 accepted!
+child2 accepted!
+time for muatating: 2.225667953491211
+time for muatating: 2.052081346511841
+------------------------------------------------------------------------------
+38th pairs of parents in generation 96:
+parent_1: Individual(trace=[3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16], length=131.07276003654468), parent_2: Individual(trace=[9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6], length=131.07276003654468)
+spent_time for this request: 6.746639728546143
+crossover of 38th parents in generation 96
+------------------------------------------------------------------------------
+39th pairs of parents in generation 96:
+parent_1: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465), parent_2: Individual(trace=[9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6], length=131.07276003654468)
+spent_time for this request: 5.194821119308472
+crossover of 39th parents in generation 96
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+40th pairs of parents in generation 96:
+parent_1: Individual(trace=[15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20], length=131.07276003654465), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+spent_time for this request: 5.322536468505859
+crossover of 40th parents in generation 96
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+41th pairs of parents in generation 96:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+spent_time for this request: 4.9770379066467285
+crossover of 41th parents in generation 96
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+42th pairs of parents in generation 96:
+parent_1: Individual(trace=[4, 14, 13, 12, 11, 7, 21, 17, 3, 16, 1, 2, 15, 19, 20, 18, 9, 6, 5, 8, 10, 22], length=131.21754412616923), parent_2: Individual(trace=[15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20], length=131.07276003654465)
+------------------------------------------------------------------------------
+43th pairs of parents in generation 96:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6], length=131.07276003654468)
+spent_time for this request: 4.925926685333252
+crossover of 43th parents in generation 96
+child2 accepted!
+------------------------------------------------------------------------------
+44th pairs of parents in generation 96:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+spent_time for this request: 4.500544309616089
+crossover of 44th parents in generation 96
+child1 accepted!
+------------------------------------------------------------------------------
+45th pairs of parents in generation 96:
+parent_1: Individual(trace=[3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16], length=131.07276003654468), parent_2: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465)
+spent_time for this request: 4.546933174133301
+crossover of 45th parents in generation 96
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+46th pairs of parents in generation 96:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15], length=131.07276003654468)
+------------------------------------------------------------------------------
+47th pairs of parents in generation 96:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+spent_time for this request: 4.530108690261841
+crossover of 47th parents in generation 96
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+48th pairs of parents in generation 96:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11], length=131.07276003654468)
+------------------------------------------------------------------------------
+49th pairs of parents in generation 96:
+parent_1: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+------------------------------------------------------------------------------
+50th pairs of parents in generation 96:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+spent_time for this request: 4.502349376678467
+crossover of 50th parents in generation 96
+child1 accepted!
+child2 accepted!
+time for muatating: 2.380970001220703
+time for muatating: 2.186929941177368
+------------------------------------------------------------------------------
+51th pairs of parents in generation 96:
+parent_1: Individual(trace=[10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22], length=131.07276003654468), parent_2: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465)
+spent_time for this request: 4.747131586074829
+crossover of 51th parents in generation 96
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+52th pairs of parents in generation 96:
+parent_1: Individual(trace=[13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12], length=131.07276003654468), parent_2: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465)
+spent_time for this request: 5.102239608764648
+crossover of 52th parents in generation 96
+------------------------------------------------------------------------------
+53th pairs of parents in generation 96:
+parent_1: Individual(trace=[15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20], length=131.07276003654465), parent_2: Individual(trace=[10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22], length=131.07276003654468)
+spent_time for this request: 4.897531509399414
+crossover of 53th parents in generation 96
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+54th pairs of parents in generation 96:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[4, 14, 13, 12, 11, 7, 21, 17, 3, 16, 1, 2, 15, 19, 20, 18, 9, 6, 5, 8, 10, 22], length=131.21754412616923)
+------------------------------------------------------------------------------
+55th pairs of parents in generation 96:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15], length=131.07276003654468)
+------------------------------------------------------------------------------
+56th pairs of parents in generation 96:
+parent_1: Individual(trace=[3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1, 16], length=131.07276003654468), parent_2: Individual(trace=[18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9], length=131.07276003654468)
+spent_time for this request: 5.035178899765015
+crossover of 56th parents in generation 96
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+57th pairs of parents in generation 96:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465)
+spent_time for this request: 4.665809869766235
+crossover of 57th parents in generation 96
+child2 accepted!
+------------------------------------------------------------------------------
+58th pairs of parents in generation 96:
+parent_1: Individual(trace=[15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20], length=131.07276003654465), parent_2: Individual(trace=[9, 18, 19, 20, 15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6], length=131.07276003654468)
+------------------------------------------------------------------------------
+59th pairs of parents in generation 96:
+parent_1: Individual(trace=[1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2], length=131.07276003654465), parent_2: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465)
+spent_time for this request: 4.602254629135132
+crossover of 59th parents in generation 96
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+60th pairs of parents in generation 96:
+parent_1: Individual(trace=[16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20, 15, 2, 1], length=131.07276003654465), parent_2: Individual(trace=[15, 2, 1, 16, 3, 17, 21, 7, 11, 12, 13, 14, 4, 22, 10, 8, 5, 6, 9, 18, 19, 20], length=131.07276003654465)
+spent_time for this request: 4.504527568817139
+crossover of 60th parents in generation 96
+child1 accepted!
+child2 accepted!
+------------------------------------------------------------------------------
+END generation: 96, best solution now is: 131.07276003654465
+#######################################################################################
+got stuck 10 time
+131.07276003654465

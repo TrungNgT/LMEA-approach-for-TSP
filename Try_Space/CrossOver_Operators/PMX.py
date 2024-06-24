@@ -38,10 +38,10 @@ def PMX(parent1, parent2):
 
 
 # Define parent genes
-parent1 = [14, 12, 13, 11, 9, 8, 10, 6, 5, 7, 2, 4, 3, 1]
-parent2 = [1, 3, 5, 7, 9, 2, 4, 6, 8, 10, 13, 11, 14, 12]
+parent1 = [20, 1, 4, 6, 2, 11, 8, 10, 19, 7, 9, 5, 12, 21, 13, 15, 16, 14, 3, 18, 17, 22]
+parent2 = [14, 19, 6, 21, 8, 5, 10, 1, 4, 13, 12, 18, 7, 11, 20, 3, 15, 16, 2, 9, 17, 22]
 
 # Perform crossover
 child1, child2 = PMX(parent1, parent2)
 
-print(child1, child2)
+#print(child1, child2)
