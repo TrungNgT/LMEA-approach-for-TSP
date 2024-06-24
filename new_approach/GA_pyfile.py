@@ -9,7 +9,7 @@ import time
 import google.generativeai as genai
 
 
-genai.configure(api_key='AIzaSyBV1xUiqQFJcAAv14dKClxoSR3GYeCLdEs')
+genai.configure(api_key='YOUR_API_KEY_')
 
 model = genai.GenerativeModel(model_name='gemini-pro')
 
