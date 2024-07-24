@@ -71,9 +71,12 @@ def cutGenTrace(llmResponse: str):
     for inte in range(number) :
         tempString.append(str(inte))
         listOffstr.append(str(inte))
+    try:
+        tempString[0] = llmResponse[(llmResponse.find("<res>") + 5):]
 
-    tempString[0] = llmResponse[(llmResponse.find("<res>") + 5):]
-
+    except:
+        return listOffstr 
+    
     for index in range(number) :
         tmp = tempString[index]
         listOffstr[index] = tmp[:tmp.find("</res>")]
@@ -100,15 +103,43 @@ def randomFirstN(n: int, N: int):
 # %%
 # Cập nhật quần thể sau mỗi thế hệ
 # step 6 in the paper's paradism
-def updatePool(pool: list, newgenN: list, N: int):
+def updatePool(pool: list, newgenN: list, N: int):                  #pool: list of current individuals, newGenN: list of string_offSrping
 
-    pool.extend(newgenN)
+    # Using set to remain all the individuals are different from each others.
+
+    cur_list = []
+
+    for indiv in pool:
+        cur_list.append(str(indiv.trace))
     
-    pool.sort(reverse=True, key=compIndiv)
-    L = len(pool)
+    print(f"The cur_0: {cur_list[0]}")
+    print(f"On other hand, the new_0: {newgenN[0]}")
+    
+    cur_set = set(cur_list)
+    new_set = set(newgenN)
 
-    out_pool = pool[(L-N):]
-    pool.clear()
+    total_set = cur_set | new_set
+
+    new_pool = transform(total_set)
+
+    
+    new_pool.sort(reverse=True, key=compIndiv)
+    L = len(new_pool)
+
+    print(f"The size of pool now is: {L}")
+
+    out_pool = []
+    if L >= N :
+        out_pool = new_pool[(L-N):]
+    else :
+        out_pool = new_pool + new_pool[(N-L):]
+        out_pool.sort(reverse=True, key=compIndiv)
+
+    del new_pool
+    del total_set
+    del cur_set
+    del new_set
+    del cur_list
 
     return out_pool
 
@@ -161,8 +192,10 @@ def check_stuck(best_cur: int, best_now: int, K: int) :
         check_var = 0
         print("got update!")
     
-    if check_var >= K :
+    if check_var%K == 0 and check_var > 0 :
         
         return True
     
     return False
+
+

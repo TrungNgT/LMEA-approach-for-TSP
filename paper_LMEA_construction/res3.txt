@@ -1,0 +1,589 @@
+Time for the API calls in generation 1: 30.81595516204834
+Time for the API calls in generation 1: 21.52190113067627
+Time for the API calls in generation 1: 20.707020044326782
+Time for the API calls in generation 1: 20.696507692337036
+The size of pool now is: 32
+got update!
+Total time for the generation 1: 93.74138402938843
+best solution now is: 4695.0
+worst solution now is: 6459.0
+Time for the API calls in generation 2: 14.710096597671509
+The size of pool now is: 32
+got stuck 1 time
+Total time for the generation 2: 14.710096597671509
+best solution now is: 4695.0
+worst solution now is: 6131.0
+Time for the API calls in generation 3: 23.518038749694824
+Time for the API calls in generation 3: 7.809317588806152
+Time for the API calls in generation 3: 22.654529571533203
+The size of pool now is: 32
+got stuck 2 time
+Total time for the generation 3: 53.98188591003418
+best solution now is: 4695.0
+worst solution now is: 5913.0
+Time for the API calls in generation 4: 7.624052047729492
+Time for the API calls in generation 4: 18.450242280960083
+Time for the API calls in generation 4: 26.97316074371338
+The size of pool now is: 32
+got stuck 3 time
+Total time for the generation 4: 53.05021333694458
+best solution now is: 4695.0
+worst solution now is: 5734.0
+Time for the API calls in generation 5: 18.425498485565186
+Time for the API calls in generation 5: 23.04652214050293
+Time for the API calls in generation 5: 24.883713006973267
+The size of pool now is: 31
+got update!
+Total time for the generation 5: 66.35573363304138
+best solution now is: 4552.0
+worst solution now is: 5605.0
+Time for the API calls in generation 6: 26.96428680419922
+Time for the API calls in generation 6: 21.28213882446289
+The size of pool now is: 32
+got stuck 1 time
+Total time for the generation 6: 48.24653172492981
+best solution now is: 4552.0
+worst solution now is: 5388.0
+Time for the API calls in generation 7: 14.112518787384033
+Time for the API calls in generation 7: 22.52786946296692
+The size of pool now is: 32
+got stuck 2 time
+Total time for the generation 7: 36.64364719390869
+best solution now is: 4552.0
+worst solution now is: 5388.0
+Time for the API calls in generation 8: 18.0383620262146
+Time for the API calls in generation 8: 18.475135326385498
+Time for the API calls in generation 8: 20.681032180786133
+The size of pool now is: 27
+got stuck 3 time
+Total time for the generation 8: 57.19712996482849
+best solution now is: 4552.0
+worst solution now is: 5311.0
+Time for the API calls in generation 9: 18.53088641166687
+Time for the API calls in generation 9: 20.690858602523804
+Time for the API calls in generation 9: 3.7849278450012207
+The size of pool now is: 32
+got update!
+Total time for the generation 9: 43.01016139984131
+best solution now is: 4067.0
+worst solution now is: 4910.0
+Time for the API calls in generation 10: 7.498915195465088
+Time for the API calls in generation 10: 7.098035573959351
+Time for the API calls in generation 10: 23.406317472457886
+Time for the API calls in generation 10: 27.844894647598267
+The size of pool now is: 32
+got stuck 1 time
+Total time for the generation 10: 65.85016059875488
+best solution now is: 4067.0
+worst solution now is: 4794.0
+Time for the API calls in generation 11: 12.645091533660889
+Time for the API calls in generation 11: 12.665833950042725
+Time for the API calls in generation 11: 17.083144664764404
+Time for the API calls in generation 11: 27.114302396774292
+The size of pool now is: 32
+got stuck 2 time
+Total time for the generation 11: 69.51236581802368
+best solution now is: 4067.0
+worst solution now is: 4638.0
+Time for the API calls in generation 12: 20.814263343811035
+Time for the API calls in generation 12: 22.661734580993652
+Time for the API calls in generation 12: 22.884231567382812
+The size of pool now is: 30
+got stuck 3 time
+Total time for the generation 12: 66.36270785331726
+best solution now is: 4067.0
+worst solution now is: 4635.0
+Time for the API calls in generation 13: 10.119518280029297
+Time for the API calls in generation 13: 19.76470112800598
+Time for the API calls in generation 13: 9.770126104354858
+The size of pool now is: 32
+got stuck 4 time
+Total time for the generation 13: 39.65434551239014
+best solution now is: 4067.0
+worst solution now is: 4494.0
+Time for the API calls in generation 14: 22.695322513580322
+Time for the API calls in generation 14: 29.716213703155518
+The size of pool now is: 32
+got update!
+Total time for the generation 14: 52.427085876464844
+best solution now is: 3831.0
+worst solution now is: 4263.0
+Time for the API calls in generation 15: 18.344974279403687
+Time for the API calls in generation 15: 13.194648265838623
+Time for the API calls in generation 15: 22.92893958091736
+The size of pool now is: 30
+got stuck 1 time
+Total time for the generation 15: 54.46988534927368
+best solution now is: 3831.0
+worst solution now is: 4711.0
+Time for the API calls in generation 16: 18.216294288635254
+Time for the API calls in generation 16: 12.564474821090698
+The size of pool now is: 26
+got stuck 2 time
+Total time for the generation 16: 30.780769109725952
+best solution now is: 3831.0
+worst solution now is: 4327.0
+Time for the API calls in generation 17: 22.776815176010132
+Time for the API calls in generation 17: 25.493613719940186
+The size of pool now is: 32
+got update!
+Total time for the generation 17: 48.27042889595032
+best solution now is: 3830.0
+worst solution now is: 4253.0
+Time for the API calls in generation 18: 20.1537926197052
+Time for the API calls in generation 18: 22.81997537612915
+The size of pool now is: 32
+got stuck 1 time
+Total time for the generation 18: 42.98935270309448
+best solution now is: 3830.0
+worst solution now is: 4219.0
+Time for the API calls in generation 19: 25.0228214263916
+Time for the API calls in generation 19: 13.943642616271973
+The size of pool now is: 30
+got update!
+Total time for the generation 19: 38.966464042663574
+best solution now is: 3793.0
+worst solution now is: 4084.0
+Time for the API calls in generation 20: 22.928831338882446
+Time for the API calls in generation 20: 26.750001430511475
+The size of pool now is: 32
+got stuck 1 time
+Total time for the generation 20: 49.67883276939392
+best solution now is: 3793.0
+worst solution now is: 3938.0
+Time for the API calls in generation 21: 23.05914568901062
+Time for the API calls in generation 21: 22.694446086883545
+Time for the API calls in generation 21: 13.196072101593018
+The size of pool now is: 32
+got update!
+Total time for the generation 21: 58.94966387748718
+best solution now is: 3764.0
+worst solution now is: 3912.0
+Time for the API calls in generation 22: 22.813775300979614
+Time for the API calls in generation 22: 16.15541386604309
+The size of pool now is: 32
+got update!
+Total time for the generation 22: 38.969189167022705
+best solution now is: 3659.0
+worst solution now is: 3881.0
+Time for the API calls in generation 23: 29.654241800308228
+Time for the API calls in generation 23: 29.800634384155273
+Time for the API calls in generation 23: 26.939709901809692
+The size of pool now is: 28
+got stuck 1 time
+Total time for the generation 23: 86.41201186180115
+best solution now is: 3659.0
+worst solution now is: 3852.0
+Time for the API calls in generation 24: 15.626956224441528
+Time for the API calls in generation 24: 17.997379064559937
+The size of pool now is: 32
+got update!
+Total time for the generation 24: 33.626364946365356
+best solution now is: 3639.0
+worst solution now is: 3842.0
+Time for the API calls in generation 25: 22.547008752822876
+Time for the API calls in generation 25: 22.344081163406372
+The size of pool now is: 29
+got stuck 1 time
+Total time for the generation 25: 44.89216208457947
+best solution now is: 3639.0
+worst solution now is: 3840.0
+Time for the API calls in generation 26: 13.272969007492065
+Time for the API calls in generation 26: 22.69891119003296
+Time for the API calls in generation 26: 28.763081073760986
+Time for the API calls in generation 26: 20.624404907226562
+The size of pool now is: 27
+got stuck 2 time
+Total time for the generation 26: 85.35936617851257
+best solution now is: 3639.0
+worst solution now is: 3831.0
+Time for the API calls in generation 27: 28.029836654663086
+Time for the API calls in generation 27: 21.33682894706726
+Time for the API calls in generation 27: 18.866159200668335
+The size of pool now is: 32
+got stuck 3 time
+Total time for the generation 27: 68.23282480239868
+best solution now is: 3639.0
+worst solution now is: 3804.0
+Time for the API calls in generation 28: 28.53072452545166
+Time for the API calls in generation 28: 29.612024545669556
+The size of pool now is: 30
+got stuck 4 time
+Total time for the generation 28: 58.142749071121216
+best solution now is: 3639.0
+worst solution now is: 3804.0
+Time for the API calls in generation 29: 16.19726872444153
+Time for the API calls in generation 29: 22.285780906677246
+The size of pool now is: 31
+got update!
+Total time for the generation 29: 38.483049631118774
+best solution now is: 3596.0
+worst solution now is: 3755.0
+Time for the API calls in generation 30: 29.74322533607483
+Time for the API calls in generation 30: 21.23368549346924
+The size of pool now is: 27
+got stuck 1 time
+Total time for the generation 30: 50.97691082954407
+best solution now is: 3596.0
+worst solution now is: 3754.0
+Time for the API calls in generation 31: 16.756467819213867
+Time for the API calls in generation 31: 23.3265438079834
+Time for the API calls in generation 31: 23.628971576690674
+The size of pool now is: 30
+got update!
+Total time for the generation 31: 63.71398162841797
+best solution now is: 3507.0
+worst solution now is: 3707.0
+Time for the API calls in generation 32: 22.836961269378662
+Time for the API calls in generation 32: 23.585897207260132
+The size of pool now is: 31
+got stuck 1 time
+Total time for the generation 32: 46.42421746253967
+best solution now is: 3507.0
+worst solution now is: 4045.0
+Time for the API calls in generation 33: 26.883001804351807
+Time for the API calls in generation 33: 22.319511651992798
+Time for the API calls in generation 33: 24.179418802261353
+The size of pool now is: 24
+got stuck 2 time
+Total time for the generation 33: 73.38193225860596
+best solution now is: 3507.0
+worst solution now is: 3793.0
+Time for the API calls in generation 34: 3.0982048511505127
+Time for the API calls in generation 34: 3.128628969192505
+Time for the API calls in generation 34: 29.594764709472656
+Time for the API calls in generation 34: 25.369306802749634
+The size of pool now is: 31
+got stuck 3 time
+Total time for the generation 34: 61.19090533256531
+best solution now is: 3507.0
+worst solution now is: 3692.0
+Time for the API calls in generation 35: 12.885581254959106
+Time for the API calls in generation 35: 29.819563150405884
+The size of pool now is: 29
+got update!
+Total time for the generation 35: 42.70514440536499
+best solution now is: 3454.0
+worst solution now is: 3692.0
+Time for the API calls in generation 36: 23.338892698287964
+Time for the API calls in generation 36: 22.680575370788574
+The size of pool now is: 31
+got stuck 1 time
+Total time for the generation 36: 46.01946806907654
+best solution now is: 3454.0
+worst solution now is: 3690.0
+Time for the API calls in generation 37: 20.652547121047974
+Time for the API calls in generation 37: 16.141951322555542
+The size of pool now is: 25
+got stuck 2 time
+Total time for the generation 37: 36.794498443603516
+best solution now is: 3454.0
+worst solution now is: 3684.0
+Time for the API calls in generation 38: 22.097134590148926
+Time for the API calls in generation 38: 27.022573709487915
+Time for the API calls in generation 38: 18.266750812530518
+The size of pool now is: 32
+got stuck 3 time
+Total time for the generation 38: 67.38964557647705
+best solution now is: 3454.0
+worst solution now is: 3650.0
+Time for the API calls in generation 39: 22.41409969329834
+Time for the API calls in generation 39: 24.214768409729004
+The size of pool now is: 30
+got stuck 4 time
+Total time for the generation 39: 46.628868103027344
+best solution now is: 3454.0
+worst solution now is: 3629.0
+Time for the API calls in generation 40: 18.498106479644775
+Time for the API calls in generation 40: 25.003003358840942
+Time for the API calls in generation 40: 24.17402219772339
+The size of pool now is: 27
+got stuck 5 time
+Total time for the generation 40: 67.6751320362091
+best solution now is: 3454.0
+worst solution now is: 3596.0
+Time for the API calls in generation 41: 29.59644341468811
+Time for the API calls in generation 41: 21.26076602935791
+Time for the API calls in generation 41: 22.449407815933228
+The size of pool now is: 29
+got stuck 6 time
+Total time for the generation 41: 73.30661725997925
+best solution now is: 3454.0
+worst solution now is: 3507.0
+Time for the API calls in generation 42: 29.604714155197144
+Time for the API calls in generation 42: 21.327779293060303
+The size of pool now is: 29
+got stuck 7 time
+Total time for the generation 42: 50.932493448257446
+best solution now is: 3454.0
+worst solution now is: 3507.0
+Time for the API calls in generation 43: 22.86563229560852
+Time for the API calls in generation 43: 29.542125701904297
+The size of pool now is: 31
+got stuck 8 time
+Total time for the generation 43: 52.42425465583801
+best solution now is: 3454.0
+worst solution now is: 3507.0
+Time for the API calls in generation 44: 23.83394455909729
+The size of pool now is: 32
+got stuck 9 time
+Total time for the generation 44: 23.83394455909729
+best solution now is: 3454.0
+worst solution now is: 3507.0
+Time for the API calls in generation 45: 29.512782335281372
+Time for the API calls in generation 45: 29.585293769836426
+The size of pool now is: 30
+got stuck 10 time
+Self-Adaptation!
+Total time for the generation 45: 59.11378359794617
+best solution now is: 3454.0
+worst solution now is: 3507.0
+Time for the API calls in generation 46: 29.787373304367065
+Time for the API calls in generation 46: 12.556385517120361
+Time for the API calls in generation 46: 17.954890966415405
+The size of pool now is: 31
+got stuck 11 time
+Total time for the generation 46: 60.29864978790283
+best solution now is: 3454.0
+worst solution now is: 3505.0
+Time for the API calls in generation 47: 24.163615226745605
+Time for the API calls in generation 47: 27.059396982192993
+The size of pool now is: 31
+got stuck 12 time
+Total time for the generation 47: 51.22511839866638
+best solution now is: 3454.0
+worst solution now is: 3505.0
+Time for the API calls in generation 48: 20.366168975830078
+Time for the API calls in generation 48: 21.12427806854248
+The size of pool now is: 29
+got stuck 13 time
+Total time for the generation 48: 41.49044704437256
+best solution now is: 3454.0
+worst solution now is: 3495.0
+Time for the API calls in generation 49: 29.392323970794678
+Time for the API calls in generation 49: 24.178310871124268
+The size of pool now is: 32
+got stuck 14 time
+Total time for the generation 49: 53.570634841918945
+best solution now is: 3454.0
+worst solution now is: 3495.0
+Time for the API calls in generation 50: 29.53532075881958
+Time for the API calls in generation 50: 29.036657333374023
+Time for the API calls in generation 50: 18.392436981201172
+The size of pool now is: 29
+got stuck 15 time
+Total time for the generation 50: 76.96548438072205
+best solution now is: 3454.0
+worst solution now is: 3495.0
+Time for the API calls in generation 51: 29.69445013999939
+Time for the API calls in generation 51: 22.891802072525024
+The size of pool now is: 29
+got stuck 16 time
+Total time for the generation 51: 52.586252212524414
+best solution now is: 3454.0
+worst solution now is: 3495.0
+Time for the API calls in generation 52: 28.98433566093445
+Time for the API calls in generation 52: 14.205200672149658
+Time for the API calls in generation 52: 4.268853664398193
+The size of pool now is: 30
+got stuck 17 time
+Total time for the generation 52: 47.4583899974823
+best solution now is: 3454.0
+worst solution now is: 3495.0
+Time for the API calls in generation 53: 11.902653217315674
+Time for the API calls in generation 53: 25.054256677627563
+The size of pool now is: 31
+got stuck 18 time
+Total time for the generation 53: 36.95690989494324
+best solution now is: 3454.0
+worst solution now is: 3495.0
+Time for the API calls in generation 54: 23.83591055870056
+The size of pool now is: 31
+got stuck 19 time
+Total time for the generation 54: 23.83591055870056
+best solution now is: 3454.0
+worst solution now is: 3495.0
+Time for the API calls in generation 55: 20.566446781158447
+Time for the API calls in generation 55: 20.917131900787354
+Time for the API calls in generation 55: 29.571851015090942
+The size of pool now is: 30
+got stuck 20 time
+Self-Adaptation!
+Total time for the generation 55: 71.05542969703674
+best solution now is: 3454.0
+worst solution now is: 3495.0
+Time for the API calls in generation 56: 29.701257705688477
+Time for the API calls in generation 56: 6.054819822311401
+Time for the API calls in generation 56: 16.229780673980713
+Time for the API calls in generation 56: 16.501468420028687
+Time for the API calls in generation 56: 10.838909149169922
+Time for the API calls in generation 56: 22.90711283683777
+The size of pool now is: 32
+got stuck 21 time
+Total time for the generation 56: 102.23334860801697
+best solution now is: 3454.0
+worst solution now is: 3495.0
+Time for the API calls in generation 57: 22.63021159172058
+Time for the API calls in generation 57: 19.528926849365234
+Time for the API calls in generation 57: 21.284929037094116
+The size of pool now is: 32
+got stuck 22 time
+Total time for the generation 57: 63.44406747817993
+best solution now is: 3454.0
+worst solution now is: 3495.0
+Time for the API calls in generation 58: 22.68795943260193
+Time for the API calls in generation 58: 18.897705554962158
+Time for the API calls in generation 58: 12.619232416152954
+Time for the API calls in generation 58: 7.736271858215332
+The size of pool now is: 29
+got stuck 23 time
+Total time for the generation 58: 61.94116926193237
+best solution now is: 3454.0
+worst solution now is: 3495.0
+Time for the API calls in generation 59: 18.41193127632141
+Time for the API calls in generation 59: 21.30235528945923
+The size of pool now is: 32
+got stuck 24 time
+Total time for the generation 59: 39.716614961624146
+best solution now is: 3454.0
+worst solution now is: 3495.0
+Time for the API calls in generation 60: 28.682599544525146
+Time for the API calls in generation 60: 27.66803741455078
+Time for the API calls in generation 60: 15.393307209014893
+The size of pool now is: 32
+got stuck 25 time
+Total time for the generation 60: 71.74508380889893
+best solution now is: 3454.0
+worst solution now is: 3495.0
+Time for the API calls in generation 61: 16.302505493164062
+Time for the API calls in generation 61: 21.75529456138611
+Time for the API calls in generation 61: 29.648648500442505
+The size of pool now is: 32
+got stuck 26 time
+Total time for the generation 61: 67.70743250846863
+best solution now is: 3454.0
+worst solution now is: 3495.0
+Time for the API calls in generation 62: 29.602171421051025
+Time for the API calls in generation 62: 3.8184664249420166
+Time for the API calls in generation 62: 29.761829376220703
+Time for the API calls in generation 62: 29.610719919204712
+The size of pool now is: 32
+got stuck 27 time
+Total time for the generation 62: 92.79318714141846
+best solution now is: 3454.0
+worst solution now is: 3495.0
+Time for the API calls in generation 63: 7.297431707382202
+Time for the API calls in generation 63: 24.30039691925049
+Time for the API calls in generation 63: 20.516793489456177
+The size of pool now is: 31
+got stuck 28 time
+Total time for the generation 63: 52.115593910217285
+best solution now is: 3454.0
+worst solution now is: 3495.0
+Time for the API calls in generation 64: 29.655515432357788
+Time for the API calls in generation 64: 16.23521661758423
+The size of pool now is: 32
+got stuck 29 time
+Total time for the generation 64: 45.89073204994202
+best solution now is: 3454.0
+worst solution now is: 3495.0
+Time for the API calls in generation 65: 12.529469966888428
+Time for the API calls in generation 65: 6.243869781494141
+Time for the API calls in generation 65: 29.85726499557495
+Time for the API calls in generation 65: 29.848255157470703
+Time for the API calls in generation 65: 18.146769046783447
+The size of pool now is: 32
+got stuck 30 time
+Self-Adaptation!
+Total time for the generation 65: 96.64063692092896
+best solution now is: 3454.0
+worst solution now is: 3494.0
+Time for the API calls in generation 66: 6.528998136520386
+Time for the API calls in generation 66: 24.17937445640564
+Time for the API calls in generation 66: 23.9687819480896
+Time for the API calls in generation 66: 22.943018674850464
+The size of pool now is: 31
+got stuck 31 time
+Total time for the generation 66: 77.62017321586609
+best solution now is: 3454.0
+worst solution now is: 3494.0
+Time for the API calls in generation 67: 23.595255851745605
+Time for the API calls in generation 67: 18.634551763534546
+Time for the API calls in generation 67: 19.269016981124878
+The size of pool now is: 31
+got stuck 32 time
+Total time for the generation 67: 61.49882459640503
+best solution now is: 3454.0
+worst solution now is: 3494.0
+Time for the API calls in generation 68: 7.850316047668457
+Time for the API calls in generation 68: 13.610812664031982
+Time for the API calls in generation 68: 22.540956497192383
+Time for the API calls in generation 68: 22.593461990356445
+Time for the API calls in generation 68: 28.17659068107605
+Time for the API calls in generation 68: 23.99836230278015
+The size of pool now is: 32
+got stuck 33 time
+Total time for the generation 68: 118.77050018310547
+best solution now is: 3454.0
+worst solution now is: 3494.0
+Time for the API calls in generation 69: 4.655072927474976
+Time for the API calls in generation 69: 11.914570569992065
+Time for the API calls in generation 69: 7.898258209228516
+Time for the API calls in generation 69: 14.283868551254272
+The size of pool now is: 32
+got stuck 34 time
+Total time for the generation 69: 38.75177025794983
+best solution now is: 3454.0
+worst solution now is: 3494.0
+Time for the API calls in generation 70: 18.15437126159668
+Time for the API calls in generation 70: 6.58617901802063
+Time for the API calls in generation 70: 23.888671398162842
+The size of pool now is: 32
+got stuck 35 time
+Total time for the generation 70: 48.62922167778015
+best solution now is: 3454.0
+worst solution now is: 3494.0
+Time for the API calls in generation 71: 22.94487452507019
+Time for the API calls in generation 71: 20.480796098709106
+The size of pool now is: 32
+got stuck 36 time
+Total time for the generation 71: 43.4256706237793
+best solution now is: 3454.0
+worst solution now is: 3494.0
+Time for the API calls in generation 72: 23.913059949874878
+Time for the API calls in generation 72: 27.097820520401
+The size of pool now is: 31
+got stuck 37 time
+Total time for the generation 72: 51.01088047027588
+best solution now is: 3454.0
+worst solution now is: 3494.0
+Time for the API calls in generation 73: 18.29743504524231
+Time for the API calls in generation 73: 18.632095098495483
+The size of pool now is: 25
+got stuck 38 time
+Total time for the generation 73: 36.92953014373779
+best solution now is: 3454.0
+worst solution now is: 3454.0
+Time for the API calls in generation 74: 29.6368248462677
+Time for the API calls in generation 74: 9.071471691131592
+Time for the API calls in generation 74: 9.53993034362793
+Time for the API calls in generation 74: 16.149946928024292
+Time for the API calls in generation 74: 21.779067754745483
+The size of pool now is: 32
+got stuck 39 time
+Total time for the generation 74: 86.177241563797
+best solution now is: 3454.0
+worst solution now is: 3454.0
+Time for the API calls in generation 75: 5.490128517150879
+Time for the API calls in generation 75: 24.128967761993408
+Time for the API calls in generation 75: 29.631683111190796
+Time for the API calls in generation 75: 5.343506574630737
+Time for the API calls in generation 75: 18.68598985671997
+Time for the API calls in generation 75: 24.833340883255005
+The size of pool now is: 31
+got stuck 40 time
+Self-Adaptation!
+Total time for the generation 75: 108.114328622818
+best solution now is: 3454.0
+worst solution now is: 3454.0
+Time for the API calls in generation 76: 17.388325691223145

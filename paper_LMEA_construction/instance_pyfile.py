@@ -5,7 +5,7 @@
 # %%
 n = 14      #number of cities
 N = 16      #population 
-G = 80     #number of generations
+G = 100     #number of generations
 
 check_var = 0       # variable for checking local stuck
 
