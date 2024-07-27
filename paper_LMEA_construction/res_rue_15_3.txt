@@ -1,0 +1,1040 @@
+Time for the API calls in generation 1: 17.26900291442871
+Time for the API calls in generation 1: 26.727997303009033
+The cur_0: [4, 6, 10, 11, 2, 8, 1, 3, 12, 15, 9, 7, 14, 5, 13]
+On other hand, the new_0: [1, 14, 15, 4, 2, 9, 8, 13, 5, 3, 7, 6, 10, 11, 12]
+The size of pool now is: 32
+got stuck 1 time
+Total time for the generation 1: 43.997939109802246
+best solution now is: 469.6332359825663
+worst solution now is: 591.5945353207545
+Time for the API calls in generation 2: 18.126862049102783
+Time for the API calls in generation 2: 24.567124128341675
+Time for the API calls in generation 2: 24.41584086418152
+The cur_0: [5, 12, 6, 1, 11, 2, 14, 7, 9, 10, 13, 15, 4, 8, 3]
+On other hand, the new_0: [5, 1, 12, 14, 15, 11, 7, 6, 2, 3, 13, 9, 10, 4, 8]
+The size of pool now is: 31
+got stuck 2 time
+Total time for the generation 2: 67.10982704162598
+best solution now is: 469.6332359825663
+worst solution now is: 559.2798493531141
+Time for the API calls in generation 3: 29.453747749328613
+Time for the API calls in generation 3: 30.514389038085938
+The cur_0: [12, 2, 6, 10, 1, 7, 13, 4, 9, 14, 15, 8, 3, 5, 11]
+On other hand, the new_0: [8, 5, 13, 2, 3, 12, 10, 11, 1, 4, 14, 6, 15, 7, 9]
+The size of pool now is: 32
+got update!
+Total time for the generation 3: 59.970269203186035
+best solution now is: 447.67636440919046
+worst solution now is: 535.3747573164314
+Time for the API calls in generation 4: 25.721065044403076
+The cur_0: [1, 14, 15, 10, 12, 2, 6, 7, 8, 9, 13, 5, 3, 4, 11]
+On other hand, the new_0: [15, 7, 10, 4, 3, 8, 14, 1, 2, 12, 6, 13, 9, 5, 11]
+The size of pool now is: 32
+got update!
+Total time for the generation 4: 25.721065044403076
+best solution now is: 429.2109469616376
+worst solution now is: 517.8348634852935
+Time for the API calls in generation 5: 25.63021206855774
+Time for the API calls in generation 5: 25.864022731781006
+Time for the API calls in generation 5: 29.52164912223816
+Time for the API calls in generation 5: 29.505302906036377
+Time for the API calls in generation 5: 24.446674585342407
+Time for the API calls in generation 5: 21.521154642105103
+The cur_0: [9, 8, 15, 7, 1, 2, 11, 13, 6, 4, 3, 12, 10, 5, 14]
+On other hand, the new_0: [3, 5, 1, 12, 10, 4, 15, 9, 11, 13, 6, 8, 14, 2, 7]
+The size of pool now is: 31
+got update!
+Total time for the generation 5: 156.50470662117004
+best solution now is: 426.9902399755965
+worst solution now is: 485.22320548984993
+Time for the API calls in generation 6: 22.90213370323181
+Time for the API calls in generation 6: 13.341239929199219
+The cur_0: [15, 7, 10, 4, 3, 8, 14, 1, 2, 6, 13, 9, 5, 12, 11]
+On other hand, the new_0: [15, 9, 8, 7, 1, 2, 14, 13, 6, 4, 10, 3, 11, 5, 12]
+The size of pool now is: 31
+got update!
+Total time for the generation 6: 36.24337363243103
+best solution now is: 353.18099278329447
+worst solution now is: 481.91698680162034
+Time for the API calls in generation 7: 29.72905206680298
+Time for the API calls in generation 7: 14.802245855331421
+Time for the API calls in generation 7: 22.18908429145813
+Time for the API calls in generation 7: 22.07614278793335
+The cur_0: [5, 3, 2, 1, 14, 8, 6, 13, 11, 9, 15, 10, 12, 4, 7]
+On other hand, the new_0: [9, 5, 7, 1, 14, 15, 10, 4, 3, 8, 2, 12, 6, 13, 11, 5, 9]
+The size of pool now is: 32
+got stuck 1 time
+Total time for the generation 7: 88.79652500152588
+best solution now is: 353.18099278329447
+worst solution now is: 469.45655871499724
+Time for the API calls in generation 8: 22.117122650146484
+Time for the API calls in generation 8: 24.72084403038025
+The cur_0: [9, 5, 7, 2, 1, 12, 10, 4, 15, 11, 13, 6, 8, 14, 3]
+On other hand, the new_0: [1, 2, 10, 15, 11, 13, 9, 6, 12, 14, 3, 8, 4, 5, 7]
+The size of pool now is: 32
+got stuck 2 time
+Total time for the generation 8: 46.83796668052673
+best solution now is: 353.18099278329447
+worst solution now is: 442.0552741654019
+Time for the API calls in generation 9: 29.53019690513611
+Time for the API calls in generation 9: 29.592484712600708
+Time for the API calls in generation 9: 22.064019918441772
+The cur_0: [15, 7, 10, 4, 3, 8, 14, 1, 2, 6, 13, 9, 11, 12, 5]
+On other hand, the new_0: [7, 1, 14, 15, 10, 4, 8, 2, 12, 6, 13, 9, 11, 3, 5]
+The size of pool now is: 32
+got stuck 3 time
+Total time for the generation 9: 81.18670153617859
+best solution now is: 353.18099278329447
+worst solution now is: 428.3910944893324
+Time for the API calls in generation 10: 29.150269746780396
+Time for the API calls in generation 10: 25.983651638031006
+The cur_0: [12, 15, 7, 10, 4, 3, 8, 14, 1, 5, 11, 9, 13, 6, 2]
+On other hand, the new_0: [9, 6, 12, 2, 1, 14, 15, 10, 4, 8, 3, 5, 11, 13, 7]
+The size of pool now is: 29
+got stuck 4 time
+Total time for the generation 10: 55.13517355918884
+best solution now is: 353.18099278329447
+worst solution now is: 421.2330741915323
+Time for the API calls in generation 11: 17.82606840133667
+Time for the API calls in generation 11: 29.50997805595398
+The cur_0: [9, 6, 12, 2, 1, 14, 15, 10, 4, 8, 3, 5, 11, 13, 7]
+On other hand, the new_0: [1, 14, 15, 10, 4, 3, 8, 2, 6, 13, 9, 11, 7, 5, 12]
+The size of pool now is: 32
+got update!
+Total time for the generation 11: 47.33604645729065
+best solution now is: 341.24336258935443
+worst solution now is: 397.17521577177274
+Time for the API calls in generation 12: 24.58461833000183
+Time for the API calls in generation 12: 29.690070390701294
+The cur_0: [7, 1, 14, 15, 10, 4, 3, 8, 2, 12, 6, 9, 13, 11, 5]
+On other hand, the new_0: [15, 1, 14, 12, 6, 9, 13, 11, 7, 5, 10, 4, 8, 3, 2]
+The size of pool now is: 28
+got update!
+Total time for the generation 12: 54.29090166091919
+best solution now is: 326.2782071897265
+worst solution now is: 392.3678783390285
+Time for the API calls in generation 13: 3.2957818508148193
+Time for the API calls in generation 13: 21.12422204017639
+Time for the API calls in generation 13: 19.8273606300354
+Time for the API calls in generation 13: 29.680392503738403
+The cur_0: [1, 14, 15, 10, 2, 12, 6, 13, 9, 11, 7, 5, 3, 4, 8]
+On other hand, the new_0: [9, 13, 6, 12, 2, 1, 14, 8, 3, 5, 7, 11, 15, 10, 4]
+The size of pool now is: 31
+got stuck 1 time
+Total time for the generation 13: 73.92775702476501
+best solution now is: 326.2782071897265
+worst solution now is: 374.25283342777453
+Time for the API calls in generation 14: 29.65568494796753
+Time for the API calls in generation 14: 28.960548639297485
+The cur_0: [13, 9, 6, 12, 2, 1, 14, 3, 8, 4, 10, 15, 11, 7, 5]
+On other hand, the new_0: 
+[14, 2, 1, 15, 10, 9, 13, 6, 12, 3, 8, 4, 5, 11, 7] 
+The size of pool now is: 30
+got update!
+Total time for the generation 14: 58.616233587265015
+best solution now is: 309.0469574311812
+worst solution now is: 373.6022589297446
+Time for the API calls in generation 15: 6.639591693878174
+Time for the API calls in generation 15: 24.30206823348999
+Time for the API calls in generation 15: 22.121675491333008
+The cur_0: [1, 10, 15, 14, 2, 3, 8, 4, 12, 6, 9, 13, 11, 7, 5]
+On other hand, the new_0: [9, 1, 10, 15, 14, 2, 3, 8, 4, 12, 6, 13, 11, 7, 5]
+The size of pool now is: 32
+got update!
+Total time for the generation 15: 53.06333541870117
+best solution now is: 287.96750153652454
+worst solution now is: 358.50651271237666
+Time for the API calls in generation 16: 27.55118727684021
+Time for the API calls in generation 16: 21.43652105331421
+The cur_0: [13, 9, 6, 12, 2, 1, 8, 4, 10, 15, 14, 3, 5, 7, 11]
+On other hand, the new_0: 
+[6, 12, 2, 1, 14, 15, 7, 5, 3, 10, 8, 4, 11, 13, 9]
+The size of pool now is: 32
+got stuck 1 time
+Total time for the generation 16: 48.98770833015442
+best solution now is: 287.96750153652454
+worst solution now is: 353.18099278329447
+Time for the API calls in generation 17: 19.807124614715576
+Time for the API calls in generation 17: 15.3285071849823
+The cur_0: [1, 14, 15, 10, 4, 8, 3, 5, 7, 11, 9, 13, 6, 12, 2]
+On other hand, the new_0: [2, 12, 6, 9, 13, 7, 5, 3, 11, 10, 4, 8, 14, 15, 1]
+The size of pool now is: 31
+got stuck 2 time
+Total time for the generation 17: 35.13653254508972
+best solution now is: 287.96750153652454
+worst solution now is: 338.6440726288417
+Time for the API calls in generation 18: 29.522997617721558
+Time for the API calls in generation 18: 5.592114686965942
+Time for the API calls in generation 18: 26.75676727294922
+The cur_0: [1, 2, 9, 6, 13, 11, 7, 5, 3, 14, 15, 10, 4, 8, 12]
+On other hand, the new_0: [1, 2, 6, 9, 13, 11, 5, 3, 14, 15, 10, 4, 8, 12, 7]
+The size of pool now is: 31
+got update!
+Total time for the generation 18: 61.887415647506714
+best solution now is: 285.6441216996638
+worst solution now is: 331.1779005831901
+Time for the API calls in generation 19: 23.93803644180298
+Time for the API calls in generation 19: 22.18561315536499
+The cur_0: [12, 2, 6, 9, 13, 11, 7, 5, 3, 14, 15, 10, 4, 8, 1]
+On other hand, the new_0: [13, 11, 7, 5, 3, 14, 2, 6, 9, 12, 1, 15, 8, 4, 10]
+The size of pool now is: 32
+got stuck 1 time
+Total time for the generation 19: 46.12364959716797
+best solution now is: 285.6441216996638
+worst solution now is: 319.8821003076206
+Time for the API calls in generation 20: 29.52154541015625
+Time for the API calls in generation 20: 22.200315475463867
+Time for the API calls in generation 20: 29.591212272644043
+The cur_0: [9, 6, 14, 2, 12, 1, 15, 10, 4, 8, 3, 5, 7, 11, 13]
+On other hand, the new_0: [14, 2, 6, 9, 13, 11, 7, 5, 3, 12, 1, 10, 4, 8, 15, 3]
+The size of pool now is: 26
+got update!
+Total time for the generation 20: 81.31307315826416
+best solution now is: 277.48819232358284
+worst solution now is: 312.70689126197385
+Time for the API calls in generation 21: 22.172197103500366
+Time for the API calls in generation 21: 22.137202978134155
+The cur_0: [10, 4, 8, 15, 1, 12, 14, 6, 9, 13, 11, 7, 5, 2, 3]
+On other hand, the new_0: [1, 14, 12, 15, 10, 4, 8, 3, 5, 7, 11, 13, 9, 6, 2]
+The size of pool now is: 30
+got stuck 1 time
+Total time for the generation 21: 44.32498025894165
+best solution now is: 277.48819232358284
+worst solution now is: 312.70689126197385
+Time for the API calls in generation 22: 24.827316522598267
+The cur_0: [10, 4, 8, 15, 1, 12, 14, 6, 9, 13, 11, 7, 5, 2, 3]
+On other hand, the new_0: [1, 12, 14, 2, 6, 9, 13, 11, 7, 5, 3, 15, 8, 4, 10]
+The size of pool now is: 28
+got update!
+Total time for the generation 22: 24.827316522598267
+best solution now is: 277.38057766035223
+worst solution now is: 304.1389139473798
+Time for the API calls in generation 23: 20.16308832168579
+Time for the API calls in generation 23: 22.32386326789856
+The cur_0: [14, 2, 6, 9, 13, 11, 7, 5, 8, 4, 10, 15, 1, 3, 12]
+On other hand, the new_0: [3, 14, 2, 6, 9, 13, 11, 7, 4, 8, 10, 15, 1, 12, 5]
+The size of pool now is: 28
+got stuck 1 time
+Total time for the generation 23: 42.48695158958435
+best solution now is: 277.38057766035223
+worst solution now is: 304.1389139473798
+Time for the API calls in generation 24: 25.442097902297974
+The cur_0: [14, 2, 6, 9, 13, 11, 7, 5, 8, 4, 10, 15, 1, 3, 12]
+On other hand, the new_0: [3, 15, 8, 4, 10, 1, 12, 14, 2, 6, 9, 13, 11, 7, 5]
+The size of pool now is: 31
+got update!
+Total time for the generation 24: 25.442097902297974
+best solution now is: 276.8777533318738
+worst solution now is: 293.80178167885447
+Time for the API calls in generation 25: 19.782615423202515
+Time for the API calls in generation 25: 7.966650724411011
+Time for the API calls in generation 25: 29.26228427886963
+The cur_0: [15, 1, 12, 14, 2, 6, 9, 13, 11, 7, 5, 3, 4, 10, 8]
+On other hand, the new_0: [12, 14, 2, 6, 9, 13, 1, 7, 11, 5, 8, 4, 3, 15, 10]
+The size of pool now is: 32
+got stuck 1 time
+Total time for the generation 25: 57.011550426483154
+best solution now is: 276.8777533318738
+worst solution now is: 293.23757472606485
+Time for the API calls in generation 26: 26.89822769165039
+Time for the API calls in generation 26: 13.368680715560913
+Time for the API calls in generation 26: 26.481752395629883
+The cur_0: [3, 15, 8, 10, 4, 1, 12, 14, 2, 6, 9, 13, 11, 7, 5]
+On other hand, the new_0: [1, 14, 12, 15, 8, 4, 10, 2, 6, 13, 11, 7, 3, 9, 5]
+The size of pool now is: 32
+got stuck 2 time
+Total time for the generation 26: 66.75068163871765
+best solution now is: 276.8777533318738
+worst solution now is: 293.23757472606485
+Time for the API calls in generation 27: 22.23841428756714
+Time for the API calls in generation 27: 22.07323431968689
+Time for the API calls in generation 27: 29.588072538375854
+The cur_0: [10, 4, 1, 12, 14, 2, 6, 9, 13, 11, 7, 5, 3, 15, 8]
+On other hand, the new_0: [10, 4, 12, 2, 6, 9, 14, 1, 13, 11, 7, 5, 8, 15, 3]
+The size of pool now is: 32
+got stuck 3 time
+Total time for the generation 27: 73.9055540561676
+best solution now is: 276.8777533318738
+worst solution now is: 289.0251233182269
+Time for the API calls in generation 28: 21.952929258346558
+Time for the API calls in generation 28: 22.193312883377075
+The cur_0: [3, 15, 8, 10, 1, 12, 14, 2, 6, 9, 13, 11, 7, 5, 4]
+On other hand, the new_0: [15, 8, 10, 1, 12, 2, 6, 9, 13, 11, 7, 5, 3, 4, 14]
+The size of pool now is: 31
+got stuck 4 time
+Total time for the generation 28: 44.148234128952026
+best solution now is: 276.8777533318738
+worst solution now is: 288.32333520002214
+Time for the API calls in generation 29: 29.294090509414673
+Time for the API calls in generation 29: 24.392064809799194
+The cur_0: [1, 12, 2, 14, 6, 9, 13, 11, 7, 5, 3, 15, 8, 4, 10]
+On other hand, the new_0: [14, 2, 6, 9, 13, 11, 7, 5, 3, 15, 8, 4, 10, 1, 12]
+The size of pool now is: 27
+got stuck 5 time
+Total time for the generation 29: 53.68715453147888
+best solution now is: 276.8777533318738
+worst solution now is: 287.96750153652454
+Time for the API calls in generation 30: 27.35547113418579
+Time for the API calls in generation 30: 24.382745504379272
+The cur_0: [14, 2, 6, 9, 13, 11, 7, 5, 3, 12, 1, 10, 4, 8, 15]
+On other hand, the new_0: 
+[3, 8, 15, 10, 1, 12, 14, 2, 6, 9, 11, 7, 5, 13, 4]
+The size of pool now is: 32
+got stuck 6 time
+Total time for the generation 30: 51.73821663856506
+best solution now is: 276.8777533318738
+worst solution now is: 286.35307339450094
+Time for the API calls in generation 31: 20.31563949584961
+Time for the API calls in generation 31: 16.622477293014526
+The cur_0: [4, 10, 1, 12, 14, 2, 6, 9, 13, 11, 7, 5, 15, 8, 3]
+On other hand, the new_0: [4, 10, 1, 11, 13, 14, 8, 15, 12, 2, 6, 9, 5, 7, 3, 4]
+The size of pool now is: 32
+got stuck 7 time
+Total time for the generation 31: 36.95368313789368
+best solution now is: 276.8777533318738
+worst solution now is: 285.6645835617734
+Time for the API calls in generation 32: 19.776715517044067
+Time for the API calls in generation 32: 29.551252365112305
+The cur_0: [4, 10, 1, 12, 14, 2, 6, 9, 13, 11, 7, 5, 8, 15, 3]
+On other hand, the new_0: [7, 11, 13, 9, 6, 2, 14, 12, 10, 15, 4, 3, 5, 8, 1, 12]
+The size of pool now is: 30
+got update!
+Total time for the generation 32: 49.34513568878174
+best solution now is: 267.60897841283816
+worst solution now is: 285.03368270795465
+Time for the API calls in generation 33: 22.027279376983643
+Time for the API calls in generation 33: 22.016985654830933
+The cur_0: [8, 10, 15, 4, 3, 1, 12, 14, 2, 6, 9, 13, 11, 7, 5]
+On other hand, the new_0: [2, 12, 1, 10, 4, 15, 3, 7, 5, 13, 11, 9, 6, 8, 14]
+The size of pool now is: 30
+got stuck 1 time
+Total time for the generation 33: 44.044265031814575
+best solution now is: 267.60897841283816
+worst solution now is: 285.03368270795465
+Time for the API calls in generation 34: 22.096193552017212
+Time for the API calls in generation 34: 19.682441234588623
+The cur_0: [8, 10, 15, 4, 3, 1, 12, 14, 2, 6, 9, 13, 11, 7, 5]
+On other hand, the new_0: [14, 2, 6, 9, 13, 11, 7, 3, 5, 12, 1, 10, 4, 8, 15]
+The size of pool now is: 31
+got stuck 2 time
+Total time for the generation 34: 41.778634786605835
+best solution now is: 267.60897841283816
+worst solution now is: 284.76248519323127
+Time for the API calls in generation 35: 24.512063026428223
+Time for the API calls in generation 35: 24.561487913131714
+The cur_0: [1, 12, 14, 2, 6, 9, 13, 11, 7, 5, 8, 15, 3, 10, 4]
+On other hand, the new_0: [8, 15, 10, 1, 12, 3, 5, 7, 11, 13, 9, 6, 2, 14, 4]
+The size of pool now is: 32
+got stuck 3 time
+Total time for the generation 35: 49.07355093955994
+best solution now is: 267.60897841283816
+worst solution now is: 284.52668729262683
+Time for the API calls in generation 36: 22.028516054153442
+Time for the API calls in generation 36: 21.382081747055054
+Time for the API calls in generation 36: 22.075345754623413
+The cur_0: [1, 3, 15, 8, 4, 10, 12, 14, 2, 6, 9, 13, 11, 7, 5]
+On other hand, the new_0: [3, 5, 7, 11, 13, 9, 6, 14, 12, 1, 10, 4, 8, 15, 2]
+The size of pool now is: 32
+got stuck 4 time
+Total time for the generation 36: 65.48594355583191
+best solution now is: 267.60897841283816
+worst solution now is: 279.390918586967
+Time for the API calls in generation 37: 22.83952045440674
+Time for the API calls in generation 37: 22.05119299888611
+The cur_0: [1, 12, 10, 4, 8, 15, 3, 5, 7, 11, 13, 9, 6, 2, 14]
+On other hand, the new_0: [14, 2, 6, 9, 13, 11, 5, 7, 3, 15, 8, 4, 10, 1, 12]
+The size of pool now is: 31
+got stuck 5 time
+Total time for the generation 37: 44.89071345329285
+best solution now is: 267.60897841283816
+worst solution now is: 279.390918586967
+Time for the API calls in generation 38: 16.024890661239624
+Time for the API calls in generation 38: 22.1705379486084
+Time for the API calls in generation 38: 25.624277591705322
+Time for the API calls in generation 38: 26.976402759552002
+The cur_0: [2, 6, 9, 13, 11, 7, 5, 3, 15, 8, 4, 10, 12, 1, 14]
+On other hand, the new_0: [3, 5, 8, 15, 10, 4, 1, 12, 14, 2, 6, 9, 13, 11, 7]
+The size of pool now is: 29
+got stuck 6 time
+Total time for the generation 38: 90.79610896110535
+best solution now is: 267.60897841283816
+worst solution now is: 279.390918586967
+Time for the API calls in generation 39: 15.816941976547241
+Time for the API calls in generation 39: 19.796646118164062
+Time for the API calls in generation 39: 24.534498929977417
+The cur_0: [2, 6, 9, 13, 11, 7, 5, 3, 15, 8, 4, 10, 12, 1, 14]
+On other hand, the new_0: [15, 8, 10, 1, 12, 2, 6, 9, 13, 11, 7, 5, 3, 4, 14, 12, 10]
+The size of pool now is: 30
+got stuck 7 time
+Total time for the generation 39: 60.14808702468872
+best solution now is: 267.60897841283816
+worst solution now is: 279.2833039237364
+Time for the API calls in generation 40: 29.760061979293823
+Time for the API calls in generation 40: 19.654346466064453
+The cur_0: [3, 4, 8, 15, 10, 12, 1, 14, 2, 6, 9, 13, 11, 7, 5]
+On other hand, the new_0: 
+[3, 4, 8, 15, 5, 7, 11, 13, 9, 6, 14, 12, 10, 2, 1, 5]
+The size of pool now is: 26
+got stuck 8 time
+Total time for the generation 40: 49.414408445358276
+best solution now is: 267.60897841283816
+worst solution now is: 277.4881923235829
+Time for the API calls in generation 41: 22.041892051696777
+Time for the API calls in generation 41: 16.791377305984497
+Time for the API calls in generation 41: 26.710347890853882
+The cur_0: [3, 5, 7, 11, 13, 9, 6, 2, 14, 12, 1, 10, 4, 8, 15]
+On other hand, the new_0: [10, 1, 3, 4, 15, 8, 5, 7, 13, 11, 9, 6, 2, 14, 12]
+The size of pool now is: 29
+got stuck 9 time
+Total time for the generation 41: 65.54361724853516
+best solution now is: 267.60897841283816
+worst solution now is: 293.1326194927757
+Time for the API calls in generation 42: 19.775407552719116
+Time for the API calls in generation 42: 22.200604915618896
+Time for the API calls in generation 42: 22.059192180633545
+The cur_0: [12, 14, 2, 6, 9, 13, 11, 7, 5, 3, 8, 15, 10, 4, 1]
+On other hand, the new_0: [8, 15, 10, 5, 7, 13, 11, 9, 6, 2, 14, 12, 1, 3, 4]
+The size of pool now is: 30
+got stuck 10 time
+Self-Adaptation!
+Total time for the generation 42: 64.03520464897156
+best solution now is: 267.60897841283816
+worst solution now is: 277.4881923235829
+Time for the API calls in generation 43: 15.09394121170044
+The cur_0: [3, 5, 7, 11, 13, 9, 6, 2, 14, 12, 1, 10, 4, 8, 15]
+On other hand, the new_0: [2, 9, 6, 14, 12, 1, 10, 8, 4, 15, 3, 5, 7, 11, 13]
+The size of pool now is: 32
+got stuck 11 time
+Total time for the generation 43: 15.109483242034912
+best solution now is: 267.60897841283816
+worst solution now is: 277.48819232358284
+Time for the API calls in generation 44: 3.3654208183288574
+Time for the API calls in generation 44: 29.81181049346924
+Time for the API calls in generation 44: 13.830519199371338
+The cur_0: [15, 8, 4, 10, 1, 12, 14, 2, 6, 9, 13, 11, 7, 5, 3]
+On other hand, the new_0: [6, 2, 14, 12, 1, 15, 8, 10, 5, 7, 11, 13, 9, 3, 4]
+The size of pool now is: 31
+got stuck 12 time
+Total time for the generation 44: 47.007750511169434
+best solution now is: 267.60897841283816
+worst solution now is: 277.48819232358284
+Time for the API calls in generation 45: 24.526597023010254
+Time for the API calls in generation 45: 20.136606216430664
+The cur_0: [15, 8, 4, 10, 1, 12, 14, 2, 6, 9, 13, 11, 7, 5, 3]
+On other hand, the new_0: [9, 6, 2, 14, 15, 3, 11, 13, 7, 5, 10, 12, 1, 8, 4]
+The size of pool now is: 32
+got stuck 13 time
+Total time for the generation 45: 44.66320323944092
+best solution now is: 267.60897841283816
+worst solution now is: 277.48819232358284
+Time for the API calls in generation 46: 24.405261039733887
+Time for the API calls in generation 46: 19.978966236114502
+The cur_0: [15, 8, 4, 10, 1, 12, 14, 2, 6, 9, 13, 11, 7, 5, 3]
+On other hand, the new_0: [3, 8, 15, 10, 5, 7, 11, 13, 9, 6, 2, 12, 14, 1, 4]
+The size of pool now is: 32
+got stuck 14 time
+Total time for the generation 46: 44.3858118057251
+best solution now is: 267.60897841283816
+worst solution now is: 277.48819232358284
+Time for the API calls in generation 47: 25.50726008415222
+The cur_0: [15, 8, 4, 10, 1, 12, 14, 2, 6, 9, 13, 11, 7, 5, 3]
+On other hand, the new_0: [15, 2, 14, 1, 10, 8, 4, 3, 5, 7, 11, 13, 9, 6, 12]
+The size of pool now is: 32
+got stuck 15 time
+Total time for the generation 47: 25.50726008415222
+best solution now is: 267.60897841283816
+worst solution now is: 277.48819232358284
+Time for the API calls in generation 48: 28.974459171295166
+Time for the API calls in generation 48: 29.97728657722473
+The cur_0: [13, 9, 6, 2, 14, 12, 1, 10, 4, 8, 15, 3, 5, 7, 11]
+On other hand, the new_0:  [15, 8, 10, 5, 2, 14, 1, 12, 9, 13, 11, 7, 3, 4, 6]
+The size of pool now is: 28
+got stuck 16 time
+Total time for the generation 48: 58.9517457485199
+best solution now is: 267.60897841283816
+worst solution now is: 277.48819232358284
+Time for the API calls in generation 49: 15.131649017333984
+Time for the API calls in generation 49: 29.594603776931763
+The cur_0: [1, 12, 14, 2, 6, 9, 13, 11, 7, 5, 3, 15, 8, 4, 10]
+On other hand, the new_0: [3, 1, 10, 4, 15, 8, 5, 7, 11, 13, 12, 2, 6, 9, 14]
+The size of pool now is: 32
+got stuck 17 time
+Total time for the generation 49: 44.72625279426575
+best solution now is: 267.60897841283816
+worst solution now is: 277.48819232358284
+Time for the API calls in generation 50: 23.800049781799316
+Time for the API calls in generation 50: 9.442931175231934
+Time for the API calls in generation 50: 19.74393939971924
+The cur_0: [1, 12, 14, 2, 6, 9, 13, 11, 7, 5, 3, 15, 8, 4, 10]
+On other hand, the new_0: [9, 6, 2, 14, 12, 1, 10, 15, 8, 4, 3, 11, 7, 5, 13]
+The size of pool now is: 32
+got stuck 18 time
+Total time for the generation 50: 52.98692035675049
+best solution now is: 267.60897841283816
+worst solution now is: 277.48819232358284
+Time for the API calls in generation 51: 29.727907180786133
+Time for the API calls in generation 51: 28.84406590461731
+Time for the API calls in generation 51: 27.02717638015747
+The cur_0: [1, 12, 14, 2, 6, 9, 13, 11, 7, 5, 3, 15, 8, 4, 10]
+On other hand, the new_0: [1, 12, 14, 6, 2, 13, 9, 3, 15, 8, 10, 4, 5, 7, 11]
+The size of pool now is: 28
+got stuck 19 time
+Total time for the generation 51: 85.59914946556091
+best solution now is: 267.60897841283816
+worst solution now is: 277.48819232358284
+Time for the API calls in generation 52: 19.450438737869263
+Time for the API calls in generation 52: 25.91573452949524
+The cur_0: [14, 2, 6, 9, 13, 11, 7, 5, 3, 15, 8, 4, 10, 1, 12]
+On other hand, the new_0: [1, 10, 4, 15, 8, 2, 6, 9, 13, 12, 14, 7, 5, 3, 11]
+The size of pool now is: 30
+got stuck 20 time
+Self-Adaptation!
+Total time for the generation 52: 45.3661732673645
+best solution now is: 267.60897841283816
+worst solution now is: 277.48819232358284
+Time for the API calls in generation 53: 27.086402654647827
+Time for the API calls in generation 53: 17.222557544708252
+Time for the API calls in generation 53: 29.61130714416504
+The cur_0: [14, 2, 6, 9, 13, 11, 7, 5, 3, 15, 8, 4, 10, 1, 12]
+On other hand, the new_0: [14, 2, 6, 9, 13, 11, 7, 5, 3, 15, 8, 4, 1, 12, 10]
+The size of pool now is: 31
+got stuck 21 time
+Total time for the generation 53: 73.92026734352112
+best solution now is: 267.60897841283816
+worst solution now is: 277.48819232358284
+Time for the API calls in generation 54: 20.011597633361816
+Time for the API calls in generation 54: 3.4655721187591553
+Time for the API calls in generation 54: 8.869199752807617
+Time for the API calls in generation 54: 29.544727325439453
+Time for the API calls in generation 54: 29.505063772201538
+The cur_0: [12, 1, 10, 4, 8, 15, 3, 5, 7, 11, 13, 9, 6, 2, 14]
+On other hand, the new_0: 
+[1, 6, 9, 13, 12, 10, 4, 7, 11, 3, 8, 15, 2, 14, 5]
+The size of pool now is: 32
+got stuck 22 time
+Total time for the generation 54: 91.39616060256958
+best solution now is: 267.60897841283816
+worst solution now is: 277.48819232358284
+Time for the API calls in generation 55: 14.658059358596802
+Time for the API calls in generation 55: 26.80096411705017
+Time for the API calls in generation 55: 28.762815713882446
+Time for the API calls in generation 55: 27.11671757698059
+The cur_0: [12, 1, 10, 4, 8, 15, 3, 5, 7, 11, 13, 9, 6, 2, 14]
+On other hand, the new_0: [8, 15, 1, 2, 6, 9, 11, 13, 7, 3, 5, 4, 10, 12, 14]
+The size of pool now is: 32
+got stuck 23 time
+Total time for the generation 55: 97.3540530204773
+best solution now is: 267.60897841283816
+worst solution now is: 277.48819232358284
+Time for the API calls in generation 56: 20.148563146591187
+Time for the API calls in generation 56: 29.671712160110474
+Time for the API calls in generation 56: 20.198603630065918
+The cur_0: [5, 3, 15, 8, 4, 10, 1, 12, 14, 2, 6, 9, 13, 11, 7]
+On other hand, the new_0: [5, 3, 15, 8, 11, 13, 7, 4, 10, 1, 14, 2, 6, 9, 12, 5]
+The size of pool now is: 32
+got stuck 24 time
+Total time for the generation 56: 70.01983070373535
+best solution now is: 267.60897841283816
+worst solution now is: 277.3805776603523
+Time for the API calls in generation 57: 7.009327173233032
+Time for the API calls in generation 57: 23.28501582145691
+Time for the API calls in generation 57: 29.568626165390015
+The cur_0: [3, 5, 7, 11, 13, 9, 6, 2, 14, 12, 1, 10, 15, 8, 4]
+On other hand, the new_0: 
+[3, 5, 7, 11, 13, 9, 6, 14, 1, 12, 2, 4, 15, 8, 10]
+The size of pool now is: 29
+got stuck 25 time
+Total time for the generation 57: 59.86396932601929
+best solution now is: 267.60897841283816
+worst solution now is: 277.3805776603523
+Time for the API calls in generation 58: 28.924652099609375
+Time for the API calls in generation 58: 16.822684049606323
+Time for the API calls in generation 58: 19.811606645584106
+Time for the API calls in generation 58: 21.56643533706665
+The cur_0: [1, 12, 14, 2, 6, 9, 13, 11, 7, 5, 3, 4, 8, 15, 10]
+On other hand, the new_0: 
+[1, 8, 4, 15, 10, 3, 5, 7, 11, 13, 9, 6, 2, 14, 12]
+The size of pool now is: 31
+got stuck 26 time
+Total time for the generation 58: 87.12537813186646
+best solution now is: 267.60897841283816
+worst solution now is: 277.38057766035223
+Time for the API calls in generation 59: 29.698505640029907
+Time for the API calls in generation 59: 24.701826333999634
+The cur_0: [4, 8, 15, 10, 1, 12, 14, 2, 6, 9, 13, 11, 7, 5, 3]
+On other hand, the new_0: 
+[3, 10, 15, 8, 4, 12, 14, 2, 6, 1, 11, 13, 9, 5, 7]
+The size of pool now is: 32
+got stuck 27 time
+Total time for the generation 59: 54.40033197402954
+best solution now is: 267.60897841283816
+worst solution now is: 277.38057766035223
+Time for the API calls in generation 60: 24.48030734062195
+Time for the API calls in generation 60: 22.629613399505615
+The cur_0: [4, 8, 15, 10, 1, 12, 14, 2, 6, 9, 13, 11, 7, 5, 3]
+On other hand, the new_0: [3, 5, 1, 10, 6, 2, 14, 12, 11, 13, 9, 7, 15, 8, 4]
+The size of pool now is: 32
+got stuck 28 time
+Total time for the generation 60: 47.11110234260559
+best solution now is: 267.60897841283816
+worst solution now is: 277.38057766035223
+Time for the API calls in generation 61: 7.922446966171265
+Time for the API calls in generation 61: 24.43912434577942
+Time for the API calls in generation 61: 27.607853651046753
+Time for the API calls in generation 61: 6.44097113609314
+Time for the API calls in generation 61: 24.337461709976196
+The cur_0: [8, 15, 10, 1, 12, 14, 2, 6, 9, 13, 11, 7, 5, 3, 4]
+On other hand, the new_0: [15, 10, 1, 12, 14, 2, 6, 9, 11, 13, 7, 5, 3, 4, 8]
+The size of pool now is: 32
+got stuck 29 time
+Total time for the generation 61: 90.76360249519348
+best solution now is: 267.60897841283816
+worst solution now is: 277.38057766035223
+Time for the API calls in generation 62: 19.859387159347534
+Time for the API calls in generation 62: 24.381268739700317
+The cur_0: [12, 1, 10, 15, 8, 4, 3, 5, 7, 11, 13, 9, 6, 2, 14]
+On other hand, the new_0: [15, 10, 1, 12, 14, 2, 6, 5, 7, 11, 13, 9, 8, 4, 3]
+The size of pool now is: 32
+got stuck 30 time
+Self-Adaptation!
+Total time for the generation 62: 44.24065589904785
+best solution now is: 267.60897841283816
+worst solution now is: 277.38057766035223
+Time for the API calls in generation 63: 2.8984994888305664
+Time for the API calls in generation 63: 25.63375973701477
+Time for the API calls in generation 63: 20.765963077545166
+Time for the API calls in generation 63: 14.983971118927002
+The cur_0: [12, 1, 10, 15, 8, 4, 3, 5, 7, 11, 13, 9, 6, 2, 14]
+On other hand, the new_0: [12, 14, 1, 8, 4, 3, 5, 7, 11, 13, 9, 6, 2, 10, 15]
+The size of pool now is: 31
+got stuck 31 time
+Total time for the generation 63: 64.2821934223175
+best solution now is: 267.60897841283816
+worst solution now is: 276.88041276181525
+Time for the API calls in generation 64: 6.587690830230713
+Time for the API calls in generation 64: 14.923330068588257
+Time for the API calls in generation 64: 14.117887258529663
+Time for the API calls in generation 64: 3.3422226905822754
+Time for the API calls in generation 64: 14.883559703826904
+Time for the API calls in generation 64: 9.234918117523193
+Time for the API calls in generation 64: 13.3372323513031
+Time for the API calls in generation 64: 14.835989236831665
+The cur_0: [1, 12, 14, 2, 6, 9, 13, 11, 7, 5, 3, 8, 15, 4, 10]
+On other hand, the new_0: [15, 8, 10, 5, 7, 11, 13, 9, 6, 2, 14, 12, 1, 3, 4]
+The size of pool now is: 31
+got stuck 32 time
+Total time for the generation 64: 91.28717589378357
+best solution now is: 267.60897841283816
+worst solution now is: 276.88041276181525
+Time for the API calls in generation 65: 19.633164167404175
+Time for the API calls in generation 65: 15.920047760009766
+Time for the API calls in generation 65: 17.266096591949463
+Time for the API calls in generation 65: 31.310576915740967
+Time for the API calls in generation 65: 22.228428840637207
+Time for the API calls in generation 65: 13.688049793243408
+Time for the API calls in generation 65: 18.541204929351807
+Time for the API calls in generation 65: 7.073853492736816
+Time for the API calls in generation 65: 6.010081768035889
+Time for the API calls in generation 65: 20.628008604049683
+The cur_0: [1, 12, 14, 2, 6, 9, 13, 11, 7, 5, 3, 8, 15, 4, 10]
+On other hand, the new_0: [3, 1, 10, 4, 15, 8, 5, 7, 11, 13, 9, 6, 2, 14, 12]
+The size of pool now is: 29
+got stuck 33 time
+Total time for the generation 65: 172.29951286315918
+best solution now is: 267.60897841283816
+worst solution now is: 276.88041276181525
+Time for the API calls in generation 66: 19.815335273742676
+Time for the API calls in generation 66: 22.749716997146606
+Time for the API calls in generation 66: 19.826735258102417
+Time for the API calls in generation 66: 29.605904579162598
+Time for the API calls in generation 66: 19.811112642288208
+The cur_0: [3, 5, 7, 11, 13, 9, 6, 2, 14, 12, 1, 10, 4, 15, 8]
+On other hand, the new_0: [4, 3, 12, 14, 2, 6, 9, 13, 7, 11, 5, 1, 10, 8, 15]
+The size of pool now is: 32
+got stuck 34 time
+Total time for the generation 66: 111.81182980537415
+best solution now is: 267.60897841283816
+worst solution now is: 276.88041276181525
+Time for the API calls in generation 67: 24.725334882736206
+Time for the API calls in generation 67: 24.738048791885376
+The cur_0: [3, 5, 7, 11, 13, 9, 6, 2, 14, 12, 1, 10, 4, 15, 8]
+On other hand, the new_0: [4, 10, 1, 5, 7, 11, 13, 9, 6, 2, 15, 8, 3, 14, 12]
+The size of pool now is: 32
+got stuck 35 time
+Total time for the generation 67: 49.46437907218933
+best solution now is: 267.60897841283816
+worst solution now is: 276.88041276181525
+Time for the API calls in generation 68: 15.085902452468872
+Time for the API calls in generation 68: 15.220033645629883
+Time for the API calls in generation 68: 29.658929109573364
+Time for the API calls in generation 68: 30.064870357513428
+Time for the API calls in generation 68: 18.254422187805176
+Time for the API calls in generation 68: 15.454402923583984
+The cur_0: [3, 5, 7, 11, 13, 9, 6, 2, 14, 12, 1, 10, 4, 15, 8]
+On other hand, the new_0: [4, 8, 15, 10, 5, 7, 11, 13, 9, 6, 2, 14, 1, 3, 12]
+The size of pool now is: 32
+got stuck 36 time
+Total time for the generation 68: 123.7385606765747
+best solution now is: 267.60897841283816
+worst solution now is: 276.8777533318738
+Time for the API calls in generation 69: 21.074862957000732
+Time for the API calls in generation 69: 13.565334796905518
+The cur_0: [4, 3, 5, 7, 11, 13, 9, 6, 2, 14, 12, 1, 10, 8, 15]
+On other hand, the new_0: [3, 8, 15, 10, 5, 7, 11, 13, 9, 6, 2, 14, 12, 1, 4]
+The size of pool now is: 31
+got stuck 37 time
+Total time for the generation 69: 34.64126777648926
+best solution now is: 267.60897841283816
+worst solution now is: 276.8777533318738
+Time for the API calls in generation 70: 15.819769144058228
+Time for the API calls in generation 70: 13.08495283126831
+Time for the API calls in generation 70: 26.339524745941162
+Time for the API calls in generation 70: 13.342414140701294
+The cur_0: [4, 3, 5, 7, 11, 13, 9, 6, 2, 14, 12, 1, 10, 8, 15]
+On other hand, the new_0: [4, 8, 15, 10, 5, 7, 11, 13, 9, 6, 2, 14, 12, 3, 1]
+The size of pool now is: 32
+got update!
+Total time for the generation 70: 68.586660861969
+best solution now is: 257.00304969947723
+worst solution now is: 275.8357333629458
+Time for the API calls in generation 71: 26.382463216781616
+Time for the API calls in generation 71: 10.482805967330933
+The cur_0: [3, 1, 10, 15, 8, 4, 5, 7, 11, 13, 9, 6, 2, 14, 12]
+On other hand, the new_0: [6, 13, 11, 7, 5, 4, 15, 8, 10, 3, 1, 14, 2, 9, 12]
+The size of pool now is: 32
+got stuck 1 time
+Total time for the generation 71: 36.86526918411255
+best solution now is: 257.00304969947723
+worst solution now is: 275.8357333629458
+Time for the API calls in generation 72: 31.42202877998352
+Time for the API calls in generation 72: 15.287251472473145
+Time for the API calls in generation 72: 17.30227041244507
+Time for the API calls in generation 72: 21.275187015533447
+The cur_0: [3, 1, 10, 15, 8, 4, 5, 7, 11, 13, 9, 6, 2, 14, 12]
+On other hand, the new_0: [13, 9, 6, 2, 14, 8, 15, 10, 5, 7, 11, 12, 1, 3, 4]
+The size of pool now is: 32
+got stuck 2 time
+Total time for the generation 72: 85.28673768043518
+best solution now is: 257.00304969947723
+worst solution now is: 275.8357333629458
+Time for the API calls in generation 73: 24.805632829666138
+Time for the API calls in generation 73: 23.433918952941895
+The cur_0: [3, 1, 10, 15, 8, 4, 5, 7, 11, 13, 9, 6, 2, 14, 12]
+On other hand, the new_0: [1, 3, 4, 8, 15, 10, 5, 7, 11, 13, 9, 6, 2, 14, 12}
+The size of pool now is: 32
+got update!
+Total time for the generation 73: 48.23955178260803
+best solution now is: 257.0030496994772
+worst solution now is: 268.11180274131664
+Time for the API calls in generation 74: 7.1192286014556885
+Time for the API calls in generation 74: 19.729072332382202
+Time for the API calls in generation 74: 29.53104305267334
+The cur_0: [10, 5, 7, 11, 13, 9, 6, 2, 14, 12, 1, 3, 4, 8, 15]
+On other hand, the new_0: [6, 2, 9, 13, 11, 7, 5, 10, 15, 8, 4, 3, 1, 14, 12]
+The size of pool now is: 29
+got stuck 1 time
+Total time for the generation 74: 56.37990999221802
+best solution now is: 257.0030496994772
+worst solution now is: 276.88829804703005
+Time for the API calls in generation 75: 5.856445550918579
+Time for the API calls in generation 75: 20.815483570098877
+Time for the API calls in generation 75: 11.63313889503479
+Time for the API calls in generation 75: 29.609362602233887
+Time for the API calls in generation 75: 10.519683122634888
+The cur_0: [4, 8, 15, 10, 5, 7, 11, 13, 9, 6, 2, 1, 12, 14, 3]
+On other hand, the new_0: [4, 3, 10, 15, 8, 5, 1, 6, 9, 13, 11, 7, 2, 14, 12]
+The size of pool now is: 32
+got stuck 2 time
+Total time for the generation 75: 78.43535852432251
+best solution now is: 257.0030496994772
+worst solution now is: 276.88829804703005
+Time for the API calls in generation 76: 11.762789726257324
+Time for the API calls in generation 76: 26.543522119522095
+Time for the API calls in generation 76: 15.246100187301636
+The cur_0: [4, 8, 15, 10, 5, 7, 11, 13, 9, 6, 2, 1, 12, 14, 3]
+On other hand, the new_0: [8, 15, 10, 5, 7, 11, 13, 9, 6, 2, 14, 3, 1, 12, 4]
+The size of pool now is: 31
+got stuck 3 time
+Total time for the generation 76: 53.552412033081055
+best solution now is: 257.0030496994772
+worst solution now is: 276.88829804703005
+Time for the API calls in generation 77: 17.494528770446777
+Time for the API calls in generation 77: 25.02367115020752
+Time for the API calls in generation 77: 24.555442810058594
+The cur_0: [4, 8, 15, 10, 5, 7, 11, 13, 9, 6, 2, 1, 12, 14, 3]
+On other hand, the new_0: [4, 8, 15, 10, 5, 7, 11, 13, 9, 6, 2, 14, 12, 1, 3]
+The size of pool now is: 29
+got stuck 4 time
+Total time for the generation 77: 67.07469177246094
+best solution now is: 257.0030496994772
+worst solution now is: 276.88829804703005
+Time for the API calls in generation 78: 26.737074851989746
+Time for the API calls in generation 78: 13.310745239257812
+Time for the API calls in generation 78: 19.228254795074463
+Time for the API calls in generation 78: 22.591041564941406
+The cur_0: [4, 8, 15, 10, 5, 7, 11, 13, 9, 6, 2, 1, 12, 14, 3]
+On other hand, the new_0: [1, 3, 8, 15, 10, 5, 7, 11, 13, 9, 6, 2, 14, 12, 4]
+The size of pool now is: 32
+got stuck 5 time
+Total time for the generation 78: 81.86711645126343
+best solution now is: 257.0030496994772
+worst solution now is: 276.88829804703005
+Time for the API calls in generation 79: 19.922903299331665
+Time for the API calls in generation 79: 21.32461977005005
+Time for the API calls in generation 79: 8.617384433746338
+Time for the API calls in generation 79: 12.497161626815796
+The cur_0: [4, 8, 15, 10, 5, 7, 11, 13, 9, 6, 2, 1, 12, 14, 3]
+On other hand, the new_0: [4, 8, 15, 10, 3, 5, 7, 11, 1, 2, 14, 13, 9, 6, 12]
+The size of pool now is: 32
+got stuck 6 time
+Total time for the generation 79: 62.37865471839905
+best solution now is: 257.0030496994772
+worst solution now is: 268.11180274131664
+Time for the API calls in generation 80: 29.45667815208435
+Time for the API calls in generation 80: 11.133367538452148
+Time for the API calls in generation 80: 9.299886703491211
+Time for the API calls in generation 80: 21.807210683822632
+The cur_0: [10, 5, 7, 11, 13, 9, 6, 2, 14, 12, 1, 3, 4, 8, 15]
+On other hand, the new_0: [15, 8, 10, 5, 7, 11, 13, 9, 2, 6, 14, 12, 1, 3, 4]
+The size of pool now is: 32
+got stuck 7 time
+Total time for the generation 80: 71.69714307785034
+best solution now is: 257.0030496994772
+worst solution now is: 268.11180274131664
+Time for the API calls in generation 81: 16.505976915359497
+Time for the API calls in generation 81: 19.487761974334717
+The cur_0: [10, 5, 7, 11, 13, 9, 6, 2, 14, 12, 1, 3, 4, 8, 15]
+On other hand, the new_0: [10, 5, 11, 13, 9, 6, 2, 14, 4, 3, 1, 12, 8, 15, 7]
+The size of pool now is: 32
+got stuck 8 time
+Total time for the generation 81: 35.993738889694214
+best solution now is: 257.0030496994772
+worst solution now is: 268.11180274131664
+Time for the API calls in generation 82: 20.984262228012085
+Time for the API calls in generation 82: 31.11581587791443
+Time for the API calls in generation 82: 17.87319302558899
+Time for the API calls in generation 82: 8.469229936599731
+Time for the API calls in generation 82: 9.823392868041992
+Time for the API calls in generation 82: 28.862560987472534
+The cur_0: [10, 5, 7, 11, 13, 9, 6, 2, 14, 12, 1, 3, 4, 8, 15]
+On other hand, the new_0: [9, 5, 12, 11, 8, 2, 3, 4, 15, 10, 1, 13, 6, 7, 14
+The size of pool now is: 31
+got update!
+Total time for the generation 82: 117.12947297096252
+best solution now is: 256.50022537099875
+worst solution now is: 268.11180274131664
+Time for the API calls in generation 83: 29.513784885406494
+Time for the API calls in generation 83: 6.811132431030273
+Time for the API calls in generation 83: 14.235377788543701
+Time for the API calls in generation 83: 13.007702827453613
+Time for the API calls in generation 83: 24.145779848098755
+The cur_0: [15, 8, 4, 3, 1, 12, 14, 2, 6, 9, 13, 11, 7, 5, 10]
+On other hand, the new_0: [3, 4, 8, 15, 10, 5, 7, 11, 13, 9, 6, 2, 14, 12, 1, 14]
+The size of pool now is: 32
+got stuck 1 time
+Total time for the generation 83: 87.71377778053284
+best solution now is: 256.50022537099875
+worst solution now is: 268.11180274131664
+Time for the API calls in generation 84: 27.735533714294434
+Time for the API calls in generation 84: 15.536129713058472
+Time for the API calls in generation 84: 22.07289958000183
+Time for the API calls in generation 84: 5.037493705749512
+Time for the API calls in generation 84: 9.902931690216064
+Time for the API calls in generation 84: 23.72583293914795
+Time for the API calls in generation 84: 25.978203535079956
+Time for the API calls in generation 84: 3.5079550743103027
+Time for the API calls in generation 84: 17.049076795578003
+The cur_0: [15, 8, 4, 3, 1, 12, 14, 2, 6, 9, 13, 11, 7, 5, 10]
+On other hand, the new_0: [4, 1, 3, 10, 15, 8, 9, 6, 5, 2, 12, 14, 13, 11, 7]
+The size of pool now is: 32
+got stuck 2 time
+Total time for the generation 84: 150.54681396484375
+best solution now is: 256.50022537099875
+worst solution now is: 268.11180274131664
+Time for the API calls in generation 85: 11.155664443969727
+Time for the API calls in generation 85: 6.654256820678711
+Time for the API calls in generation 85: 9.174331188201904
+Time for the API calls in generation 85: 22.91676902770996
+Time for the API calls in generation 85: 29.518014907836914
+Time for the API calls in generation 85: 13.158681869506836
+The cur_0: [15, 8, 4, 3, 1, 12, 14, 2, 6, 9, 13, 11, 7, 5, 10]
+On other hand, the new_0: [2, 6, 14, 12, 1, 3, 4, 8, 15, 10, 5, 7, 9, 13, 11]
+The size of pool now is: 31
+got stuck 3 time
+Total time for the generation 85: 92.57771825790405
+best solution now is: 256.50022537099875
+worst solution now is: 268.11180274131664
+Time for the API calls in generation 86: 29.60565185546875
+Time for the API calls in generation 86: 6.419039249420166
+Time for the API calls in generation 86: 20.410432815551758
+The cur_0: [15, 8, 4, 3, 1, 12, 14, 2, 6, 9, 13, 11, 7, 5, 10]
+On other hand, the new_0: 
+[15, 2, 6, 9, 13, 11, 7, 5, 10, 3, 1, 12, 14, 4, 8]
+The size of pool now is: 32
+got stuck 4 time
+Total time for the generation 86: 56.453479051589966
+best solution now is: 256.50022537099875
+worst solution now is: 268.11180274131664
+Time for the API calls in generation 87: 21.91948390007019
+Time for the API calls in generation 87: 13.753051519393921
+Time for the API calls in generation 87: 8.963465452194214
+Time for the API calls in generation 87: 25.49096393585205
+The cur_0: [15, 8, 4, 3, 1, 12, 14, 2, 6, 9, 13, 11, 7, 5, 10]
+On other hand, the new_0: [4, 8, 15, 3, 1, 12, 14, 10, 5, 6, 2, 9, 7, 13, 11]
+The size of pool now is: 32
+got stuck 5 time
+Total time for the generation 87: 70.14265584945679
+best solution now is: 256.50022537099875
+worst solution now is: 268.11180274131664
+Time for the API calls in generation 88: 26.657073974609375
+Time for the API calls in generation 88: 9.299231767654419
+Time for the API calls in generation 88: 16.38309669494629
+Time for the API calls in generation 88: 12.939954042434692
+Time for the API calls in generation 88: 17.572584629058838
+Time for the API calls in generation 88: 8.203205823898315
+The cur_0: [3, 4, 8, 15, 10, 5, 7, 11, 13, 9, 6, 2, 14, 12, 1]
+On other hand, the new_0: 
+[3, 10, 1, 12, 14, 2, 9, 13, 5, 7, 8, 4, 15, 6, 11]
+The size of pool now is: 32
+got stuck 6 time
+Total time for the generation 88: 91.05514693260193
+best solution now is: 256.50022537099875
+worst solution now is: 268.11180274131664
+Time for the API calls in generation 89: 9.890215158462524
+Time for the API calls in generation 89: 27.526321172714233
+Time for the API calls in generation 89: 31.249120950698853
+Time for the API calls in generation 89: 18.595946550369263
+Time for the API calls in generation 89: 29.63278079032898
+The cur_0: [3, 4, 8, 15, 10, 5, 7, 11, 13, 9, 6, 2, 14, 12, 1]
+On other hand, the new_0: [7, 11, 13, 9, 6, 1, 12, 14, 2, 3, 4, 8, 15, 10, 5]
+The size of pool now is: 32
+got update!
+Total time for the generation 89: 116.91009593009949
+best solution now is: 254.43595500904038
+worst solution now is: 268.11180274131664
+Time for the API calls in generation 90: 19.415985345840454
+Time for the API calls in generation 90: 24.880547046661377
+Time for the API calls in generation 90: 22.198898553848267
+Time for the API calls in generation 90: 24.396671056747437
+Time for the API calls in generation 90: 29.69427466392517
+The cur_0: [7, 11, 13, 9, 6, 2, 14, 12, 1, 3, 4, 8, 15, 10, 5]
+On other hand, the new_0: [10, 15, 8, 4, 3, 12, 14, 2, 6, 9, 13, 11, 7, 5, 1, 7]
+The size of pool now is: 32
+got stuck 1 time
+Total time for the generation 90: 120.5863766670227
+best solution now is: 254.43595500904038
+worst solution now is: 268.11180274131664
+Time for the API calls in generation 91: 23.944870233535767
+Time for the API calls in generation 91: 17.9668025970459
+Time for the API calls in generation 91: 28.71026039123535
+Time for the API calls in generation 91: 14.177598476409912
+The cur_0: [8, 15, 10, 5, 7, 11, 13, 9, 6, 2, 14, 12, 1, 3, 4]
+On other hand, the new_0: [3, 7, 5, 15, 8, 10, 4, 1, 12, 14, 2, 6, 9, 13, 11, 7, 5, 4]
+The size of pool now is: 32
+got stuck 2 time
+Total time for the generation 91: 84.8005313873291
+best solution now is: 254.43595500904038
+worst solution now is: 268.11180274131664
+Time for the API calls in generation 92: 19.768205881118774
+Time for the API calls in generation 92: 21.66638469696045
+Time for the API calls in generation 92: 3.342773914337158
+Time for the API calls in generation 92: 12.825185060501099
+Time for the API calls in generation 92: 13.311190605163574
+Time for the API calls in generation 92: 8.934521436691284
+Time for the API calls in generation 92: 29.657792806625366
+Time for the API calls in generation 92: 13.158821105957031
+Time for the API calls in generation 92: 29.672755479812622
+The cur_0: [8, 15, 10, 5, 7, 11, 13, 9, 6, 2, 14, 12, 1, 3, 4]
+On other hand, the new_0: [3, 1, 8, 4, 15, 5, 7, 11, 13, 9, 6, 2, 10, 12, 14]
+The size of pool now is: 31
+got stuck 3 time
+Total time for the generation 92: 152.33981895446777
+best solution now is: 254.43595500904038
+worst solution now is: 268.11180274131664
+Time for the API calls in generation 93: 29.36039400100708
+Time for the API calls in generation 93: 14.623408317565918
+Time for the API calls in generation 93: 12.43356990814209
+Time for the API calls in generation 93: 10.481933832168579
+Time for the API calls in generation 93: 15.33575439453125
+Time for the API calls in generation 93: 14.85032606124878
+The cur_0: [8, 15, 10, 5, 7, 11, 13, 9, 6, 2, 14, 12, 1, 3, 4]
+On other hand, the new_0: 
+[3, 9, 11, 7, 5, 10, 15, 8, 13, 14, 2, 6, 12, 1, 4]
+The size of pool now is: 31
+got stuck 4 time
+Total time for the generation 93: 97.08634328842163
+best solution now is: 254.43595500904038
+worst solution now is: 268.11180274131664
+Time for the API calls in generation 94: 12.916330814361572
+Time for the API calls in generation 94: 12.657659530639648
+Time for the API calls in generation 94: 10.437485933303833
+Time for the API calls in generation 94: 17.809562921524048
+Time for the API calls in generation 94: 9.144679307937622
+Time for the API calls in generation 94: 29.482598304748535
+The cur_0: [4, 3, 1, 12, 14, 2, 6, 9, 13, 11, 7, 5, 10, 15, 8]
+On other hand, the new_0: [9, 13, 11, 7, 5, 4, 8, 15, 10, 3, 1, 12, 14, 2, 6]
+The size of pool now is: 32
+got stuck 5 time
+Total time for the generation 94: 92.44831681251526
+best solution now is: 254.43595500904038
+worst solution now is: 268.1118027413166
+Time for the API calls in generation 95: 17.60448408126831
+Time for the API calls in generation 95: 27.788172245025635
+Time for the API calls in generation 95: 17.39798641204834
+The cur_0: [2, 14, 12, 1, 3, 4, 8, 15, 10, 5, 7, 11, 13, 9, 6]
+On other hand, the new_0: [1, 14, 12, 2, 6, 9, 13, 11, 7, 5, 4, 8, 15, 10, 3]
+The size of pool now is: 31
+got stuck 6 time
+Total time for the generation 95: 62.792725563049316
+best solution now is: 254.43595500904038
+worst solution now is: 268.1118027413166
+Time for the API calls in generation 96: 19.807392120361328
+Time for the API calls in generation 96: 9.325500726699829
+Time for the API calls in generation 96: 19.64585518836975
+The cur_0: [2, 14, 12, 1, 3, 4, 8, 15, 10, 5, 7, 11, 13, 9, 6]
+On other hand, the new_0: [9, 13, 11, 7, 5, 15, 10, 4, 8, 3, 1, 12, 14, 2, 6]
+The size of pool now is: 27
+got stuck 7 time
+Total time for the generation 96: 48.77874803543091
+best solution now is: 254.43595500904038
+worst solution now is: 268.1118027413166
+Time for the API calls in generation 97: 17.962597131729126
+Time for the API calls in generation 97: 5.696484804153442
+Time for the API calls in generation 97: 10.174585103988647
+Time for the API calls in generation 97: 10.438214302062988
+Time for the API calls in generation 97: 20.758764266967773
+Time for the API calls in generation 97: 23.79114580154419
+The cur_0: [1, 3, 4, 8, 15, 10, 5, 7, 11, 13, 9, 6, 2, 14, 12]
+On other hand, the new_0: [3, 15, 4, 5, 11, 7, 1, 10, 8, 12, 2, 9, 6, 13, 14]
+The size of pool now is: 32
+got stuck 8 time
+Total time for the generation 97: 88.82179141044617
+best solution now is: 254.43595500904038
+worst solution now is: 268.1118027413166
+Time for the API calls in generation 98: 28.5666561126709
+Time for the API calls in generation 98: 26.797045469284058
+Time for the API calls in generation 98: 29.509605169296265
+Time for the API calls in generation 98: 19.9492244720459
+The cur_0: [1, 3, 4, 8, 15, 10, 5, 7, 11, 13, 9, 6, 2, 14, 12]
+On other hand, the new_0: 
+[8, 4, 5, 7, 11, 1, 13, 9, 6, 2, 14, 3, 10, 15, 12]
+The size of pool now is: 32
+got stuck 9 time
+Total time for the generation 98: 104.82253122329712
+best solution now is: 254.43595500904038
+worst solution now is: 268.1118027413166
+Time for the API calls in generation 99: 17.369987726211548
+Time for the API calls in generation 99: 4.604689121246338
+Time for the API calls in generation 99: 9.983824253082275
+Time for the API calls in generation 99: 15.454603910446167
+The cur_0: [12, 1, 3, 4, 8, 15, 10, 5, 7, 11, 13, 9, 6, 2, 14]
+On other hand, the new_0: [4, 15, 8, 10, 3, 1, 12, 6, 2, 5, 13, 9, 7, 11, 14]
+The size of pool now is: 32
+got stuck 10 time
+Self-Adaptation!
+Total time for the generation 99: 47.41310501098633
+best solution now is: 254.43595500904038
+worst solution now is: 268.1118027413166
+Time for the API calls in generation 100: 30.991265773773193
+Time for the API calls in generation 100: 31.58241558074951
+Time for the API calls in generation 100: 31.57809829711914
