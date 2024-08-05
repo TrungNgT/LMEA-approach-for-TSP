@@ -4,6 +4,27 @@ import random
 
 import math
 
+e = 2.71828
+
+thres_hold = math.log(5) / math.log(e)
+
+popu = []
+
+pop_si = 40
+
+n_n = 14
+
+while(len(popu) < pop_si/5) :
+    permutation =  list(random.sample(range(1, n_n + 1), n_n))
+    popu.append(permutation)
+
+popu.extend(popu)
+popu.extend(popu)
+popu.extend(popu)
+popu.extend(popu)
+
+'''
+
 population = []
 
 pop_size = 40
@@ -86,3 +107,44 @@ for j in not_valid_indx:
     for t in range(8):
         new_list.append(population[t][j])
     print(new_list)
+
+'''
+
+def pr(i: int, c:int, pop_size: int, population: list) :
+    na = 0
+    for j in range(pop_size):
+        if (population[j][i] == c):
+            na += 1
+    
+    return (na / pop_size)
+
+def entropy_measuring(population: list, pop_size: int, n: int, a: int, exp_thsh: int):
+    thres_hold = math.log(exp_thsh) / math.log(e)
+    count = 0
+    index_list = []
+    
+    for i in range(n) :
+        H = 0
+        for c in range(1, n+1):
+            prob = pr(i, c, pop_size, population)
+        
+            if prob != 0.0:
+                H += prob * (math.log(prob) / math.log(e))
+
+        H = -H
+
+        if (H <= thres_hold):
+            count += 1
+            index_list.append(i)
+        else:
+            print(f"Vi tri khong thoa {i} khi so sanh voi entropy <= ln(?) co H = {H}")
+    
+    print(f"count = {count}")
+        
+    
+    if count >= n/a:
+        return "too_low"
+    else:
+        return "good"
+
+print(entropy_measuring(population=popu, pop_size=pop_si, n=14, a=2, exp_thsh=7))

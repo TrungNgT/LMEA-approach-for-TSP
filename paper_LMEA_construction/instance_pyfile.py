@@ -3,9 +3,9 @@
 # 
 
 # %%
-n = 14      #number of cities
+n = 15      #number of cities
 N = 16      #population 
-G = 100     #number of generations
+G = 50     #number of generations
 
 check_var = 0       # variable for checking local stuck
 
@@ -141,7 +141,6 @@ for i in range(n+1):
     for j in range(n+1):
         sub_grp.append(distance(graph[i], graph[j]))
     ed_graph.append(sub_grp)
-
 # %% [markdown]
 # # Test space
 # 

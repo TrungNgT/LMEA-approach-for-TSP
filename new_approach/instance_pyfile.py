@@ -3,15 +3,15 @@
 # 
 
 # %%
-n = 14      #number of cities
+n = 15      #number of cities
 N = 40      #population 
-G = 100     #number of generations
+G = 150     #number of generations
 
 check_var = 0       # variable for checking local stuck
 
 # %%
-demension_index = 3
-start_index = 8
+demension_index = 2
+start_index = 5
 graph = []
 
 # %% [markdown]
@@ -50,7 +50,7 @@ def compIndiv(indiv: Individual) :
 # 3. Bắt đầu đọc từ file dữ liệu .txt để đưa ra danh sách (graph) các điểm
 
 # %%
-with open('C:/Users/MSI/Project2_practices/dataset/burma14.txt', 'r') as file:
+with open('C:/Users/MSI/Project2_practices/dataset/rue_15_3.tsp', 'r') as file:
     lines = file.readlines()
 
     demension_line = lines[demension_index]
@@ -139,7 +139,7 @@ for i in range(n+1):
     sub_grp = []
 
     for j in range(n+1):
-        sub_grp.append(GeoDistance(graph[i], graph[j]))
+        sub_grp.append(distance(graph[i], graph[j]))
     ed_graph.append(sub_grp)
 
 # %% [markdown]
